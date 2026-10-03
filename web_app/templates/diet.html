@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Diet Recommender</title>
+</head>
+
+<body>
+
+<h1>Diet Recommendation</h1>
+
+{% if error %}
+<p style="color: red;">{{ error }}</p>
+{% endif %}
+
+<form method="POST">
+
+<label>Age</label>
+<input type="number" name="age" required>
+<br><br>
+
+<label>Height (cm)</label>
+<input type="number" name="height" required>
+<br><br>
+
+<label>Weight (kg)</label>
+<input type="number" name="weight" required>
+<br><br>
+
+<label>Gender</label>
+<select name="gender">
+<option value="male">Male</option>
+<option value="female">Female</option>
+</select>
+
+<br><br>
+
+<label>Activity Level</label>
+<select name="activity">
+<option value="sedentary">Sedentary</option>
+<option value="light">Light Exercise</option>
+<option value="moderate">Moderate Exercise</option>
+<option value="active">Very Active</option>
+</select>
+
+<br><br>
+
+<label>Goal</label>
+<select name="goal">
+<option value="loss">Lose Weight</option>
+<option value="maintain">Maintain Weight</option>
+<option value="gain">Gain Weight</option>
+</select>
+
+<br><br>
+
+<button type="submit">Get Recommendation</button>
+
+</form>
+
+
+<!-- ⭐ RESULT DISPLAY GOES HERE -->
+
+{% if result %}
+
+<h3>{{ result }}</h3>
+
+{% endif %}
+
+{% if diet_plan %}
+
+<h3>Recommended Diet Plan</h3>
+
+<pre>{{ diet_plan }}</pre>
+
+{% endif %}
+
+
+<br>
+<a href="/">Back to Home</a>
+
+</body>
+</html>

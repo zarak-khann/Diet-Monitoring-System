@@ -1,0 +1,2396 @@
+food,Caloric Value,Fat,Saturated Fats,Carbohydrates,Sugars,Protein,Dietary Fiber,Sodium,category
+eggnog,224,10.6,6.6,20.4,20.4,11.6,0.0,0.1,Junk
+beer light,96,0.0,0.0,5.4,0.3,0.8,0.0,0.095,Moderate
+beer budweiser,12,0.0,0.0,0.9,0.0,0.1,0.0,0.095,Moderate
+weizenbier erdinger,220,18.0,13.0,0.0,0.0,0.0,0.0,0.0,Junk
+beer light budweiser,9,0.0,0.0,0.4,0.0,0.066,0.0,0.016,Moderate
+beer,142,0.0,0.0,11.7,0.0,1.5,0.0,0.067,Moderate
+root beer,202,0.0,0.0,52.3,52.3,0.0,0.0,0.068,Junk
+whiskey sour mix,26,0.072,0.069,6.3,6.3,0.051,0.0,0.073,Moderate
+whiskey sour,158,0.0,0.018,13.9,0.0,0.0,0.0,0.067,Moderate
+tequila sunrise,232,0.2,0.0,23.8,0.0,0.6,0.0,0.1,Moderate
+daiquiri,112,0.036,0.063,4.2,3.3,0.035,0.001,0.008,Moderate
+pina colada,245,2.7,2.3,32.0,31.5,0.6,0.4,0.089,Junk
+whiskey,58,0.0,0.0,0.1,0.078,0.0,0.0,0.0,Moderate
+rum,49,0.0,0.0,0.0,0.0,0.0,0.0,0.053,Moderate
+vodka smirnoff,13,0.4,0.013,2.0,0.082,0.0,0.0,0.0,Moderate
+coffee liqueur,96,0.038,0.096,13.8,13.7,0.041,0.0,0.093,Moderate
+gin,53,0.0,0.0,0.0,0.0,0.0,0.0,0.029,Moderate
+dessert wine sweet,165,0.0,0.0,14.1,8.0,0.2,0.0,0.047,Moderate
+chenin blanc white wine,118,0.0,0.0,4.9,0.0,0.1,0.0,0.0,Moderate
+gamay red wine,115,0.0,0.0,3.5,0.0,0.1,14.4,0.0,Healthy
+late harvest white wine,172,0.0,0.0,20.6,0.0,0.1,13.1,0.0,Healthy
+gewurztraminer white wine,119,0.0,0.0,3.8,0.0,0.1,0.0,0.0,Moderate
+burgundy red wine,172,0.0,0.0,7.4,0.0,0.1,0.0,0.0,Moderate
+zinfandel red wine,129,0.0,0.0,4.2,0.0,0.1,0.0,0.0,Moderate
+muller thurgau white wine,112,0.0,0.0,5.2,0.0,0.1,13.3,0.0,Healthy
+mouvedre red wine,129,0.0,0.0,3.9,0.0,0.1,16.5,0.0,Healthy
+table wine,123,0.0,0.0,4.0,1.2,0.1,0.0,0.087,Moderate
+wine light,73,0.0,0.0,1.7,1.7,0.1,0.0,0.046,Moderate
+white wine,121,0.0,0.0,3.8,1.4,0.1,0.0,0.098,Moderate
+petite sirah red wine,125,0.0,0.0,3.9,0.0,0.1,15.7,0.0,Healthy
+non alcoholic wine,2,0.0,0.0,0.3,0.3,0.1,0.0,0.095,Moderate
+pinot noir red wine,121,0.0,0.0,3.4,0.0,0.1,0.0,0.0,Moderate
+pinot gris grigio white wine,122,0.0,0.0,3.0,0.0,0.1,0.0,0.0,Moderate
+riesling white wine,118,0.0,0.0,5.5,0.0,0.1,0.0,0.0,Moderate
+barbera red wine,170,0.0,0.0,5.6,0.0,0.1,0.0,0.0,Moderate
+lemberger red wine,118,0.0,0.0,3.6,0.0,0.1,15.0,0.0,Healthy
+merlot red wine,122,0.0,0.0,3.7,0.9,0.1,0.0,0.011,Moderate
+sangiovese red wine,126,0.0,0.0,3.9,0.0,0.1,0.0,0.0,Moderate
+sauvignon blanc white wine,119,0.0,0.0,3.0,0.0,0.1,0.0,0.0,Moderate
+syrah red wine,122,0.0,0.0,3.8,0.0,0.1,0.0,0.0,Moderate
+carignane red wine,370,0.0,0.0,12.0,0.0,0.4,0.0,0.0,Moderate
+pinot blanc white wine,119,0.0,0.0,2.9,0.0,0.1,0.0,0.0,Moderate
+semillon white wine,121,0.0,0.0,4.6,0.0,0.1,14.9,0.0,Healthy
+dessert wine dry,760,0.0,0.0,58.4,5.5,1.0,76.5,0.0,Healthy
+red wine,125,0.0,0.0,3.8,0.9,0.1,0.0,0.027,Moderate
+cabernet sauvignon red wine,166,0.0,0.0,5.2,0.0,0.1,0.0,0.0,Moderate
+muscat white wine,123,0.0,0.0,7.8,0.0,0.1,0.0,0.0,Moderate
+cooking wine,2,0.0,0.0,0.3,0.09,0.028,0.0,0.002,Moderate
+chardonnay white wine,168,0.0,0.0,4.3,1.9,0.1,0.0,0.027,Moderate
+claret red wine,122,0.0,0.0,4.4,0.0,0.1,15.0,0.0,Healthy
+rice sake,197,0.0,0.0,7.4,0.0,0.7,0.0,0.046,Moderate
+fume blanc white wine,121,0.0,0.0,3.3,0.0,0.1,15.4,0.0,Healthy
+cabarnet franc red wine,122,0.0,0.0,3.6,0.0,0.1,0.0,0.0,Moderate
+chocolate frosting,81,3.6,1.1,13.0,11.8,0.2,0.2,0.025,Moderate
+white sugar,19,0.0,0.0,5.0,4.9,0.0,0.0,0.012,Moderate
+egg substitute,115,0.0,0.0,4.8,4.8,24.0,0.0,0.5,Moderate
+agave syrup,21,0.081,0.0,5.3,4.7,0.025,0.01,0.09,Moderate
+splenda sweetener,336,0.0,0.0,91.2,80.3,0.0,0.0,0.0,Junk
+vanilla extract,12,0.069,0.003,0.5,0.5,0.0,0.0,0.061,Moderate
+egg yolk dried,27,2.3,0.7,0.054,0.002,1.3,0.0,0.071,Moderate
+granulated sugar,16,0.0,0.0,4.2,4.2,0.0,0.0,0.019,Moderate
+baking chocolate,145,15.2,9.4,8.7,0.3,3.7,4.8,0.049,Junk
+bakers yeast,18,0.3,0.089,3.1,0.0,1.4,1.4,0.066,Moderate
+fondant,106,0.009,0.0,26.4,25.2,0.0,0.0,0.022,Junk
+brown sugar,16,0.0,0.0,4.1,4.1,0.024,0.0,0.094,Moderate
+white frosting dry,768,0.0,0.0,196.4,0.0,4.8,0.0,0.5,Moderate
+maple sugar,42,0.061,0.076,10.9,10.2,0.036,0.0,0.031,Moderate
+fructose sweetener,15,0.0,0.0,4.2,3.9,0.0,0.0,0.013,Moderate
+saccharin sweetener,360,0.0,0.0,89.1,85.2,0.9,0.0,0.4,Junk
+egg white raw,17,0.063,0.0,0.2,0.2,3.6,0.0,0.038,Moderate
+turbinado sugar,18,0.0,0.0,4.6,4.6,0.0,0.0,0.008,Moderate
+vanilla frosting,1931,75.0,13.7,313.7,291.5,0.0,0.0,0.9,Junk
+aspartame sweetener,365,0.0,0.0,89.1,80.7,2.2,0.0,0.0,Junk
+egg raw,80,5.3,1.8,0.4,0.2,7.0,0.0,0.08,Moderate
+pineapple topping,860,0.3,0.066,225.8,71.4,0.3,1.4,0.1,Junk
+egg white dried,26,0.087,0.0,0.3,0.0,5.8,0.0,0.052,Moderate
+egg yolk raw,55,4.5,1.6,0.6,0.08,2.7,0.0,0.006,Moderate
+baking soda,0,0.0,0.0,0.0,0.0,0.0,0.0,1.3,Moderate
+egg dried,30,2.2,0.7,0.047,0.05,2.4,0.0,0.06,Moderate
+strawberry topping,53,0.096,0.071,13.9,5.7,0.014,0.1,0.099,Moderate
+bakers yeast dry,13,0.3,0.078,1.6,0.0,1.6,1.1,0.081,Moderate
+almond paste,1040,63.0,6.0,108.5,82.3,20.4,10.9,0.051,Junk
+cream of tartar,8,0.0,0.0,1.8,0.0,0.0,0.01,0.009,Moderate
+popover dry mix,631,7.3,1.7,120.7,0.0,17.7,0.0,1.5,Moderate
+egg substitute powder,126,3.7,1.1,6.2,6.2,15.7,0.0,0.2,Moderate
+gelatin powder,17,0.086,0.09,0.0,0.0,4.3,0.0,0.029,Moderate
+tapioca pearls,544,0.093,0.075,134.8,5.1,0.3,1.4,0.077,Moderate
+baking powder,2,0.0,0.0,1.3,0.0,0.0,0.03,0.5,Moderate
+egg boiled,93,6.4,2.0,0.7,0.7,7.5,0.0,0.042,Moderate
+millet flour,444,5.1,0.6,86.9,2.0,12.8,4.2,0.056,Moderate
+triticale flour,439,2.4,0.4,95.1,0.0,17.1,19.0,0.096,Healthy
+corn flour white,414,4.2,0.6,87.3,1.8,9.6,7.3,0.036,Healthy
+rice flour brown,574,4.4,0.9,120.8,1.3,11.4,7.3,0.039,Healthy
+sorghum flour,437,4.0,0.6,93.7,2.3,9.5,8.0,0.023,Healthy
+cornmeal whole grain,442,4.4,0.6,93.8,0.8,9.9,8.9,0.022,Healthy
+cornmeal white,581,2.7,0.3,124.7,2.5,11.2,6.1,0.094,Healthy
+barley flour,511,2.4,0.5,110.3,1.2,15.5,14.9,0.062,Healthy
+safflower seed meal,97,0.7,0.029,13.8,0.0,10.1,0.0,0.006,Moderate
+sesame flour,658,46.4,6.5,33.3,0.0,38.5,0.0,0.041,Junk
+whole grain wheat flour,408,3.0,0.5,86.4,0.5,15.9,12.8,0.027,Healthy
+corn flour yellow,422,4.5,0.6,89.9,0.7,8.1,8.5,0.04,Healthy
+corn flour whole grain,422,4.5,0.6,89.9,0.7,8.1,8.5,0.033,Healthy
+cottonseed flour low fat,94,0.4,0.082,10.2,0.0,14.1,0.0,0.022,Moderate
+sunflower seed flour,13,0.013,0.036,1.4,0.0,1.9,0.2,0.073,Moderate
+sesame meal,160,13.6,1.9,7.4,0.0,4.8,0.0,0.073,Moderate
+acorn flour,626,37.7,4.9,68.3,0.0,9.4,0.0,0.0,Moderate
+rice flour white,578,2.2,0.6,126.6,0.2,9.4,3.8,0.0,Moderate
+sesame flour low fat,94,0.5,0.011,10.0,0.0,14.2,0.0,0.072,Moderate
+potato flour,571,0.5,0.1,133.0,5.6,11.0,9.4,0.042,Healthy
+cornmeal yellow,581,2.7,0.3,124.7,2.5,11.2,6.1,0.011,Healthy
+rye flour,364,1.4,0.2,78.2,0.9,10.0,8.2,0.061,Healthy
+arrowroot flour,457,0.1,0.019,112.8,0.0,0.4,4.4,0.002,Moderate
+chickpea flour,356,6.2,0.6,53.2,10.0,20.6,9.9,0.05,Moderate
+wheat flour,455,1.2,0.2,95.4,0.3,12.9,3.4,0.061,Moderate
+cornstarch,488,0.03,0.077,116.8,0.0,0.3,1.2,0.093,Moderate
+carob flour,13,0.061,0.041,5.3,2.9,0.3,2.4,0.033,Moderate
+buckwheat flour,402,3.7,0.8,84.7,3.1,15.1,12.0,0.033,Healthy
+pecan pie,503,27.1,4.9,63.7,0.0,6.0,0.0,0.3,Moderate
+apple pie,331,15.6,3.8,46.4,0.0,3.0,0.0,0.3,Moderate
+vanilla wafer pie crust,935,63.7,13.1,88.4,12.9,6.5,0.2,0.9,Junk
+chocolate pie crust,881,40.8,8.6,117.4,47.9,11.1,4.9,0.9,Junk
+apple strudel,195,8.0,1.5,29.2,18.3,2.3,1.6,0.02,Junk
+chocolate snack cake,200,8.0,2.4,30.2,18.9,1.8,1.6,0.2,Junk
+fruit fried pie,404,20.6,3.1,54.5,27.4,3.8,3.3,0.4,Junk
+pumpkin pie,316,14.4,4.9,40.9,0.0,7.0,0.0,0.3,Moderate
+corn cake,35,0.2,0.019,7.5,2.1,0.7,0.2,0.01,Moderate
+sponge snack cake,157,4.8,1.7,26.9,15.7,1.5,0.4,0.2,Junk
+danish pastry with nuts,280,16.4,3.8,29.7,16.8,4.6,1.3,0.2,Junk
+chocolate cream pie,301,19.2,4.9,33.3,0.0,2.6,2.0,0.1,Moderate
+angel food cake,72,0.2,0.071,16.2,0.0,1.7,0.4,0.2,Moderate
+lemon meringue pie,362,16.4,4.0,49.7,0.0,4.8,0.0,0.3,Moderate
+danish pastry with cinnamon,349,16.7,3.5,46.9,0.0,4.8,0.0,0.3,Moderate
+cinnamon coffeecake,238,13.3,3.3,26.6,0.0,3.9,1.1,0.2,Moderate
+cheesecake,257,18.0,7.9,20.4,17.4,4.4,0.3,0.4,Junk
+fruitcake,139,3.9,0.5,26.5,11.8,1.2,1.6,0.013,Moderate
+egg custard,293,12.9,6.1,31.0,31.0,14.2,0.0,0.2,Junk
+mince pie,477,17.8,4.4,79.2,46.7,4.3,4.3,0.4,Junk
+yellow cake with chocolate frosting,546,25.6,8.3,79.7,56.5,4.6,2.2,0.4,Junk
+danish pastry with fruit,335,15.9,3.3,45.1,0.0,4.8,0.0,0.3,Moderate
+white cake with coconut frosting,399,11.5,4.4,70.8,64.3,4.9,1.1,0.3,Junk
+danish pastry with cheese,353,24.6,5.1,28.7,0.0,5.8,0.0,0.3,Junk
+graham cracker pie crust,917,45.4,9.1,117.7,33.2,9.3,3.5,0.9,Junk
+blueberry pie,360,17.5,4.3,49.2,0.0,4.0,0.0,0.3,Moderate
+yellow cake with vanilla frosting,239,9.3,1.5,37.6,0.0,2.2,0.2,0.2,Moderate
+pie crust,121,8.0,2.0,10.9,0.045,1.5,0.4,0.1,Moderate
+chocolate cake with chocolate frosting,537,27.7,8.2,72.9,55.1,4.8,3.0,0.5,Junk
+cheese coffeecake,258,11.6,4.1,33.7,0.0,5.3,0.8,0.3,Moderate
+vanilla cream pie,350,18.1,5.1,41.1,16.0,6.0,0.8,0.3,Junk
+pineapple cake,367,13.9,3.4,58.1,0.0,4.0,0.9,0.4,Moderate
+peach pie,262,11.7,1.8,38.5,19.0,2.2,0.9,0.3,Junk
+fruit coffeecake,156,5.1,1.2,25.8,0.0,2.6,1.3,0.2,Moderate
+pound cake,116,6.0,3.5,14.6,0.0,1.7,0.2,0.1,Moderate
+pound cake bread,215,9.6,1.7,28.2,10.0,3.9,0.9,0.2,Moderate
+white cake,264,9.2,2.4,42.3,26.3,4.0,0.6,0.2,Junk
+coffeecake with chocolate frosting,298,9.7,2.5,48.4,0.0,4.5,1.8,0.3,Moderate
+popcorn cake,38,0.3,0.074,8.0,0.001,1.0,0.3,0.05,Moderate
+banana cream pie,3190,161.3,44.6,390.2,143.0,52.2,8.3,2.8,Junk
+baked apple pie mcdonalds,91,4.4,1.1,12.3,4.9,0.9,0.6,0.076,Moderate
+sponge cake,187,2.7,0.8,36.4,0.0,4.6,0.0,0.1,Moderate
+yellow cake,245,9.9,2.7,36.0,0.0,3.6,0.5,0.2,Moderate
+shortcake,98,4.0,1.1,13.7,0.0,1.7,0.0,0.1,Moderate
+cherry pie,486,22.0,5.4,69.3,0.0,5.0,0.0,0.3,Junk
+dutch apple pie,397,15.8,3.2,61.0,30.2,3.0,2.2,0.3,Junk
+chocolate cake,352,14.3,5.2,50.7,0.0,5.0,1.5,0.3,Junk
+marshmallow,64,0.033,0.045,16.3,11.5,0.4,0.013,0.039,Moderate
+sugar apple,72,0.2,0.009,18.2,0.0,1.6,3.4,0.045,Moderate
+toffee,67,3.9,2.5,7.8,7.6,0.1,0.0,0.044,Moderate
+vanilla fudge with nuts,123,3.9,1.1,21.1,20.1,0.8,0.3,0.075,Junk
+peanuts chocolate coated,21,1.3,0.6,2.0,1.5,0.5,0.2,0.063,Moderate
+caramel with nuts chocolate coated,66,2.9,0.7,8.5,5.8,1.3,0.6,0.041,Moderate
+gingerbread,263,12.1,3.1,36.4,0.0,2.9,0.0,0.2,Moderate
+rolo nestle,24,1.0,0.6,0.2,0.078,0.009,0.0,0.0,Moderate
+vanilla fudge,108,1.5,1.0,23.2,22.6,0.3,0.0,0.04,Junk
+halavah,328,15.1,2.9,42.3,0.0,8.7,3.2,0.1,Moderate
+praline,189,10.1,0.9,23.2,21.8,1.3,1.4,0.016,Junk
+fruit juice bar,67,0.089,0.0,15.6,13.5,0.9,0.8,0.011,Moderate
+peanut brittle,138,5.4,1.2,20.2,14.5,2.1,0.7,0.1,Moderate
+butterscotch,21,0.2,0.1,4.8,4.3,0.079,0.0,0.039,Moderate
+chocolate coffee beans,155,9.4,5.1,15.6,14.4,2.1,1.6,0.006,Junk
+nougat with almonds,56,0.2,0.2,12.9,11.7,0.5,0.5,0.061,Moderate
+carob,135,7.8,7.3,14.1,8.5,2.0,1.0,0.015,Junk
+peanut butter fudge,62,1.1,0.3,12.4,11.7,0.6,0.1,0.085,Moderate
+sugar coated almonds,17,0.6,0.016,2.4,2.2,0.4,0.013,0.021,Moderate
+chocolate coated marshmallow,118,4.7,1.3,19.0,12.5,1.1,0.6,0.002,Moderate
+raisins chocolate coated,390,14.8,10.3,68.4,62.2,4.1,3.1,0.021,Junk
+chewing gum sugarless,5,0.013,0.09,1.9,0.0,0.0,0.078,0.001,Moderate
+chewing gum,11,0.032,0.058,2.9,2.0,0.0,0.012,0.083,Moderate
+chocolate syrup,109,0.4,0.2,25.4,19.4,0.8,1.0,0.061,Junk
+chocolate fudge syrup,67,1.7,0.8,12.0,6.6,0.9,0.5,0.084,Moderate
+m ms milk chocolate mars,207,8.9,5.5,29.9,26.7,1.8,1.2,0.018,Junk
+milk chocolate with almonds,216,14.1,7.3,21.9,18.0,3.7,2.5,0.051,Junk
+chocolate fudge,70,1.8,1.1,13.0,12.4,0.4,0.3,0.032,Moderate
+milk chocolate with rice cereal,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Moderate
+m ms peanut chocolate mars,93,4.7,1.8,10.9,9.1,1.7,0.7,0.017,Moderate
+dark chocolate,165,9.7,5.7,18.0,13.8,1.5,2.2,0.013,Junk
+chocolate semisweet,806,50.4,29.8,107.4,91.6,7.1,9.9,0.042,Junk
+after eight mints nestle,36,1.0,0.7,6.7,5.6,0.1,0.2,0.025,Moderate
+milk chocolate,37,2.1,1.3,4.2,3.6,0.5,0.2,0.045,Moderate
+white chocolate,162,9.6,5.8,17.8,17.7,1.8,0.081,0.009,Junk
+chocolate,208,14.0,8.2,24.8,21.1,1.6,2.3,0.001,Junk
+twix mars,146,7.2,5.5,18.8,14.0,1.4,0.3,0.064,Junk
+kit kat nestle,62,3.3,2.2,7.6,6.5,0.7,0.2,0.022,Moderate
+snickers mars,280,13.6,5.2,35.1,28.8,4.3,1.3,0.1,Junk
+milky way mars,264,10.0,7.0,41.3,34.6,2.3,0.6,0.021,Junk
+clif bar,235,4.0,1.0,44.5,21.5,10.0,5.0,0.1,Junk
+gum drops,18,0.042,0.05,4.4,3.5,0.0,0.0,0.008,Moderate
+skittles wild berry mars,249,2.6,2.6,56.3,47.1,0.1,0.0,0.036,Junk
+skittles original mars,251,2.7,2.6,56.3,47.0,0.1,0.0,0.025,Junk
+skittles tropical mars,251,2.7,0.0,56.3,47.0,0.1,0.0,0.095,Junk
+fruit leather,52,0.4,0.025,12.0,6.9,0.029,0.0,0.0,Moderate
+taffy,60,0.5,0.3,13.7,10.3,0.087,0.0,0.028,Moderate
+eisbonbons mac iver,23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Moderate
+caramels,39,0.8,0.3,7.8,6.6,0.5,0.0,0.015,Moderate
+hard candy,24,0.067,0.0,5.9,3.8,0.0,0.0,0.021,Moderate
+jellybeans,4,0.043,0.0,1.0,0.8,0.0,0.083,0.076,Moderate
+jellies,56,0.069,0.033,14.7,10.8,0.005,0.2,0.016,Moderate
+wheat germ toasted,115,3.2,0.5,14.9,2.3,8.7,4.5,0.06,Moderate
+crispy brown rice,124,1.1,0.2,27.5,2.9,2.3,2.3,0.086,Moderate
+bran flakes asda,109,0.6,0.2,0.2,0.0,0.0,0.0,0.0,Moderate
+amaranth cooked,251,3.9,0.0,46.0,0.0,9.3,5.2,0.095,Healthy
+triticale,645,4.0,0.7,138.5,0.0,25.1,0.0,0.049,Moderate
+barley raw,42,0.1,0.041,9.3,0.094,1.2,1.9,0.016,Moderate
+bulgur dry,171,0.7,0.1,37.9,0.2,6.1,9.2,0.071,Healthy
+cottonseed kernels roasted,754,54.1,14.5,32.6,0.0,48.6,8.2,0.073,Junk
+rice bran,373,24.6,4.9,58.6,1.1,15.8,24.8,0.036,Healthy
+chaptti roti indian bread,491,2.5,2.5,0.089,68.4,7.0,0.0,0.0,Junk
+quinoa cooked,222,3.6,0.4,39.4,1.6,8.1,5.2,0.026,Healthy
+dar vida swiss original,116,3.1,0.3,0.5,0.0,0.0,0.0,0.0,Moderate
+teff cooked,255,1.6,0.0,50.0,0.0,9.8,7.1,0.053,Healthy
+couscous dry,650,1.1,0.2,134.0,0.0,22.1,8.7,0.031,Healthy
+weetabix weetabix,2078,11.5,396.1,0.0,0.0,0.0,0.0,0.0,Junk
+oat bran cooked,88,1.9,0.4,25.1,0.0,7.0,5.7,0.082,Healthy
+buckwheat cooked,155,1.0,0.2,33.5,1.5,5.7,4.5,0.053,Moderate
+millet puffed,74,0.7,0.1,16.8,0.1,2.7,0.6,0.076,Moderate
+oat bran raw,23,0.5,0.077,4.9,0.1,1.3,1.2,0.036,Moderate
+popcorn oil popped,64,4.8,0.8,5.0,0.027,0.8,0.9,0.018,Moderate
+kamut cooked,251,1.6,0.0,52.4,0.0,11.1,6.7,0.038,Healthy
+wheat bran,125,2.5,0.4,37.4,0.2,9.0,24.8,0.015,Healthy
+cheese popcorn,58,3.7,0.7,5.7,0.0,1.0,1.1,0.002,Moderate
+raisin bran crunch kelloggs,90,0.5,0.0,21.2,9.0,1.9,0.0,0.0,Moderate
+couscous cooked,176,0.3,0.091,36.5,0.2,6.0,2.2,0.054,Moderate
+multigrain cheerios general mills,4,0.005,0.0,1.0,0.2,0.038,0.1,0.0,Moderate
+bulgur cooked,151,0.4,0.053,33.8,0.2,5.6,8.2,0.049,Healthy
+popcorn air popped,31,0.4,0.011,6.2,0.086,1.0,1.2,0.016,Moderate
+teff raw,708,4.6,0.9,141.1,3.6,25.7,15.4,0.053,Healthy
+spelt cooked,246,1.6,0.0,51.3,0.0,10.7,7.6,0.041,Healthy
+millet raw,756,8.4,1.4,145.7,0.0,22.0,17.0,0.013,Healthy
+popcorn unpopped,106,1.2,0.2,20.9,0.3,3.1,3.6,0.001,Moderate
+whole wheat cooked,150,1.0,0.1,33.2,0.2,4.8,3.9,0.6,Moderate
+wheat sprouted,214,1.4,0.2,45.9,0.0,8.1,1.2,0.026,Moderate
+whole wheat dry,96,0.6,0.031,21.1,0.1,3.1,2.7,0.036,Moderate
+caramel popcorn,122,3.6,1.0,22.4,15.1,1.1,1.5,0.069,Junk
+wheat puffed,44,0.1,0.025,9.6,0.0,1.8,0.5,0.03,Moderate
+roggenmischbrot sonnenblumenkerne aldi,82,3.1,9.9,0.0,0.0,0.0,0.0,0.0,Junk
+wheat germ,112,3.0,0.5,16.1,0.0,7.2,4.1,0.037,Moderate
+microwave popcorn,465,26.3,12.7,49.8,0.3,7.3,8.7,0.6,Junk
+millet cooked,207,1.7,0.3,41.2,0.2,6.1,2.3,0.046,Moderate
+kamut raw,627,4.1,0.4,130.9,15.2,27.3,16.9,0.012,Junk
+wheat durum,651,4.7,0.9,136.6,0.0,26.3,0.0,0.032,Moderate
+sorghum,651,6.3,0.9,143.3,0.0,21.7,12.1,0.045,Healthy
+white wheat,657,3.3,0.5,145.7,0.8,21.7,23.4,0.094,Healthy
+rye,571,2.8,0.3,128.2,1.7,17.5,25.5,0.078,Healthy
+spelt raw,588,4.2,0.7,122.1,11.9,25.4,18.6,0.076,Moderate
+buckwheat raw,41,0.4,0.007,8.6,0.0,1.6,1.2,0.054,Moderate
+honey cereali general mills,104,2.0,21.2,3.0,0.0,0.0,0.0,0.0,Junk
+barley cooked,193,0.7,0.1,44.3,0.4,3.5,6.0,0.064,Healthy
+oats,39,0.7,0.1,6.6,0.0,1.7,1.1,0.074,Moderate
+amaranth raw,37,0.7,0.1,6.5,0.2,1.4,0.7,0.077,Moderate
+semolina,601,1.8,0.3,121.6,0.0,21.2,6.5,0.097,Healthy
+quinoa dry,221,3.6,0.4,38.5,0.0,8.5,4.2,0.026,Moderate
+wheat shredded,155,1.0,0.2,36.2,0.4,5.2,5.5,0.086,Healthy
+cattail,5,0.0,0.0,1.0,0.074,0.2,0.9,0.031,Moderate
+peanut granola bar,116,5.7,0.8,15.0,8.2,2.4,0.7,0.006,Moderate
+vanilla bluberry bar kind,49,1.4,8.4,0.9,0.096,0.0,0.0,0.0,Junk
+coconut granola bar,150,9.1,6.4,15.6,9.7,1.5,1.8,0.006,Junk
+almond granola bar,119,6.1,3.0,14.9,0.0,1.8,1.2,0.067,Moderate
+chocolate chip granola bar,105,3.9,2.7,17.3,0.0,1.8,1.1,0.062,Moderate
+fruit granola bar,82,0.2,0.034,18.6,13.3,1.4,1.8,0.028,Moderate
+granola bar,99,4.2,0.5,13.5,6.0,2.1,1.1,0.084,Moderate
+peanut bar,209,13.5,1.9,19.0,16.9,6.2,1.6,0.059,Junk
+milk cereal bar,103,2.7,2.3,18.0,11.5,1.6,0.1,0.087,Moderate
+almond rice bar,128,5.7,1.1,18.1,0.0,2.0,1.0,0.0,Moderate
+fruit nut squares,55,1.3,0.1,10.3,6.4,0.3,0.3,0.086,Moderate
+rice wheat cereal bar,90,2.0,0.0,16.0,7.0,2.0,0.4,0.1,Moderate
+crisped rice bar,113,3.8,1.5,20.4,0.0,1.4,0.6,0.01,Moderate
+brown rice raw,685,5.4,1.1,142.9,1.6,14.7,6.5,0.086,Healthy
+rice pilaf cooked,352,8.8,1.8,61.1,0.6,7.0,1.4,1.0,Moderate
+beef flavored rice raw,657,2.3,0.0,139.1,0.0,19.8,2.9,2.4,Moderate
+wild rice cooked,166,0.6,0.078,35.0,1.2,6.5,3.0,0.008,Moderate
+wild rice raw,571,1.7,0.2,119.8,4.0,23.6,9.9,0.051,Healthy
+congee with pork shrimp and squid plus egg,178,0.3,39.3,0.0,0.0,0.0,0.0,0.0,Junk
+white rice pasta cooked,246,5.7,1.1,43.3,0.0,5.1,5.1,1.1,Healthy
+chicken flavored rice raw,601,2.2,0.7,127.3,4.0,17.9,2.0,2.1,Moderate
+instant white rice raw,361,0.9,0.1,78.2,0.026,7.4,1.8,0.039,Moderate
+rice crisps,107,0.4,0.065,24.1,2.3,1.8,0.2,0.2,Moderate
+parboiled white rice raw,692,1.9,0.5,149.6,0.6,13.9,3.3,0.055,Moderate
+instant white rice cooked,193,0.8,0.088,41.4,0.0,3.6,1.0,0.001,Moderate
+rice pilaf raw,732,2.8,0.0,155.7,3.1,21.3,2.4,2.7,Moderate
+rice cracker cake,111,1.2,0.2,23.0,0.2,2.0,1.2,0.097,Moderate
+parboiled white rice cooked,194,0.6,0.1,41.2,0.2,4.6,1.4,0.088,Moderate
+white rice steamed,199,0.4,0.0,44.7,0.0,4.2,1.2,0.009,Moderate
+brown rice cake,35,0.3,0.062,7.3,0.047,0.7,0.4,0.024,Moderate
+glutinous white rice raw,685,1.0,0.2,151.1,0.0,12.6,5.2,0.015,Healthy
+white rice pasta raw,600,4.0,0.7,122.8,0.0,15.3,0.0,3.0,Moderate
+glutinous white rice cooked,169,0.3,0.056,36.7,0.078,3.5,1.7,0.027,Moderate
+brown rice cooked,218,1.6,0.3,45.8,0.7,4.5,3.5,0.086,Moderate
+beef flavored rice cooked,319,7.9,2.1,54.4,0.0,7.0,1.5,0.9,Moderate
+white rice cooked,205,0.4,0.1,44.5,0.015,4.3,0.6,0.077,Moderate
+chicken flavored rice cooked,317,8.0,1.7,54.8,1.5,6.2,1.6,0.9,Moderate
+white rice raw,675,1.2,0.3,147.9,0.2,13.2,2.4,0.081,Moderate
+cheese imitation,441,36.2,6.6,1.1,1.1,28.3,0.0,0.8,Junk
+cheshire cheese,110,8.7,5.5,1.4,0.0,6.6,0.0,0.2,Junk
+monterey cheese,421,34.2,21.5,0.8,0.6,27.7,0.0,0.7,Junk
+edam cheese,107,8.3,5.6,0.4,0.0,7.5,0.0,0.3,Junk
+fontina cheese,420,33.6,20.7,1.7,1.7,27.6,0.0,0.9,Junk
+monterey cheese low fat,350,24.4,15.9,0.8,0.6,31.9,0.0,0.6,Junk
+colby cheese,445,36.3,22.8,2.9,0.6,26.8,0.0,0.7,Junk
+american cheese,93,7.9,4.5,0.9,0.6,4.5,0.0,0.4,Moderate
+blue cheese,106,8.6,5.6,0.7,0.2,6.4,0.0,0.3,Junk
+nectarine,66,0.5,0.066,15.8,11.8,1.6,2.6,0.0,Moderate
+kiwifruit gold,51,0.2,0.008,12.8,10.0,0.8,1.1,0.046,Moderate
+prickly pear raw,8,0.072,0.0,1.9,0.2,0.001,1.0,0.065,Moderate
+pineapple,45,0.1,0.074,11.8,8.9,0.5,1.3,0.099,Moderate
+rowan,253,4.6,0.6,54.5,32.1,5.2,14.1,0.083,Junk
+muscadine grapes,3,0.056,0.0,0.8,0.0,0.014,0.2,0.024,Moderate
+heidelbeeren jutro,17,0.2,0.039,0.4,0.0,0.0,0.0,0.0,Moderate
+prunes stewed,316,0.7,0.085,83.2,0.0,3.4,0.0,0.039,Moderate
+tangerine,40,0.2,0.07,10.1,8.0,0.6,1.4,0.056,Moderate
+prunes,237,0.5,0.057,62.3,0.0,2.6,0.0,0.076,Moderate
+lemon peel,1,0.002,0.057,0.3,0.054,0.032,0.2,0.028,Moderate
+banana,134,0.5,0.2,34.3,18.3,1.6,3.9,0.055,Junk
+raspberries,5,0.034,0.005,1.2,0.4,0.1,0.7,0.054,Moderate
+apricot,17,0.1,0.03,3.9,3.2,0.5,0.7,0.02,Moderate
+strawberry guava,4,0.008,0.039,1.0,0.0,0.01,0.3,0.059,Moderate
+kiwifruit green,42,0.4,0.095,10.1,6.2,0.8,2.1,0.096,Moderate
+figs,37,0.2,0.068,9.6,8.1,0.4,1.5,0.049,Moderate
+clementine,35,0.1,0.0,8.9,6.8,0.6,1.3,0.044,Moderate
+orange,86,0.2,0.008,21.6,17.2,1.7,4.4,0.0,Junk
+bartlett pear,112,0.3,0.0,26.6,17.2,0.7,5.5,0.047,Junk
+red white currants,63,0.2,0.043,15.5,8.3,1.6,4.8,0.056,Moderate
+blueberries,84,0.5,0.047,21.4,14.7,1.1,3.6,0.015,Moderate
+mulberries,6,0.049,0.004,1.5,1.2,0.2,0.3,0.021,Moderate
+java plum,2,0.029,0.0,0.5,0.0,0.034,0.0,0.063,Moderate
+prune puree,46,0.02,0.038,11.7,7.0,0.4,0.6,0.036,Moderate
+applesauce,102,0.2,0.028,27.5,22.9,0.4,2.7,0.031,Junk
+blackberries raw,62,0.7,0.076,13.8,7.0,2.0,7.6,0.05,Healthy
+plum,30,0.2,0.062,7.5,6.5,0.5,0.9,0.0,Moderate
+american grapes,2,0.087,0.029,0.4,0.4,0.035,0.09,0.056,Moderate
+peach,59,0.4,0.034,14.3,12.6,1.4,2.3,0.0,Moderate
+honeydew melon,64,0.2,0.055,16.1,14.4,1.0,1.4,0.062,Moderate
+yellow plantain fried,399,12.7,3.1,68.9,36.8,2.4,5.4,0.079,Junk
+rose hips,206,0.4,0.0,48.5,3.3,2.0,30.6,0.035,Healthy
+lemons,17,0.2,0.063,5.4,1.5,0.6,1.6,0.045,Moderate
+lime,20,0.1,0.087,7.1,1.1,0.5,1.9,0.082,Moderate
+pomegranate,117,1.6,0.2,26.4,19.3,2.4,5.6,0.042,Junk
+gooseberries,66,0.9,0.001,15.3,0.0,1.3,6.5,0.074,Healthy
+asian pear,51,0.3,0.009,13.0,8.6,0.6,4.4,0.0,Moderate
+abiyuch,157,0.2,0.065,40.1,19.5,3.4,12.1,0.093,Junk
+horned melon kiwano,92,2.6,0.0,15.8,0.0,3.7,0.0,0.095,Moderate
+fruit walnut salad mcdonalds,312,13.3,1.8,43.8,32.9,4.8,0.0,0.017,Junk
+grapefruit,53,0.2,0.092,13.3,8.6,1.0,2.0,0.0,Moderate
+japanese persimmon,118,0.3,0.089,31.2,21.1,1.0,6.0,0.067,Junk
+wild raspberries,81,0.4,0.0,18.0,7.2,1.5,9.8,0.09,Healthy
+pink lady apple,18,0.1,0.0,3.9,0.0,0.1,0.0,0.0,Moderate
+maraschino cherries,8,0.083,0.06,2.1,1.9,0.06,0.2,0.072,Moderate
+black currants,71,0.5,0.019,17.2,0.0,1.6,0.0,0.075,Moderate
+plantain cooked,179,0.3,0.1,48.0,21.6,1.2,3.5,0.079,Junk
+crab apple,84,0.3,0.064,21.9,0.0,0.4,0.0,0.03,Moderate
+pom potes materne,19,0.2,0.2,0.2,0.068,0.0,0.0,0.0,Moderate
+apple,95,0.3,0.043,25.1,18.9,0.5,4.4,0.062,Junk
+cantaloupe melon,60,0.3,0.071,14.4,13.9,1.5,1.6,0.087,Moderate
+prickly pear cooked,7,0.043,0.0,1.6,0.0,0.091,0.0,0.0,Moderate
+guava,37,0.5,0.1,7.9,4.9,1.4,3.0,0.056,Moderate
+strawberries,4,0.069,0.057,0.9,0.6,0.01,0.2,0.068,Moderate
+japanese persimmon dried,93,0.2,0.0,25.0,0.0,0.5,4.9,0.002,Moderate
+watermelon,86,0.4,0.026,21.6,17.7,1.7,1.1,0.043,Junk
+elderberries,106,0.7,0.005,26.7,0.0,1.0,10.2,0.042,Healthy
+kumquat,13,0.2,0.063,3.0,1.8,0.4,1.2,0.018,Moderate
+orange peel,6,0.017,0.046,1.5,0.0,0.093,0.6,0.023,Moderate
+pokeberry shoots cooked,33,0.7,0.0,5.1,2.6,3.8,2.5,0.4,Moderate
+breadfruit,227,0.5,0.1,59.7,24.2,2.4,10.8,0.057,Junk
+pear,101,0.2,0.019,27.1,17.4,0.6,5.5,0.07,Junk
+sour cherries,52,0.3,0.069,12.5,8.7,1.0,1.6,0.071,Moderate
+plantain raw,218,0.6,0.3,57.1,31.3,2.3,3.0,0.082,Junk
+blackberries frozen,97,0.6,0.017,23.7,16.1,1.8,7.6,0.007,Junk
+cherries,5,0.056,0.053,1.3,1.0,0.068,0.2,0.0,Moderate
+plantain fried,16,0.6,0.2,2.6,0.2,0.023,0.2,0.065,Moderate
+carambola starfruit,26,0.3,0.077,5.7,3.4,0.9,2.4,0.047,Moderate
+chayote cooked,35,0.8,0.1,7.2,0.0,1.0,4.5,0.4,Moderate
+apple dippers mcdonalds,33,0.0,0.0,8.2,6.3,0.0,0.0,0.0,Moderate
+white grapefruit,78,0.2,0.072,19.8,17.3,1.6,2.6,0.0,Junk
+cherimoya,176,1.6,0.5,41.6,30.2,3.7,7.1,0.061,Junk
+melon balls,57,0.4,0.1,13.7,0.0,1.5,1.2,0.022,Moderate
+golden delicious apple,62,0.2,0.0,14.8,10.9,0.3,2.6,0.034,Moderate
+pokeberry shoots raw,37,0.6,0.0,5.9,0.0,4.2,2.7,0.05,Moderate
+cranberries,21,0.014,0.089,5.4,1.9,0.2,1.6,0.03,Moderate
+quince,52,0.012,0.049,14.1,0.0,0.4,1.7,0.081,Moderate
+chayote raw,25,0.2,0.027,6.0,2.2,1.1,2.2,0.094,Moderate
+orange with peel,100,0.5,0.036,24.6,0.0,2.1,7.2,0.028,Healthy
+chokecherries,249,2.6,0.0,51.8,14.4,4.7,30.8,0.078,Moderate
+mango,202,1.3,0.3,50.3,45.9,2.8,5.4,0.027,Junk
+wild plum,147,0.3,0.0,35.3,17.1,0.7,9.7,0.047,Junk
+jeijoa,148,1.0,0.3,37.0,19.9,1.7,15.6,0.041,Junk
+groundcherries,74,1.0,0.0,15.7,0.0,2.7,0.0,0.0,Moderate
+pesca,30,0.1,6.1,0.0,0.0,0.0,0.0,0.0,Junk
+persimmon,32,0.1,0.0,8.4,0.0,0.2,0.0,0.024,Moderate
+grapes,3,0.044,0.041,0.9,0.8,0.045,0.087,0.009,Moderate
+rambutan canned,175,0.4,0.0,44.7,0.0,1.4,1.9,0.051,Moderate
+figs canned,14,0.039,0.066,3.8,3.2,0.1,0.6,0.049,Moderate
+prunes canned,246,0.5,0.072,65.1,0.0,2.0,8.9,0.044,Healthy
+pineapples canned,28,0.05,0.079,7.4,6.8,0.2,0.4,0.06,Moderate
+prune plums canned,27,0.075,0.006,7.0,6.5,0.2,0.4,0.055,Moderate
+tangerines canned,92,0.1,0.087,23.8,22.1,1.5,1.7,0.022,Junk
+fruit cocktail canned,109,0.053,0.03,28.1,25.7,1.1,2.4,0.059,Junk
+sour cherries canned,189,0.3,0.007,48.6,0.0,1.9,2.0,0.073,Moderate
+mangosteen canned,143,1.1,0.0,35.1,0.0,0.8,3.5,0.024,Moderate
+apricot juice,117,0.07,0.008,30.1,26.2,1.5,3.9,0.024,Junk
+strawberries canned,234,0.7,0.064,59.8,55.4,1.4,4.3,0.024,Junk
+peach canned,110,0.094,0.03,28.9,25.7,1.6,3.3,0.006,Junk
+fruit salad canned,125,0.008,0.08,32.5,0.0,1.3,2.5,0.069,Moderate
+gooseberries canned,184,0.5,0.004,47.3,0.0,1.6,6.0,0.097,Healthy
+grapefruit canned,88,0.2,0.09,22.3,21.4,1.4,1.0,0.091,Junk
+pear canned,38,0.001,0.099,9.8,7.4,0.3,1.2,0.088,Moderate
+raspberries canned,233,0.3,0.081,59.8,51.4,2.1,8.4,0.013,Junk
+papaya canned,80,0.2,0.1,21.8,20.4,0.001,0.6,0.075,Junk
+grapes canned,98,0.3,0.034,25.2,23.8,1.2,1.5,0.022,Junk
+apple dried,145,0.2,0.088,39.1,34.0,0.6,5.1,0.024,Junk
+peach dried,199,0.6,0.055,50.8,43.8,3.0,7.0,0.059,Junk
+plantain chips,150,8.4,2.4,18.1,0.3,0.6,1.0,0.039,Moderate
+golden raisins,498,0.8,0.2,131.2,97.7,5.6,6.6,0.001,Junk
+raisins seeded,488,0.9,0.3,129.5,0.0,4.2,11.2,0.098,Healthy
+zante currants dried,408,0.4,0.009,106.7,96.9,5.9,9.8,0.067,Junk
+pear dried,94,0.2,0.003,25.1,22.4,0.7,2.7,0.074,Junk
+raisins,90,0.056,0.005,23.8,19.6,1.0,1.4,0.025,Junk
+prune plums dried,308,0.5,0.01,81.5,0.0,2.7,9.4,0.011,Healthy
+cranberries dried,370,1.6,0.1,98.8,78.0,0.053,6.8,0.037,Junk
+figs dried,21,0.008,0.014,5.4,4.0,0.3,0.8,0.091,Moderate
+longans dried,5,0.091,0.0,1.3,0.0,0.027,0.0,0.018,Moderate
+banana chips,147,9.5,8.2,16.5,10.0,0.7,2.2,0.099,Junk
+lychee dried,7,0.003,0.076,1.8,1.7,0.01,0.1,0.049,Moderate
+apricot dried,17,0.015,0.02,4.4,3.7,0.2,0.5,0.066,Moderate
+longan,2,0.076,0.0,0.5,0.0,0.009,0.071,0.0,Moderate
+mamey sapote,217,0.8,0.3,56.2,35.2,2.5,9.5,0.008,Junk
+waxgourd cooked,19,0.4,0.026,4.3,2.1,0.7,1.8,0.6,Moderate
+jackfruit,33,0.2,0.071,8.1,6.7,0.6,0.5,0.094,Moderate
+loquats,9,0.071,0.085,2.4,0.0,0.09,0.3,0.053,Moderate
+mammy apple mamey,431,4.2,1.2,105.8,0.0,4.2,25.4,0.1,Healthy
+nance,82,1.3,0.0,19.0,9.3,0.7,8.4,0.039,Healthy
+coconut whole coconut,3336,71.5,672.0,0.0,0.0,0.0,0.0,0.0,Junk
+prickly pear,42,0.5,0.014,9.9,0.0,0.8,3.7,0.044,Moderate
+lychee,6,0.016,0.06,1.6,1.5,0.024,0.1,0.029,Moderate
+naranjilla lulo pulp,30,0.3,0.0,7.1,4.5,0.5,1.3,0.044,Moderate
+coconut meat dried,187,18.3,16.2,6.7,2.1,1.9,4.6,0.058,Junk
+waxgourd raw,17,0.3,0.036,4.0,0.0,0.5,3.8,0.1,Moderate
+surinam cherry pitanga,2,0.059,0.0,0.5,0.0,0.045,0.0,0.1,Moderate
+passion fruit,17,0.1,0.098,4.2,2.0,0.4,1.9,0.072,Moderate
+sapodilla,141,1.9,0.3,33.9,0.0,0.7,9.0,0.08,Healthy
+pummelo,48,0.06,0.0,12.0,0.0,1.0,1.3,0.094,Moderate
+coconut meat,1405,133.0,117.9,60.5,24.7,13.2,35.7,0.022,Junk
+soursop,149,0.7,0.1,37.9,30.5,2.3,7.4,0.024,Junk
+papaya,62,0.4,0.1,15.7,11.3,0.7,2.5,0.004,Moderate
+acerola cherry,2,0.052,0.074,0.4,0.0,0.079,0.077,0.088,Moderate
+ohelo berries,39,0.3,0.0,9.6,0.0,0.5,0.0,0.068,Moderate
+loganberries,81,0.5,0.053,19.1,11.3,2.2,7.8,0.06,Moderate
+casaba melon,48,0.2,0.012,11.2,9.7,1.9,1.5,0.057,Moderate
+durian,51,1.9,0.0,9.5,0.0,0.5,1.3,0.079,Moderate
+coriander leaves raw,4,0.086,0.044,0.6,0.1,0.3,0.4,0.005,Moderate
+garden cress raw,3,0.062,0.052,0.5,0.4,0.2,0.063,0.079,Moderate
+pasilla peppers dried,24,1.1,0.0,3.6,0.0,0.9,1.9,0.063,Moderate
+parsley dried,1,0.096,0.064,0.3,0.073,0.1,0.1,0.058,Moderate
+ancho pepper dried,48,1.4,0.1,8.7,0.0,2.0,3.7,0.068,Moderate
+coriander seeds,5,0.3,0.049,1.0,0.0,0.2,0.8,0.095,Moderate
+dill weed dried,253,4.4,0.2,55.8,0.0,20.0,13.6,0.2,Healthy
+borage,19,0.6,0.2,2.7,0.0,1.6,0.0,0.023,Moderate
+epazote,0,0.06,0.0,0.094,0.0,0.059,0.051,0.021,Moderate
+chives dried,1,0.055,0.051,0.1,0.0,0.013,0.041,0.04,Moderate
+thyme fresh,1,0.068,0.07,0.2,0.0,0.091,0.1,0.017,Moderate
+butterbur,4,0.2,0.0,0.5,0.0,0.1,0.0,0.053,Moderate
+wasabi root,142,0.8,0.0,30.6,0.0,6.2,10.1,0.02,Healthy
+rosemary dried,4,0.2,0.083,0.8,0.0,0.081,0.5,0.048,Moderate
+ginger root,2,0.028,0.048,0.4,0.019,0.068,0.058,0.0,Moderate
+white pepper,7,0.0,0.002,1.6,0.0,0.2,0.6,0.075,Moderate
+cloves ground,6,0.3,0.017,1.4,0.028,0.1,0.7,0.0,Moderate
+paprika,19,0.9,0.1,3.7,0.7,1.0,2.4,0.061,Moderate
+mace ground,25,1.7,0.5,2.7,0.0,0.4,1.1,0.097,Moderate
+bay leaf,2,0.042,0.08,0.4,0.0,0.086,0.2,0.084,Moderate
+eppaw,150,1.8,0.0,31.7,0.0,4.6,0.0,0.015,Moderate
+tarragon dried,2,0.047,0.01,0.3,0.0,0.1,0.038,0.012,Moderate
+ginger ground,6,0.043,0.088,1.3,0.067,0.2,0.3,0.038,Moderate
+savory ground,4,0.029,0.085,1.0,0.0,0.074,0.6,0.055,Moderate
+black pepper,6,0.006,0.034,1.5,0.08,0.2,0.6,0.036,Moderate
+spearmint fresh,3,0.089,0.049,0.5,0.0,0.2,0.4,0.092,Moderate
+poultry seasoning,14,0.3,0.1,2.9,0.1,0.4,0.5,0.063,Moderate
+nutmeg ground,12,0.8,0.6,1.1,0.6,0.1,0.5,0.095,Moderate
+curry powder,20,0.9,0.1,3.7,0.2,0.8,2.1,0.004,Moderate
+peppermint,1,0.004,0.016,0.2,0.0,0.038,0.1,0.007,Moderate
+salt,0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,Moderate
+coriander leaves dried,2,0.098,0.099,0.3,0.045,0.1,0.095,0.018,Moderate
+sage ground,2,0.046,0.07,0.4,0.052,0.058,0.3,0.083,Moderate
+garlic powder,10,0.029,0.003,2.3,0.068,0.5,0.3,0.082,Moderate
+dill weed fresh,4,0.063,0.064,0.6,0.0,0.3,0.2,0.017,Moderate
+cardamom,6,0.1,0.065,1.4,0.0,0.2,0.6,0.013,Moderate
+saffron,2,0.092,0.047,0.5,0.0,0.071,0.002,0.063,Moderate
+allspice ground,5,0.2,0.034,1.4,0.0,0.1,0.4,0.001,Moderate
+parsley fresh,1,0.078,0.016,0.2,0.001,0.1,0.1,0.056,Moderate
+oregano dried,265,4.3,1.6,68.9,4.1,9.0,42.5,0.009,Healthy
+marjoram dried,5,0.1,0.056,1.0,0.077,0.2,0.7,0.004,Moderate
+chives raw,1,0.088,0.083,0.1,0.02,0.03,0.044,0.099,Moderate
+fireweed leaves,24,0.6,0.0,4.4,0.0,1.1,2.4,0.035,Moderate
+rosemary fresh,1,0.1,0.016,0.1,0.0,0.005,0.012,0.039,Moderate
+garlic,4,0.026,0.033,0.9,0.043,0.2,0.064,0.018,Moderate
+cinnamon ground,6,0.044,0.074,2.1,0.066,0.1,1.4,0.022,Moderate
+chervil dried,5,0.002,0.066,0.9,0.0,0.4,0.2,0.076,Moderate
+cayenne pepper,1,0.094,0.043,0.2,0.089,0.039,0.052,0.059,Moderate
+turmeric ground,8,0.2,0.093,1.4,0.062,0.2,0.5,0.064,Moderate
+mustard,3,0.2,0.021,0.3,0.048,0.2,0.2,0.015,Moderate
+chili powder,8,0.4,0.061,1.3,0.2,0.4,0.9,0.014,Moderate
+thyme dried,276,7.4,2.7,63.9,1.7,9.1,37.0,0.016,Healthy
+spearmint dried,1,0.018,0.09,0.3,0.0,0.094,0.1,0.012,Moderate
+basil dried,2,0.027,0.02,0.3,0.054,0.2,0.3,0.089,Moderate
+dandelion greens cooked,35,0.6,0.0,6.7,1.7,2.1,3.0,0.3,Moderate
+basil fresh,2,0.089,0.069,0.2,0.064,0.2,0.1,0.058,Moderate
+dock,29,0.9,0.0,4.3,0.0,2.7,3.9,0.025,Moderate
+garden cress cooked,31,0.8,0.001,5.1,4.2,2.6,0.9,0.3,Moderate
+onion powder,8,0.024,0.068,1.9,0.2,0.2,0.4,0.048,Moderate
+dandelion greens raw,25,0.4,0.012,5.1,0.4,1.5,1.9,0.043,Moderate
+yokan,36,0.022,0.064,8.5,0.0,0.5,0.0,0.05,Moderate
+fava beans cooked,187,0.7,0.1,33.4,3.1,12.9,9.2,0.081,Healthy
+french beans raw,631,3.7,0.4,118.0,0.0,34.6,46.4,0.069,Healthy
+chickpeas canned,352,7.0,0.5,57.0,0.0,17.8,0.0,0.6,Moderate
+yellow beans cooked,255,1.9,0.5,44.7,0.0,16.2,18.4,0.086,Healthy
+mung beans cooked,212,0.8,0.2,38.7,4.0,14.2,15.4,0.083,Healthy
+white beans canned,299,0.8,0.2,55.5,0.8,19.0,12.6,0.079,Healthy
+pink beans cooked,252,0.8,0.2,47.2,0.6,15.3,9.0,0.075,Healthy
+pink beans raw,720,2.4,0.6,134.8,4.5,44.0,26.7,0.057,Healthy
+navy beans raw,701,3.1,0.4,126.4,8.1,46.4,50.8,0.059,Healthy
+snap beans cooked,44,0.4,0.005,9.9,1.9,2.4,4.0,0.086,Moderate
+black eyed cowpeas raw,131,0.5,0.1,27.3,4.4,4.3,7.3,0.048,Healthy
+edamame cooked,189,8.1,1.0,13.8,3.4,18.5,8.1,0.034,Healthy
+black eyed cowpeas cooked,160,0.6,0.2,33.5,5.3,5.2,8.3,0.036,Healthy
+hyacinth beans cooked,227,1.1,0.2,40.2,0.0,15.8,0.0,0.0,Moderate
+cowpeas canned,185,1.3,0.3,32.7,0.0,11.4,7.9,0.7,Healthy
+pinto beans cooked,245,1.1,0.2,44.8,0.6,15.4,15.4,0.085,Healthy
+winged beans cooked,253,10.0,1.4,25.7,0.0,18.3,0.0,0.4,Moderate
+pinto beans raw,670,2.4,0.5,120.7,4.1,41.3,29.9,0.036,Healthy
+black turtle beans raw,624,1.7,0.4,116.4,3.9,39.1,28.5,0.041,Healthy
+fava beans raw,512,2.3,0.4,87.4,8.6,39.2,37.5,0.1,Healthy
+lima beans canned,190,0.4,0.095,35.9,0.0,11.9,11.6,0.8,Healthy
+hyacinth beans raw,722,3.5,0.6,127.6,0.0,50.2,53.8,0.073,Healthy
+white beans raw,673,1.7,0.4,121.7,4.3,47.2,30.7,0.051,Healthy
+snap beans canned,66,0.4,0.1,15.4,0.0,3.5,6.6,0.09,Healthy
+navy beans canned,296,1.1,0.3,53.6,0.7,19.7,13.4,1.2,Healthy
+mung beans raw,718,2.4,0.7,129.6,13.7,49.4,33.7,0.085,Moderate
+adzuki beans raw,648,1.0,0.4,123.9,0.0,39.1,25.0,0.06,Healthy
+black turtle beans cooked,241,0.6,0.2,45.0,0.6,15.1,15.4,0.06,Healthy
+pink lentils raw,662,4.2,0.7,113.6,0.0,47.9,20.7,0.092,Healthy
+yellow beans raw,676,5.1,1.3,119.0,0.0,43.1,49.2,0.046,Healthy
+white beans cooked,249,0.6,0.2,44.9,0.6,17.4,11.3,0.045,Healthy
+lentils raw,678,2.0,0.3,115.4,3.9,49.5,58.6,0.039,Healthy
+cranberry beans cooked,241,0.8,0.2,43.3,0.0,16.5,17.7,0.4,Healthy
+chickpeas raw,728,12.1,1.3,121.3,21.4,38.6,34.8,0.005,Junk
+lentils cooked,230,0.8,0.1,39.9,3.6,17.9,15.6,0.016,Healthy
+baked beans canned,239,0.9,0.2,53.7,20.2,12.1,10.4,0.9,Junk
+cranberry beans canned,216,0.7,0.2,39.3,0.0,14.4,16.4,0.9,Healthy
+black beans cooked,227,0.9,0.2,40.8,0.0,15.2,15.0,0.008,Healthy
+lima beans cooked,216,0.7,0.2,39.3,5.5,14.7,13.2,0.012,Healthy
+mungo beans raw,706,3.4,0.2,122.1,0.0,52.2,37.9,0.004,Healthy
+pigeon peas raw,703,3.1,0.7,128.7,0.0,44.5,30.8,0.04,Healthy
+fava beans canned,182,0.6,0.092,31.8,0.0,14.0,9.5,1.2,Healthy
+yellow snap beans raw,31,0.1,0.097,7.1,0.0,1.8,3.4,0.085,Moderate
+snap beans raw,31,0.2,0.051,7.0,3.3,1.8,2.7,0.025,Moderate
+yellow snap beans canned,36,0.2,0.076,8.4,0.0,1.9,3.6,0.6,Moderate
+pigeon peas cooked,203,0.6,0.1,39.1,0.0,11.4,11.3,0.036,Healthy
+catjang cowpeas raw,573,3.5,0.9,99.6,0.0,39.8,17.9,0.07,Healthy
+navy beans cooked,255,1.1,0.2,47.4,0.7,15.0,19.1,0.4,Healthy
+mothbeans raw,672,3.2,0.7,120.6,0.0,45.0,0.0,0.001,Moderate
+cowpeas cooked,81,0.4,0.037,14.5,2.3,5.4,4.6,0.037,Moderate
+mothbeans cooked,207,1.0,0.2,37.1,0.0,13.8,0.0,0.086,Moderate
+french beans cooked,228,1.3,0.1,42.5,0.0,12.5,16.6,0.003,Healthy
+lima beans raw,602,1.2,0.3,112.8,15.1,38.2,33.8,0.078,Junk
+winged beans raw,744,29.7,4.2,75.9,0.0,54.0,47.1,0.09,Healthy
+adzuki beans cooked,294,0.2,0.067,57.0,0.0,17.3,16.8,0.079,Healthy
+black beans raw,662,2.8,0.7,121.0,4.1,41.9,30.1,0.065,Healthy
+catjang cowpeas cooked,200,1.2,0.3,34.7,0.0,13.9,6.2,0.021,Healthy
+baby lima beans cooked,189,0.5,0.1,35.0,2.5,12.0,10.8,0.064,Healthy
+cowpeas raw,41,0.3,0.082,8.9,4.7,3.1,3.1,0.026,Moderate
+shellie beans canned,74,0.5,0.034,15.2,1.5,4.3,8.3,0.8,Healthy
+yardlong beans raw,579,2.2,0.6,103.4,0.0,40.6,18.4,0.057,Healthy
+pinto beans canned,197,1.3,0.3,36.4,2.4,11.0,11.0,0.6,Healthy
+chickpeas cooked,269,4.2,0.4,45.0,7.9,14.5,12.5,0.08,Healthy
+cranberry beans raw,653,2.4,0.6,117.1,0.0,44.9,48.2,0.014,Healthy
+mungo beans cooked,189,1.0,0.065,33.0,3.6,13.6,11.5,0.083,Healthy
+tamarinds,5,0.013,0.023,1.3,0.8,0.057,0.1,0.007,Moderate
+yellow snap beans cooked,44,0.4,0.037,9.9,4.5,2.4,4.1,0.096,Moderate
+yardlong beans cooked,202,0.8,0.2,36.1,0.0,14.2,6.5,0.059,Healthy
+bacon beef steak,146,12.5,4.5,0.2,0.2,8.2,0.0,0.4,Moderate
+lamb foreshank raw,912,60.7,26.4,0.0,0.0,85.8,0.0,0.3,Junk
+bacon,106,10.2,0.0,0.2,0.2,3.3,0.0,0.1,Moderate
+lamb rib cooked,915,76.0,32.6,0.0,0.0,53.9,0.0,0.2,Junk
+lamb shank raw,912,61.2,26.3,0.0,0.0,84.3,0.0,0.3,Junk
+scrapple,60,3.9,1.3,4.0,0.063,2.3,0.052,0.1,Moderate
+chicken nuggets,61,4.1,0.7,3.0,0.039,3.2,0.2,0.1,Moderate
+ground lamb cooked,886,61.5,25.4,0.0,0.0,77.5,0.0,0.3,Junk
+lamb meat cooked,678,45.0,18.6,0.0,0.0,63.8,0.0,0.2,Junk
+meat extender,275,2.6,0.4,33.7,0.0,33.5,15.4,0.041,Healthy
+lamb leg raw,1043,77.4,33.7,0.0,0.0,81.2,0.0,0.3,Junk
+lamb loin cooked,202,14.8,6.3,0.0,0.0,16.1,0.0,0.089,Junk
+chicken patty,172,11.7,2.2,7.7,0.0,8.9,0.2,0.3,Moderate
+lamb shank roasted,605,33.5,13.7,0.0,0.0,71.0,0.0,0.2,Junk
+barbecue loaf,40,2.0,0.7,1.5,0.0,3.6,0.0,0.3,Moderate
+lamb sirloin cooked,765,54.2,22.9,0.0,0.0,64.5,0.0,0.2,Junk
+poultry salad,26,1.8,0.4,1.0,0.0,1.5,0.0,0.079,Moderate
+ground lamb raw,80,6.6,2.9,0.0,0.0,4.7,0.0,0.05,Moderate
+lamb loin raw,88,7.5,3.3,0.0,0.0,4.6,0.0,0.003,Moderate
+lamb sirloin raw,1234,100.3,44.1,0.0,0.0,76.8,0.0,0.3,Junk
+sausage patty mcdonalds,115,11.2,3.6,0.4,0.1,4.3,0.0,0.2,Moderate
+lamb foreshank cooked,360,19.9,8.3,0.0,0.0,42.0,0.0,0.1,Junk
+ham salad,97,7.0,2.3,4.8,0.0,3.9,0.0,0.5,Moderate
+lamb rib raw,1687,156.0,68.8,0.0,0.0,65.9,0.0,0.3,Junk
+lamb shoulder raw,1198,97.3,42.1,0.0,0.0,75.2,0.0,0.3,Junk
+lamb meat raw,1102,84.6,36.6,0.0,0.0,79.6,0.0,0.3,Junk
+lamb shoulder cooked,750,53.5,22.5,0.0,0.0,62.5,0.0,0.2,Junk
+mutton cooked,66,3.1,1.5,0.027,0.0,9.5,0.0,0.07,Moderate
+lamb leg cooked,684,43.7,18.3,0.0,0.0,67.7,0.0,0.2,Junk
+beef stick,110,9.9,4.2,1.1,0.0,4.3,0.0,0.3,Moderate
+veal sirloin cooked,517,26.9,10.6,0.0,0.0,64.1,0.0,0.2,Junk
+veal rib cooked,444,22.2,8.8,0.0,0.0,57.4,0.0,0.2,Junk
+veal meat cooked,483,23.8,8.9,0.0,0.0,62.9,0.0,0.2,Junk
+beef rib roasted,238,19.1,7.7,0.0,0.0,15.4,0.0,0.01,Junk
+veal sirloin raw,689,35.4,15.2,0.0,0.0,86.5,0.0,0.3,Junk
+beef top loin filet grilled,323,19.0,6.5,0.8,0.0,37.0,0.0,0.1,Junk
+beef under blade steak cooked,983,46.7,17.9,0.0,0.0,140.8,0.0,0.3,Junk
+mock tender steak raw,244,8.3,3.6,0.0,0.0,42.2,0.0,0.2,Moderate
+ground beef cooked,375,24.8,10.0,0.0,0.0,35.5,0.0,0.1,Junk
+ground beef raw,1506,136.1,51.2,0.0,0.0,65.1,0.0,0.3,Junk
+beef diced asda,48,0.7,0.3,10.5,0.054,0.0,0.0,0.0,Moderate
+veal rib raw,735,40.9,16.8,0.0,0.0,85.5,0.0,0.4,Junk
+ground veal raw,41,1.9,0.8,0.0,0.0,5.5,0.0,0.029,Moderate
+t bone steak cooked,1049,74.1,30.3,0.0,0.0,89.3,0.0,0.2,Junk
+veal leg round raw,531,14.0,5.4,0.0,0.0,95.2,0.0,0.3,Junk
+beef top sirloin steak raw,1222,77.3,31.2,0.0,0.0,123.4,0.0,0.3,Junk
+beef plate steak grilled,508,35.6,12.9,0.0,0.0,47.1,0.0,0.1,Junk
+ground veal cooked,514,22.6,9.1,0.0,0.0,72.9,0.0,0.2,Junk
+veal leg round cooked,574,17.2,6.9,0.0,0.0,98.4,0.0,0.2,Junk
+porterhouse steak raw,1170,91.1,36.4,0.0,0.0,81.6,0.0,0.2,Junk
+veal shank raw,513,15.8,4.8,0.0,0.0,86.9,0.0,0.4,Moderate
+veal breast cooked,753,47.5,18.5,0.0,0.0,76.3,0.0,0.2,Junk
+corned beef canned,53,3.1,1.3,0.0,0.0,5.7,0.0,0.2,Moderate
+rib eye steak grilled,680,47.7,21.2,0.0,0.0,62.4,0.0,0.1,Junk
+veal shoulder raw,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Moderate
+t bone steak raw,1052,76.3,30.4,0.0,0.0,85.7,0.0,0.2,Junk
+sirloin steak,324,14.1,5.2,0.0,0.0,49.5,0.0,0.6,Junk
+mock tender steak cooked,137,4.9,1.5,0.0,0.0,21.9,0.0,0.028,Moderate
+beef round steak cooked,385,12.1,4.3,0.0,0.0,64.8,0.0,0.011,Moderate
+chuck blade roast raw,1125,88.0,35.5,0.0,0.0,77.8,0.0,0.3,Junk
+beef shoulder steak raw,349,17.3,7.5,0.0,0.0,48.2,0.0,0.2,Junk
+beef top blade cooked,184,10.0,3.3,0.0,0.0,21.9,0.0,0.002,Moderate
+corned beef cooked,53,4.0,1.3,0.006,0.0,3.8,0.0,0.2,Moderate
+beef round steak raw,753,36.0,14.2,0.0,0.0,100.1,0.0,0.3,Junk
+beef shoulder steak grilled,155,5.8,2.5,0.0,0.0,24.0,0.0,0.014,Moderate
+chuck eye steak raw,856,62.8,26.7,0.0,0.0,72.4,0.0,0.3,Junk
+beef bottom round steak cooked,980,35.1,12.1,0.0,0.0,155.8,0.0,0.2,Junk
+porterhouse steak cooked,235,16.4,6.2,0.0,0.0,20.4,0.0,0.085,Junk
+beef under blade steak raw,1235,80.8,32.6,0.0,0.0,126.8,0.0,0.3,Junk
+beef plate steak raw,617,46.8,19.0,0.9,0.0,47.8,0.0,0.2,Junk
+beef meat canned,111,7.9,3.9,0.0,0.0,9.2,0.0,0.095,Moderate
+beef breakfast strips raw,92,8.8,3.6,0.2,0.0,2.8,0.0,0.2,Moderate
+beef brisket cooked,589,43.6,16.8,0.0,0.0,46.0,0.0,0.1,Junk
+corned beef raw,898,67.6,21.5,0.6,0.0,66.6,0.0,5.5,Junk
+beef mince meat asda,55,3.1,1.3,6.8,0.054,0.0,0.0,0.0,Moderate
+pastrami beef fat free,9,0.1,0.0,0.1,0.0,1.9,0.0,0.005,Moderate
+rib eye steak raw,743,54.5,24.0,0.4,0.0,62.8,0.0,0.2,Junk
+beef tenderloin steak cooked,374,24.0,9.4,0.0,0.0,37.0,0.0,0.061,Junk
+chuck blade roast cooked,842,62.0,24.7,0.0,0.0,66.1,0.0,0.2,Junk
+cured beef dried,4,0.019,0.086,0.06,0.006,0.9,0.0,0.049,Moderate
+beef flank steak cooked,380,17.5,7.2,0.0,0.0,51.8,0.0,0.068,Junk
+chuck eye steak grilled,853,60.5,26.7,0.0,0.0,76.9,0.0,0.2,Junk
+veal meat raw,653,30.7,12.7,0.0,0.0,87.8,0.0,0.4,Junk
+veal loin cooked,80,4.9,1.9,0.0,0.0,8.5,0.0,0.001,Moderate
+veal loin raw,46,2.6,1.1,0.0,0.0,5.3,0.0,0.079,Moderate
+veal shoulder cooked,435,19.4,7.2,0.0,0.0,61.2,0.0,0.2,Junk
+beef tenderloin steak raw,405,29.8,12.0,0.0,0.0,32.2,0.0,0.032,Junk
+veal shank cooked,371,12.0,4.0,0.0,0.0,61.2,0.0,0.2,Moderate
+beef brisket raw,1139,86.5,34.2,0.0,0.0,83.6,0.0,0.3,Junk
+pastrami beef,104,4.1,1.9,0.3,0.08,15.5,0.0,0.8,Moderate
+beef flank steak raw,47,2.3,1.0,0.0,0.0,6.0,0.0,0.054,Moderate
+beef top sirloin steak cooked,430,25.2,9.9,0.0,0.0,47.7,0.0,0.055,Junk
+veal breast raw,943,66.9,26.7,0.0,0.0,79.2,0.0,0.3,Junk
+beef rib raw,1433,123.8,51.2,0.0,0.0,73.8,0.0,0.2,Junk
+beef jerky,82,5.1,2.2,2.2,1.8,6.6,0.4,0.4,Moderate
+beef breakfast strips cooked,51,3.9,1.6,0.2,0.0,3.5,0.0,0.3,Moderate
+pork olive loaf,66,4.6,1.6,2.6,0.0,3.3,0.0,0.3,Moderate
+beef luncheon meat jellied,31,0.9,0.4,0.0,0.0,5.3,0.0,0.4,Moderate
+turkey pastrami,38,1.8,0.5,0.5,1.0,4.6,0.062,0.3,Moderate
+pork salami,41,3.4,1.2,0.2,0.0,2.3,0.0,0.2,Moderate
+canadian style bacon raw,45,2.0,0.6,0.5,0.0,5.9,0.0,0.3,Moderate
+honey loaf,85,3.6,1.3,2.6,2.6,9.9,0.0,0.4,Moderate
+pork beef salami,37,3.1,1.1,0.076,0.008,2.1,0.0,0.2,Moderate
+beef pork bologna,92,7.4,2.8,1.6,1.3,4.6,0.0,0.3,Moderate
+pork beef salami cooked,41,3.2,1.1,0.3,0.1,2.7,0.0,0.2,Moderate
+pork breakfast strips raw,88,8.4,2.9,0.2,0.0,2.7,0.0,0.2,Moderate
+pickle pimiento loaf,86,6.1,2.0,3.2,3.2,4.3,0.6,0.4,Moderate
+luxury loaf,39,1.3,0.4,1.4,0.0,5.2,0.0,0.3,Moderate
+mortadella,47,3.8,1.4,0.5,0.0,2.5,0.0,0.2,Moderate
+pork bologna,69,5.6,1.9,0.2,0.0,4.3,0.0,0.3,Moderate
+turkey salami cooked,9,0.5,0.1,0.081,0.063,1.0,0.054,0.023,Moderate
+pepperoni beef,10,0.9,0.3,0.0,0.0,0.5,0.0,0.09,Moderate
+peppered loaf,42,1.8,0.6,1.3,1.3,4.9,0.0,0.2,Moderate
+luncheon meat beef,10,0.3,0.1,0.0,0.0,1.8,0.0,0.1,Moderate
+lebanon bologna,98,6.0,1.6,0.3,0.0,10.8,0.0,0.8,Moderate
+chicken pork bologna,94,8.6,2.8,1.2,0.0,2.9,0.0,0.3,Moderate
+turkey roll,40,1.9,0.6,0.6,0.0,4.9,0.0,0.1,Moderate
+beef salami cooked,68,5.8,2.6,0.5,0.4,3.3,0.0,0.3,Moderate
+yachtwurst cooked,150,12.7,4.4,0.8,0.0,8.3,0.0,0.5,Moderate
+italian salami,43,3.7,1.3,0.1,0.1,2.2,0.0,0.2,Moderate
+turkey ham,38,1.6,0.1,0.3,0.1,5.5,0.0,0.3,Moderate
+turkey bologna,59,4.5,1.2,1.3,0.8,3.2,0.1,0.3,Moderate
+sliced turkey breast,17,0.6,0.1,0.4,0.1,2.4,0.0,0.1,Moderate
+luncheon meat pork beef,99,9.0,3.2,0.7,0.0,3.5,0.0,0.4,Moderate
+beef bologna,90,7.8,3.1,1.3,0.6,3.3,0.0,0.3,Moderate
+turkey bacon cooked,313,22.9,6.8,2.5,0.0,24.3,0.0,1.9,Junk
+ground emu cooked,178,5.1,1.4,0.0,0.0,31.0,0.0,0.025,Moderate
+ostrich leg raw,94,1.5,0.5,0.0,0.0,19.0,0.0,0.067,Moderate
+ostrich strip raw,108,2.4,0.8,0.0,0.0,20.1,0.0,0.086,Moderate
+emu fillet cooked,607,9.1,2.3,0.0,0.0,123.2,0.0,0.2,Moderate
+ostrich tenderloin raw,105,2.7,1.0,0.0,0.0,18.8,0.0,0.005,Moderate
+emu drums cooked,649,8.4,2.7,0.0,0.0,134.7,0.0,0.5,Moderate
+green turtle raw,25,0.1,0.015,0.0,0.0,5.6,0.0,0.099,Moderate
+ground bison cooked,448,21.6,8.7,0.0,0.0,63.6,0.0,0.2,Junk
+goat meat raw,494,10.5,3.2,0.0,0.0,93.4,0.0,0.4,Moderate
+ground emu raw,157,4.7,1.2,0.0,0.0,26.6,0.0,0.062,Moderate
+ground ostrich raw,180,9.5,2.4,0.0,0.0,22.0,0.0,0.021,Moderate
+ostrich tip cooked,123,2.2,0.9,0.0,0.0,24.2,0.0,0.086,Moderate
+caribou cooked,210,6.4,2.5,0.0,0.0,38.0,0.0,0.004,Moderate
+ground ostrich cooked,163,6.6,1.7,0.0,0.0,24.3,0.0,0.099,Moderate
+ostrich leg cooked,120,1.6,0.6,0.0,0.0,24.7,0.0,0.016,Moderate
+ostrich top loin cooked,132,3.3,1.1,0.0,0.0,23.9,0.0,0.029,Moderate
+ostrich strip cooked,139,3.6,1.5,0.0,0.0,25.0,0.0,0.034,Moderate
+ostrich tip raw,97,2.0,0.7,0.0,0.0,18.6,0.0,0.041,Moderate
+ostrich round raw,99,2.0,0.7,0.0,0.0,18.7,0.0,0.074,Moderate
+ground bison raw,124,6.1,2.5,0.099,0.0,17.2,0.0,0.042,Moderate
+ostrich fan raw,99,2.3,0.8,0.0,0.0,18.5,0.0,0.04,Moderate
+ostrich top loin raw,101,2.5,1.0,0.0,0.0,18.4,0.0,0.073,Moderate
+veal brain cooked,461,32.6,7.4,0.0,0.0,38.9,0.0,0.5,Junk
+veal tongue cooked,515,25.8,11.1,0.0,0.0,65.9,0.0,0.2,Junk
+beef heart cooked,47,1.3,0.4,0.057,0.0,8.1,0.0,0.024,Moderate
+turkey liver cooked,100,4.3,1.2,0.0,0.0,14.3,0.0,0.083,Moderate
+veal thymus cooked,35,0.9,0.3,0.0,0.0,6.4,0.0,0.036,Moderate
+beef brain cooked,688,55.6,13.1,0.0,0.0,44.1,0.0,0.6,Junk
+beef pancreas cooked,602,38.2,13.1,0.0,0.0,60.2,0.0,0.1,Junk
+beef tripe cooked,80,3.4,1.2,1.7,0.0,10.0,0.0,0.045,Moderate
+chicken gizzard cooked,223,3.9,1.0,0.0,0.0,44.1,0.0,0.069,Moderate
+pork pancreas cooked,537,26.5,9.1,0.0,0.0,69.8,0.0,0.1,Junk
+beef tongue cooked,80,6.3,2.3,0.0,0.0,5.5,0.0,0.029,Moderate
+lamb heart cooked,353,15.1,6.0,3.7,0.0,47.7,0.0,0.1,Junk
+beef spleen cooked,447,12.9,4.3,0.0,0.0,77.3,0.0,0.2,Moderate
+veal kidneys cooked,300,10.4,3.2,0.0,0.0,48.4,0.0,0.2,Moderate
+chicken heart cooked,268,11.5,3.3,0.1,0.0,38.3,0.0,0.081,Moderate
+lamb tongue cooked,701,51.7,20.0,0.0,0.0,55.0,0.0,0.2,Junk
+veal heart cooked,368,13.4,3.6,0.3,0.0,57.7,0.0,0.1,Moderate
+chicken liver cooked,76,2.8,0.9,0.5,0.0,11.3,0.0,0.079,Moderate
+lamb pancreas cooked,541,34.9,15.8,0.0,0.0,52.7,0.0,0.1,Junk
+veal spleen cooked,445,10.0,3.3,0.0,0.0,83.1,0.0,0.2,Moderate
+lamb liver cooked,739,29.6,11.5,8.5,0.0,102.7,0.0,0.2,Junk
+turkey gizzard cooked,70,2.1,0.5,0.0,0.0,11.9,0.0,0.031,Moderate
+lamp spleen cooked,460,14.1,4.7,0.0,0.0,78.1,0.0,0.2,Moderate
+turkey heart cooked,35,1.5,0.4,0.0,0.0,5.0,0.0,0.046,Moderate
+beef liver cooked,130,3.6,1.2,3.5,0.0,19.8,0.0,0.068,Moderate
+lamb lungs cooked,431,11.8,4.0,0.0,0.0,75.7,0.0,0.3,Moderate
+pork brain cooked,527,36.3,8.2,0.0,0.0,46.4,0.0,0.3,Junk
+goose liver,125,4.0,1.5,5.9,0.0,15.4,0.0,0.1,Moderate
+pork kidneys cooked,211,6.6,2.1,0.0,0.0,35.6,0.0,0.1,Moderate
+lamb brain cooked,503,35.3,9.0,0.0,0.0,43.5,0.0,0.5,Junk
+pork heart cooked,215,7.3,1.9,0.6,0.0,34.2,0.0,0.053,Moderate
+lamb kidneys cooked,349,9.2,3.1,2.5,0.0,60.3,0.0,0.4,Moderate
+beef lungs cooked,364,11.2,3.8,0.0,0.0,61.8,0.0,0.3,Moderate
+veal pancreas cooked,614,35.0,12.0,0.0,0.0,69.8,0.0,0.2,Junk
+pork liver cooked,584,15.6,5.0,13.3,0.0,92.1,0.0,0.2,Moderate
+beef kidneys cooked,45,1.3,0.3,0.0,0.0,7.7,0.0,0.029,Moderate
+turkey giblets cooked,164,6.3,1.6,0.0,0.0,25.1,0.0,0.1,Moderate
+duck liver raw,60,2.0,0.6,1.6,0.0,8.2,0.0,0.089,Moderate
+veal liver cooked,154,5.0,1.6,3.0,0.0,22.7,0.0,0.046,Moderate
+pork lungs cooked,297,9.3,3.3,0.0,0.0,49.8,0.0,0.2,Moderate
+veal lungs cooked,312,7.9,2.7,0.0,0.0,56.2,0.0,0.2,Moderate
+beef thymus cooked,1215,95.2,32.8,0.0,0.0,83.2,0.0,0.4,Junk
+ham,46,2.5,0.1,1.0,0.3,4.6,0.4,0.2,Moderate
+pork meat cooked,283,14.1,4.4,0.0,0.0,14.1,0.0,0.7,Moderate
+bacon roasted,43,3.3,1.1,0.1,0.0,3.0,0.0,0.034,Moderate
+pork top loin roasts raw,3644,182.8,35.1,0.0,0.0,468.4,0.0,1.0,Junk
+pork blade roll raw,76,6.2,2.2,0.0,0.0,4.7,0.0,0.4,Moderate
+pork backribs raw,2399,174.9,61.9,0.0,0.0,204.2,0.0,0.9,Junk
+pork spareribs cooked,703,53.6,19.7,0.0,0.0,51.4,0.0,0.2,Junk
+pork stomach cooked,44,2.1,0.8,0.029,0.0,6.1,0.0,0.035,Moderate
+honey smoked ham cooked,67,1.3,0.6,4.0,0.0,9.9,0.0,0.5,Moderate
+boston butt steak raw,844,56.1,19.7,0.0,0.0,79.0,0.0,0.3,Junk
+pork sirloin chops cooked,140,4.5,1.5,0.0,0.0,23.3,0.0,0.001,Moderate
+pork country style ribs raw,242,15.1,3.0,0.0,0.0,24.8,0.0,0.061,Moderate
+ham patties,205,18.3,6.6,1.1,0.0,8.3,0.0,0.7,Junk
+pork feet cooked,67,4.5,1.2,0.0,0.0,6.2,0.0,0.046,Moderate
+ground pork cooked,930,65.0,24.2,0.0,0.0,80.4,0.0,0.2,Junk
+pork centre loin chops cooked,328,17.4,5.5,0.0,0.0,40.2,0.0,0.065,Junk
+pork leg cap steak cooked,307,8.6,2.6,0.0,0.0,53.5,0.0,0.1,Moderate
+pork blade chops raw,376,15.4,5.2,0.0,0.0,55.8,0.0,0.2,Junk
+pork tenderloin raw,606,17.8,6.0,0.0,0.0,104.3,0.0,0.3,Junk
+pork sirloin chops raw,1090,23.3,8.2,0.0,0.0,205.5,0.0,0.6,Junk
+pork leg cap steak raw,284,7.8,2.7,0.0,0.0,50.0,0.0,0.2,Moderate
+pork carcass raw,1706,159.1,56.4,0.0,0.0,63.1,0.0,0.2,Junk
+pork splean cooked,446,9.6,3.2,0.0,0.0,84.3,0.0,0.3,Moderate
+chopped ham,50,2.9,1.0,1.2,0.0,4.6,0.0,0.3,Moderate
+pork centre loin chops raw,338,18.0,6.0,0.0,0.0,41.2,0.0,0.1,Junk
+pork blade chops cooked,265,14.6,4.3,1.1,0.0,32.4,0.0,0.072,Moderate
+boston butt steak cooked,494,32.7,12.2,0.0,0.0,46.4,0.0,0.1,Junk
+pork meat raw,179,18.6,6.2,0.0,0.0,2.6,0.0,0.021,Junk
+pork top loin chops raw,287,12.8,4.5,0.0,0.0,39.9,0.0,0.099,Moderate
+pork blade steak braised,694,44.7,16.6,0.087,0.0,68.2,0.0,0.4,Junk
+pork boston steaks cooked,438,28.1,10.1,0.0,0.0,43.2,0.0,0.1,Junk
+bacon cooked,43,3.1,1.1,0.068,0.0,3.5,0.0,0.2,Moderate
+pickled pork hocks,48,3.0,0.9,0.0,0.0,5.4,0.0,0.3,Moderate
+pork boston roast cooked,705,49.4,18.3,0.0,0.0,60.5,0.0,0.2,Junk
+canadian style bacon grilled,43,2.0,0.7,0.3,0.0,5.7,0.0,0.4,Moderate
+ham steak,70,2.4,0.8,0.0,0.0,11.1,0.0,0.7,Moderate
+pork backfat,3683,402.3,146.1,0.0,0.0,13.2,0.0,0.064,Junk
+bacon baked,44,3.5,1.1,0.1,0.0,2.9,0.0,0.2,Moderate
+pork arm picnic raw,5298,343.4,113.6,0.0,0.0,513.6,0.0,2.3,Junk
+salt pork raw,212,22.8,8.3,0.0,0.0,1.4,0.0,0.8,Junk
+pork arm picnic cooked,5292,322.7,109.3,0.0,0.0,560.3,0.0,2.2,Junk
+pork top loin chops cooked,270,11.2,4.3,0.0,0.0,39.4,0.0,0.064,Moderate
+ground pork raw,329,26.5,9.8,0.0,0.0,21.1,0.0,0.033,Junk
+pork shoulder raw,1070,81.6,28.3,0.0,0.0,77.9,0.0,0.3,Junk
+pork chitterlings cooked,66,5.8,2.7,0.0,0.0,3.5,0.0,0.078,Moderate
+pork breakfast strips cooked,52,4.1,1.4,0.1,0.0,3.3,0.0,0.2,Moderate
+pork blade roll roasted,1079,88.3,31.5,1.4,0.0,65.0,0.0,3.7,Junk
+pork tail cooked,1089,98.5,34.2,0.0,0.0,46.8,0.0,0.093,Junk
+pork centre rib roasts raw,275,9.7,3.3,0.0,0.0,44.0,0.0,0.1,Moderate
+pork centre rib roasts roasted,1942,114.9,42.6,0.0,0.0,211.3,0.0,0.7,Junk
+minced ham,55,4.3,1.5,0.4,0.0,3.4,0.0,0.3,Moderate
+ham roasted,316,21.3,7.1,0.6,0.0,28.7,0.0,1.3,Junk
+pork loin raw,232,14.7,5.1,0.0,0.0,23.1,0.0,0.003,Junk
+pork backribs roasted,2564,188.9,68.5,0.0,0.0,202.0,0.0,0.8,Junk
+pork belly raw,2350,240.5,87.7,0.0,0.0,42.4,0.0,0.1,Junk
+ham raw,266,18.2,6.0,0.046,0.0,23.8,0.0,1.5,Junk
+ham extra lean,45,2.3,0.8,0.6,0.0,5.1,0.0,0.4,Moderate
+pork feet pickled,635,45.5,13.4,0.029,0.0,52.8,0.0,4.3,Junk
+pork shoulder cooked,394,28.9,10.6,0.0,0.0,31.4,0.0,0.001,Junk
+pork top loin roasts roasted,1628,74.8,24.1,0.0,0.0,224.3,0.0,0.4,Junk
+pork skin,154,8.9,3.2,0.0,0.0,17.3,0.0,0.5,Moderate
+pork country style ribs cooked,235,15.2,5.4,0.0,0.0,22.8,0.0,0.049,Junk
+pork blade steak raw,664,43.7,15.4,0.6,0.0,67.6,0.0,0.6,Junk
+pork tenderloin cooked,153,6.2,2.2,0.0,0.0,22.7,0.0,0.091,Moderate
+pork loin cooked,213,12.1,4.5,0.0,0.0,24.2,0.0,0.077,Moderate
+pork ears cooked,184,12.0,4.3,0.2,0.0,17.7,0.0,0.2,Moderate
+pork tongue cooked,626,43.0,14.9,0.0,0.0,55.7,0.0,0.3,Junk
+pork spareribs raw,3593,303.5,97.7,0.0,0.0,200.6,0.0,1.1,Junk
+ham patties grilled,205,18.5,6.7,1.0,0.0,8.0,0.0,0.6,Junk
+chicken skin roasted,508,45.6,12.8,0.0,0.0,22.8,0.0,0.028,Junk
+turkey breast raw,3554,158.9,43.2,0.0,0.0,495.6,0.0,1.3,Junk
+ground turkey raw,169,8.7,2.3,0.0,0.0,22.4,0.0,0.047,Moderate
+chicken wing cooked,52,3.5,1.0,0.0,0.0,4.8,0.0,0.086,Moderate
+turkey roast roasted,209,7.8,2.6,4.1,0.0,28.8,0.0,0.9,Moderate
+pheasant meat raw,1448,74.3,21.6,0.0,0.0,181.6,0.0,0.3,Junk
+chicken back raw,188,17.0,4.9,0.0,0.0,8.3,0.0,0.043,Moderate
+chicken back cooked,93,6.5,1.8,0.0,0.0,8.0,0.0,0.091,Moderate
+chicken leg fried,431,25.5,6.8,13.8,0.0,34.4,0.5,0.4,Junk
+chicken feet cooked,975,66.2,17.8,0.9,0.0,88.0,0.0,0.3,Junk
+turkey steak fried,179,10.8,2.8,10.9,0.0,9.1,0.0,0.5,Moderate
+turkey taco meat cooked,271,13.9,3.2,5.5,0.0,30.7,0.0,1.2,Moderate
+chicken leg raw,736,54.9,15.0,0.6,0.0,56.3,0.0,0.3,Junk
+chicken meat raw,1978,138.6,39.7,0.0,0.0,171.1,0.0,0.6,Junk
+chicken neck cooked,94,6.9,1.9,0.0,0.0,7.5,0.0,0.085,Moderate
+chicken drumstick fried,193,11.3,3.0,6.0,0.0,15.8,0.2,0.2,Moderate
+quail egg,14,1.0,0.3,0.08,0.048,1.2,0.0,0.042,Moderate
+duck meat cooked,472,39.7,13.5,0.0,0.0,26.6,0.0,0.041,Junk
+chicken wing roasted,216,14.3,4.2,0.0,0.0,20.2,0.0,0.039,Moderate
+quail meat cooked,1028,63.9,17.9,0.0,0.0,113.7,0.0,0.2,Junk
+goose meat cooked,427,30.7,9.6,0.0,0.0,35.2,0.0,0.089,Junk
+chicken breast cooked,114,4.5,1.3,0.0,0.0,17.3,0.0,0.058,Moderate
+chicken neck raw,149,13.1,3.6,0.0,0.0,7.0,0.0,0.027,Moderate
+duck egg,130,9.6,2.6,1.0,0.7,9.0,0.0,0.1,Moderate
+pheasant breast raw,484,11.8,4.0,0.0,0.0,88.7,0.0,0.1,Moderate
+duck meat raw,5123,498.8,167.6,0.0,0.0,145.7,0.0,0.8,Junk
+squab meat raw,585,47.4,16.8,0.0,0.0,36.8,0.0,0.1,Junk
+chicken drumstick raw,211,12.4,3.3,0.1,0.0,23.4,0.0,0.1,Moderate
+turkey meat roasted,284,11.1,3.2,0.031,0.0,42.8,0.0,0.2,Moderate
+chicken breast raw,299,16.1,4.6,0.0,0.0,36.3,0.0,0.1,Moderate
+ground chicken cooked,474,27.4,7.8,0.0,0.0,58.4,0.0,0.2,Junk
+turkey wing cooked,426,23.1,6.3,0.0,0.0,50.9,0.0,0.1,Junk
+goose meat raw,6077,550.7,160.2,0.0,0.0,259.8,0.0,1.2,Junk
+turkey breast roasted,3266,128.0,36.3,0.0,0.0,496.1,0.0,1.1,Junk
+chicken fajita strips,13,0.5,0.2,0.2,0.0,1.7,0.0,0.044,Moderate
+crispy chicken strips tyson,145,6.0,7.7,0.0,0.0,0.0,0.0,0.0,Junk
+chocolate pudding fat free,105,0.3,0.0,23.6,17.8,2.2,0.3,0.1,Junk
+tapioca pudding,143,4.3,1.1,23.9,16.4,2.1,0.0,0.2,Junk
+tapioca pudding fat free,105,0.4,0.1,23.9,15.9,1.6,0.0,0.2,Junk
+rice pudding,122,2.4,1.4,20.8,13.1,3.6,0.3,0.1,Moderate
+corn pudding,328,12.6,6.3,42.4,16.5,11.1,3.0,0.7,Junk
+chocolate pudding,213,6.9,1.9,34.5,25.8,3.1,0.0,0.2,Junk
+lemon pudding,173,4.4,2.6,30.2,0.0,4.1,0.0,0.4,Moderate
+vanilla pudding,195,5.7,1.5,33.9,25.5,2.2,0.0,0.3,Junk
+profeel proteiinirahka valio,140,0.4,0.2,19.3,0.2,175.0,0.0,0.0,Moderate
+cottage cheese creamed,20,0.9,0.3,0.7,0.5,2.2,0.0,0.095,Moderate
+zaziki milfina,51,4.4,1.6,0.0,0.0,0.0,0.0,0.0,Moderate
+cottage cheese low fat,163,2.3,1.5,6.1,6.1,28.0,0.0,0.9,Moderate
+cottage cheese nonfat,104,0.4,0.2,9.7,2.7,15.0,0.0,0.5,Moderate
+vanilla yogurt low fat,208,3.1,2.0,33.8,33.8,12.1,0.0,0.2,Junk
+classique yogurt plain 2 liberte,30,1.2,0.7,1.7,1.7,3.3,0.0,0.0,Moderate
+yoplait light strawberry yogurt yoplait,79,0.0,14.1,0.074,0.0,0.0,0.0,0.0,Junk
+vanilla yogurt,145,2.1,1.3,23.5,23.5,8.4,0.0,0.1,Junk
+chocolate yogurt,168,0.0,0.0,35.3,22.5,5.3,1.8,0.2,Junk
+yogurt parfait,125,1.5,0.8,23.6,17.4,5.0,1.6,0.048,Junk
+yogurt,92,4.9,3.1,7.0,7.0,5.2,0.0,0.005,Moderate
+chocolate frozen yogurt,221,6.3,4.0,37.6,33.5,5.2,4.0,0.1,Junk
+frozen yogurt,221,6.3,4.0,37.6,34.7,5.2,0.0,0.1,Junk
+yogurt low fat,154,3.8,2.5,17.2,17.2,12.9,0.0,0.2,Junk
+vanilla yoghurt oikos,120,1.8,24.0,0.0,0.0,0.0,0.0,0.0,Junk
+fruit yogurt,149,1.7,1.1,28.0,28.0,6.0,0.0,0.013,Junk
+danone low fat alsafi,88,1.7,1.0,0.089,255.0,0.0,0.0,0.0,Junk
+fruit n yogurt parfait mcdonalds,156,1.9,0.044,30.9,19.1,4.1,1.5,0.065,Junk
+triple zero greek yogurt dannon oikos,120,0.0,0.0,22.5,6.0,0.038,0.0,0.0,Moderate
+greek yogurt,100,0.7,0.2,6.1,5.5,17.3,0.0,0.081,Moderate
+chocolate rasberry protein mini proteinfx,102,2.9,1.8,0.0,0.0,0.0,0.0,0.0,Moderate
+gushers fruit gushers,360,6.0,80.0,0.2,0.0,0.0,0.0,0.0,Junk
+egg fried,90,6.8,2.0,0.4,0.2,6.3,0.0,0.043,Moderate
+glucerna abbott,1010,35.6,2.8,120.9,49.8,0.0,12.8,0.0,Junk
+sports drink,26,0.0,0.0,7.2,0.0,0.0,0.0,0.073,Moderate
+peanut butter cookie protein syntha 6,200,6.0,15.0,5.0,0.0,0.0,0.0,0.0,Junk
+hanfprotein pulver rohkostqualitat veganz,107,3.1,0.3,14.2,0.057,0.0,0.0,0.0,Moderate
+smoothie high protein creamy chocolate slimfast,110,3.5,0.5,2.1,1.0,12.0,0.0,0.2,Moderate
+egg large,138,9.3,0.5,0.0,0.0,0.0,0.0,0.0,Moderate
+boysenberries frozen,66,0.3,0.049,16.1,9.1,1.5,7.0,0.064,Healthy
+malt beverage,88,0.3,0.005,19.1,19.1,0.5,0.0,0.02,Junk
+chocolate powder for milk,88,0.5,0.5,19.9,18.0,1.0,1.0,0.012,Junk
+vegetable fruit juice,9,0.017,0.0,2.2,0.6,0.071,0.0,0.043,Moderate
+cocoa powder unsweetened,12,0.7,0.4,3.1,0.087,1.1,1.8,0.062,Moderate
+coconut milk,35,3.6,3.2,0.8,0.5,0.3,0.3,0.001,Moderate
+cocoa powder,28,0.3,0.2,5.9,4.6,0.5,0.3,0.034,Moderate
+rice drink,113,2.3,0.0,22.0,12.7,0.7,0.7,0.058,Moderate
+coconut water,46,0.5,0.4,8.9,6.3,1.7,2.6,0.3,Moderate
+caramel med iced coffee dunkin donuts,268,9.0,41.0,0.0,0.0,0.0,0.0,0.0,Junk
+instant coffee with water decaffeinated,4,0.0,0.024,0.8,0.0,0.2,0.0,0.093,Moderate
+instant coffee powder,353,0.5,0.2,75.4,0.0,12.2,0.0,0.051,Moderate
+instant coffee powder decaffeinated,6,0.069,0.015,1.4,0.0,0.2,0.0,0.09,Moderate
+instant cappuccino powder,53,0.7,0.4,11.2,9.0,0.4,0.2,0.074,Moderate
+coffee decaffeinated,0,0.0,0.087,0.0,0.0,0.2,0.0,0.058,Moderate
+espresso decaffeinated,3,0.011,0.037,0.5,0.0,0.065,0.0,0.011,Moderate
+instant coffee with water,4,0.0,0.051,0.6,0.0,0.2,0.0,0.015,Moderate
+coffee,2,0.069,0.011,0.0,0.0,0.3,0.0,0.075,Moderate
+espresso,3,0.086,0.068,0.5,0.0,0.021,0.0,0.083,Moderate
+whey protein powder vanilla eas,108,1.7,1.4,0.0,0.0,0.0,0.0,0.0,Moderate
+energy drink sugar free red bull,13,0.2,0.0,1.8,0.0,0.6,0.0,0.008,Moderate
+powerade coca cola,9,0.009,0.076,2.3,1.8,0.0,0.0,0.005,Moderate
+amp energy pepsi,110,0.2,0.0,29.0,29.0,0.6,0.0,0.093,Junk
+gatorade g2 pepsi,2,0.052,0.0,0.6,0.4,0.069,0.0,0.011,Moderate
+amp energy sugar free pepsi,5,0.0,0.0,2.5,0.0,0.0,0.0,0.093,Moderate
+energy drink red bull,111,0.0,0.0,26.4,26.4,1.2,0.0,0.1,Junk
+powerade zero ion4 coca cola,0,0.0,0.0,0.0,0.0,0.0,0.0,0.03,Moderate
+full throttle coca cola,110,0.2,0.0,29.0,29.0,0.6,0.0,0.071,Junk
+passion fruit juice purple,148,0.4,0.064,35.7,35.2,1.7,0.5,0.084,Junk
+pomegranate juice,134,0.7,0.2,32.7,31.5,0.4,0.2,0.089,Junk
+cranberry apricot juice,157,0.0,0.0,39.7,0.0,0.5,0.2,0.007,Moderate
+pineapple juice,133,0.3,0.071,32.2,25.0,0.9,0.5,0.075,Junk
+passion fruit juice yellow,126,0.1,0.008,33.6,33.1,1.0,0.5,0.003,Junk
+orange apricot juice,128,0.3,0.001,31.8,30.2,0.8,0.3,0.096,Junk
+tangerine juice,106,0.5,0.082,24.9,24.5,1.2,0.5,0.022,Junk
+orange juice,90,0.4,0.079,20.8,16.8,1.4,0.4,0.067,Junk
+grapefruit juice,96,0.2,0.011,22.7,0.0,1.2,0.0,0.061,Moderate
+pineapple grapefruit juice,118,0.3,0.077,29.0,28.8,0.5,0.3,0.054,Junk
+tamarind nectar,143,0.3,0.0,37.0,31.9,0.2,1.3,0.046,Junk
+apple juice,114,0.3,0.064,28.0,23.9,0.2,0.5,0.038,Junk
+limeade,128,0.0,0.0,34.1,32.8,0.0,0.0,0.071,Junk
+guava nectar,158,0.2,0.05,40.8,32.5,0.2,2.5,0.063,Junk
+orange grapefruit juice,106,0.2,0.009,25.4,25.1,1.5,0.2,0.082,Junk
+orange juice sainsburys,14,0.088,2.5,0.0,0.0,0.0,0.0,0.0,Moderate
+cranberry apple juice,154,0.3,0.066,38.8,35.5,0.0,0.0,0.061,Junk
+pineapple orange juice,125,0.0,0.0,29.5,29.0,3.3,0.3,0.069,Junk
+pear nectar,150,0.062,0.032,39.4,0.0,0.3,1.5,0.056,Moderate
+blackberry juice,95,1.5,0.095,19.5,19.3,0.8,0.3,0.072,Junk
+lemon juice,54,0.6,0.06,16.6,6.1,0.9,0.7,0.046,Moderate
+cranberry grape juice,137,0.2,0.053,34.3,0.0,0.5,0.2,0.079,Moderate
+citrus fruit juice,114,0.057,0.088,28.3,20.2,0.8,0.2,0.051,Junk
+prune juice,182,0.006,0.033,44.7,42.1,1.6,2.6,0.1,Junk
+guanabana nectar,148,0.4,0.096,37.5,32.8,0.3,0.3,0.061,Junk
+fruit juice,108,0.1,0.059,26.3,24.2,0.3,0.2,0.1,Junk
+horchata,15,0.2,0.0,3.3,2.6,0.1,0.0,0.013,Moderate
+fruit punch,98,0.4,0.048,24.4,0.0,0.2,0.0,0.08,Moderate
+apricot nectar,139,0.2,0.07,35.7,34.2,0.9,1.5,0.025,Junk
+orangensaft ja,86,0.0,0.0,1.4,0.024,0.0,0.0,0.0,Moderate
+fruchtcocktail granini,102,0.4,0.2,1.0,0.0,0.0,0.0,0.0,Moderate
+peach nectar,125,1.3,0.6,29.7,27.8,0.5,0.2,0.077,Junk
+orange pineapple juice,15,0.08,0.056,3.6,3.1,0.1,0.032,0.044,Moderate
+cranberry juice,92,0.3,0.061,24.4,24.2,0.8,0.2,0.093,Junk
+white grapefruit juice,96,0.2,0.083,22.7,22.5,1.2,0.2,0.018,Junk
+mango nectar,128,0.2,0.04,32.9,31.2,0.3,0.8,0.061,Junk
+acerola cherry juice,56,0.7,0.2,11.6,10.9,1.0,0.7,0.082,Moderate
+apple juice concentrate,350,0.8,0.1,86.5,81.9,1.1,0.8,0.049,Junk
+papaya nectar,143,0.4,0.1,36.3,34.8,0.4,1.5,0.082,Junk
+apple juice martinellis,122,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Moderate
+lime juice,61,0.2,0.052,20.4,4.1,1.0,1.0,0.014,Moderate
+grape juice,152,0.3,0.06,37.4,35.9,0.9,0.5,0.003,Junk
+water dannon,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Moderate
+tap water,0,0.0,0.0,0.0,0.0,0.0,0.0,0.018,Moderate
+table water,0,0.0,0.0,0.0,0.0,0.0,0.0,0.044,Moderate
+fruit flavored water,52,0.0,0.0,13.0,13.0,0.0,0.0,0.0,Moderate
+water,0,0.0,0.0,0.0,0.0,0.0,0.0,0.024,Moderate
+cola light coca cola,0,0.0,0.0,0.0,0.0,0.0,0.0,0.087,Moderate
+lemon lime soda,151,0.0,0.0,38.4,37.6,0.3,0.0,0.024,Junk
+tonic water,114,0.0,0.0,29.6,29.6,0.0,0.0,0.049,Junk
+lemonade low calorie,7,0.0,0.0,1.6,0.0,0.092,0.0,0.013,Moderate
+ginger ale,68,0.0,0.0,17.5,17.4,0.0,0.0,0.043,Junk
+ice tea lemon flavor nestle,88,0.0,0.0,22.3,22.3,0.0,0.0,0.063,Junk
+sprite coca cola,80,0.063,0.0,20.3,18.0,0.1,0.0,0.021,Junk
+cola coca cola,151,0.0,0.0,38.9,38.9,0.0,0.0,0.045,Junk
+cola,74,0.07,0.0,19.1,17.9,0.1,0.0,0.072,Junk
+cream soda,252,0.0,0.0,65.7,65.7,0.0,0.0,0.098,Junk
+club soda,0,0.0,0.0,0.0,0.0,0.0,0.0,0.046,Moderate
+pink lemonade,86,0.3,0.079,21.6,20.6,0.1,0.2,0.01,Junk
+grape soda,160,0.0,0.0,41.7,0.0,0.0,0.0,0.042,Moderate
+cola without caffeine coca cola,151,0.0,0.0,38.9,38.9,0.0,0.0,0.04,Junk
+white lemonade,80,0.003,0.093,20.8,20.0,0.1,0.0,0.02,Junk
+chocolate soda,207,0.0,0.0,52.6,52.6,0.0,0.0,0.031,Junk
+sweet tea lipton,130,0.0,0.0,35.0,35.0,0.0,0.0,0.0,Junk
+hibiscus tea,74,1.3,0.5,14.8,12.0,0.9,0.6,0.091,Moderate
+instant lemon tea,2,0.0,0.0,0.3,0.047,0.1,0.0,0.046,Moderate
+pesca tea santal,116,0.0,28.1,0.0,0.0,0.0,0.0,0.0,Junk
+instant lemon tea sweetened,91,0.2,0.018,22.3,21.6,0.071,0.3,0.089,Junk
+tea with milk and sugar yorkshire,15,0.5,0.3,0.4,0.0,0.0,0.0,0.0,Moderate
+tea blueberry muffin tekanne,4,0.2,0.2,0.4,0.007,0.0,0.0,0.0,Moderate
+chamomile tea,2,0.0,0.028,0.4,0.0,0.0,0.0,0.003,Moderate
+black tea,2,0.0,0.072,0.7,0.0,0.0,0.0,0.091,Moderate
+herb tea,2,0.0,0.014,0.4,0.0,0.0,0.0,0.064,Moderate
+clam tomato juice,80,0.3,0.0,18.2,5.5,1.0,0.7,0.6,Moderate
+tomato juice,41,0.7,0.043,8.6,6.3,2.1,1.0,0.063,Moderate
+vegetable juice,53,0.2,0.071,11.1,7.9,1.5,1.9,0.1,Moderate
+tomato vegetable juice,53,0.2,0.014,11.1,9.2,1.5,1.9,0.2,Moderate
+carrot juice,80,0.3,0.055,18.6,7.8,1.9,1.6,0.1,Moderate
+acorn dried,144,8.9,1.2,15.2,0.0,2.3,0.0,0.0,Moderate
+fenugreek seeds,36,0.7,0.2,6.5,0.0,2.6,2.7,0.09,Moderate
+peanut topping mcdonalds,181,15.0,2.4,4.6,1.2,7.9,0.0,0.0,Moderate
+beechnuts dried,173,15.0,1.7,10.1,0.0,1.9,0.0,0.068,Moderate
+breadnut tree seeds raw,61,0.3,0.089,13.1,0.0,1.7,0.0,0.084,Moderate
+cumin seeds,8,0.5,0.096,0.9,0.063,0.4,0.2,0.073,Moderate
+pili nuts dried,863,95.5,37.4,4.8,0.0,13.0,0.0,0.014,Junk
+hazelnuts roasted,194,18.7,1.4,5.3,1.5,4.5,2.8,0.0,Moderate
+lupins cooked,193,4.8,0.6,15.4,0.0,25.8,4.6,0.4,Moderate
+hazelnuts blanched,178,17.3,1.3,4.8,1.0,3.9,3.1,0.0,Moderate
+brazilnuts dried,33,3.3,0.8,0.6,0.1,0.7,0.4,0.073,Moderate
+sunflower seeds dry roasted,47,4.0,0.4,1.9,0.2,1.5,0.9,0.067,Moderate
+ginkgo nuts canned,172,2.5,0.5,34.3,0.0,3.5,14.4,0.5,Healthy
+peanuts cooked,572,39.6,5.5,38.3,4.4,24.3,15.8,1.4,Junk
+pumpkin squash seeds dried,721,63.3,11.2,13.8,1.8,39.0,7.7,0.013,Junk
+cashew nuts raw,156,12.4,2.2,8.5,1.7,5.2,0.9,0.02,Moderate
+sunflower seeds dried,269,23.7,2.0,9.2,1.2,9.6,4.0,0.014,Moderate
+lotus seeds dried,106,0.6,0.1,20.6,0.0,4.9,0.0,0.024,Moderate
+butternuts dried,734,68.4,1.6,14.5,0.0,29.9,5.6,0.062,Healthy
+sesame seeds dried,52,4.5,0.6,2.1,0.031,1.6,1.1,0.049,Moderate
+breadfruit seeds,57,1.7,0.5,8.8,0.0,2.2,1.6,0.04,Moderate
+pinyon pine nuts dried,1,0.073,0.022,0.01,0.0,0.083,0.005,0.07,Moderate
+pine nuts dried,909,92.3,6.6,17.7,4.8,18.5,5.0,0.086,Junk
+flaxseeds,55,4.3,0.4,3.0,0.2,1.9,2.8,0.035,Moderate
+safflower seed kernels dried,146,10.9,1.0,9.7,0.0,4.6,0.0,0.042,Moderate
+pistachio nuts raw,691,55.8,6.8,33.8,9.4,24.9,12.7,0.037,Junk
+peanuts raw,828,71.9,10.0,23.5,5.8,37.7,12.4,0.038,Junk
+poppy seeds,46,3.7,0.4,2.5,0.3,1.6,1.7,0.079,Moderate
+valencia peanuts raw,832,69.5,10.7,30.5,0.0,36.6,12.7,0.094,Junk
+spanish peanuts,832,72.4,11.2,23.1,0.0,38.2,13.9,0.036,Junk
+dill seeds,20,1.0,0.018,3.6,0.0,1.1,1.4,0.037,Moderate
+caraway seeds,22,1.0,0.03,3.3,0.038,1.3,2.5,0.014,Moderate
+acorn raw,110,6.8,0.9,11.5,0.0,1.7,0.0,0.0,Moderate
+almonds roasted,182,16.6,1.3,5.3,1.4,6.4,3.2,0.029,Moderate
+lotus seeds raw,25,0.1,0.097,4.9,0.0,1.2,0.0,0.02,Moderate
+chestnuts cooked,37,0.4,0.016,7.9,0.0,0.6,0.0,0.046,Moderate
+alfalfa seeds,1,0.075,0.029,0.002,0.058,0.1,0.015,0.048,Moderate
+virginia peanuts roasted,173,14.6,1.9,6.0,0.0,7.8,2.7,0.018,Moderate
+hazelnuts raw,471,45.6,3.3,12.5,3.3,11.2,7.3,0.0,Healthy
+anise seeds,7,0.3,0.06,1.1,0.0,0.4,0.3,0.1,Moderate
+macadamia nuts roasted,215,22.8,3.6,4.0,1.2,2.3,2.4,0.064,Moderate
+studentenfutter alnatura,139,7.8,0.9,13.2,11.7,3.1,0.031,0.0,Moderate
+pumpkin squash seeds roasted,46,3.9,0.7,1.2,0.1,2.4,0.5,0.045,Moderate
+water chestnut raw,120,0.1,0.039,29.7,6.0,1.7,3.7,0.097,Moderate
+chestnuts roasted,37,0.3,0.009,7.9,1.6,0.5,0.8,0.043,Moderate
+ginkgo nuts raw,52,0.5,0.029,10.6,0.0,1.2,0.0,0.067,Moderate
+almonds raw,9,0.7,0.04,0.3,0.026,0.3,0.2,0.043,Moderate
+peanuts roasted,180,15.8,2.6,4.6,1.3,8.4,2.8,0.069,Moderate
+sunflower seeds toasted,829,76.1,8.0,27.6,0.0,23.1,15.4,0.8,Junk
+sisymbrium seeds,235,3.4,0.7,43.1,0.0,9.0,0.0,0.047,Moderate
+breadnut tree seeds dried,587,2.7,0.7,127.0,0.0,13.8,23.8,0.091,Healthy
+pecans raw,753,78.4,6.7,15.1,4.3,10.0,10.5,0.0,Junk
+chia seeds dried,138,8.7,0.9,11.9,0.0,4.7,9.7,0.047,Healthy
+japanese chestnuts roasted,57,0.2,0.08,12.8,0.0,0.8,0.0,0.079,Moderate
+sesame seeds toasted,45,3.8,0.5,2.1,0.0,1.4,1.1,0.07,Moderate
+cashew nuts roasted,174,14.3,2.5,9.0,1.5,5.1,1.0,0.091,Moderate
+lupins raw,668,17.5,2.1,72.7,0.0,65.1,34.0,0.009,Healthy
+mustard seeds ground,10,0.7,0.012,0.6,0.1,0.5,0.2,0.017,Moderate
+mixed nuts roasted,178,15.4,2.0,7.6,1.4,5.2,2.7,0.1,Moderate
+salat mix alestro,61,5.2,0.9,2.4,0.0,0.0,0.0,0.0,Moderate
+chestnuts raw,309,3.3,0.6,66.0,0.0,3.5,11.7,0.02,Healthy
+pistachio nuts roasted,172,13.7,1.7,8.5,2.3,6.3,3.1,0.008,Moderate
+walnut,33,3.3,0.3,0.7,0.1,0.8,0.3,0.041,Moderate
+celery seeds,25,1.6,0.1,2.7,0.078,1.2,0.8,0.068,Moderate
+hickorynuts dried,788,77.2,8.4,21.9,0.0,15.3,7.7,0.053,Junk
+spanish peanuts roasted,851,72.1,11.1,25.7,0.0,41.2,13.1,0.6,Junk
+woca seeds dried,102,0.3,0.025,22.6,0.1,2.2,5.4,0.048,Healthy
+pecans roasted,215,22.6,2.2,3.9,1.2,2.8,2.9,0.062,Moderate
+fennel seeds,7,0.3,0.008,1.0,0.0,0.3,0.8,0.097,Moderate
+chinese chestnuts roasted,68,0.3,0.027,14.8,0.0,1.3,0.0,0.052,Moderate
+watermelon seed kernels dried,602,51.2,10.6,16.5,0.0,30.6,0.0,0.1,Junk
+macadamia nuts raw,38,4.0,0.6,0.7,0.2,0.4,0.5,0.011,Moderate
+pectin,163,0.2,0.052,45.2,0.0,0.2,4.3,0.1,Moderate
+black walnut dried,31,3.0,0.2,0.5,0.018,1.2,0.3,0.028,Moderate
+water chestnut canned,70,0.015,0.05,17.2,3.4,1.2,3.5,0.011,Moderate
+ginkgo nuts dried,98,0.6,0.1,20.5,0.0,2.9,0.0,0.045,Moderate
+virginia peanuts raw,822,71.2,9.3,24.1,5.8,36.8,12.4,0.008,Junk
+valencia peanuts roasted,177,15.4,2.4,4.9,0.0,8.1,2.7,0.004,Moderate
+nesfit diet cereal nestle,75,0.0,14.5,0.0,0.0,0.0,0.0,0.0,Junk
+corn grits cooked,182,1.2,0.2,37.9,0.3,4.4,2.1,0.6,Moderate
+amaranth flakes,134,2.7,0.5,27.0,0.2,5.9,3.6,0.067,Moderate
+granola,293,14.6,2.4,32.3,11.9,8.2,5.3,0.01,Moderate
+muesli with fruit nuts,231,3.4,0.5,45.7,14.2,4.3,5.8,0.1,Moderate
+muesli master crumble,124,2.4,1.0,4.5,0.042,2.4,0.0,0.0,Moderate
+bran flakes,131,0.8,0.2,32.2,7.4,4.0,7.3,0.2,Healthy
+nut cereal,245,5.9,1.0,46.2,17.2,4.0,3.6,0.3,Junk
+corn flakes,108,0.3,0.098,24.6,2.2,1.7,0.8,0.2,Moderate
+corn grits dry,36,0.2,0.022,7.7,0.008,0.7,0.4,0.054,Moderate
+margarine with yoghurt,88,9.8,1.9,0.073,0.0,0.058,0.0,0.018,Moderate
+sunflower seed butter,99,8.8,0.7,3.7,1.7,2.8,0.9,0.065,Moderate
+hazelnut oil,120,13.6,1.0,0.0,0.0,0.0,0.0,0.0,Moderate
+menhaden fish oil,1966,218.0,66.3,0.0,0.0,0.0,0.0,0.0,Junk
+cod liver fish oil,123,13.6,3.1,0.0,0.0,0.0,0.0,0.0,Moderate
+sardine oil,123,13.6,4.1,0.0,0.0,0.0,0.0,0.0,Moderate
+cupu assu oil,120,13.6,7.2,0.0,0.0,0.0,0.0,0.0,Junk
+lard,115,12.8,5.0,0.0,0.0,0.0,0.0,0.0,Moderate
+sesame butter,94,8.1,1.1,3.8,0.0,2.9,0.9,0.031,Moderate
+margarine spread,59,6.7,1.2,0.1,0.0,0.082,0.0,0.019,Moderate
+lard vegetable oil,115,12.8,5.2,0.0,0.0,0.0,0.0,0.0,Junk
+shortening,113,12.8,3.2,0.0,0.0,0.0,0.0,0.0,Moderate
+vegetable oil spread,75,8.4,1.7,0.1,0.0,0.007,0.0,0.081,Moderate
+cottonseed oil,120,13.6,3.5,0.0,0.0,0.0,0.0,0.0,Moderate
+vegetable oil spread fat free,6,0.5,0.015,0.4,0.0,0.2,0.0,0.1,Moderate
+soy margarine,88,9.9,3.2,0.0,0.0,0.0,0.0,0.1,Moderate
+margarine with salt,100,11.3,2.1,0.017,0.0,0.031,0.0,0.1,Moderate
+margarine,102,11.5,2.2,0.018,0.0,0.037,0.0,0.091,Moderate
+salmon fish oil,123,13.6,2.7,0.0,0.0,0.0,0.0,0.0,Moderate
+nutmeg butter oil,1927,218.0,196.2,0.0,0.0,0.0,0.0,0.0,Junk
+almond butter,98,8.9,0.7,3.0,0.7,3.4,1.6,0.037,Moderate
+sour cream shoprite,60,5.0,3.5,1.0,0.014,0.0,0.0,0.0,Moderate
+ucuhuba butter oil,120,13.6,11.6,0.0,0.0,0.0,0.0,0.0,Junk
+chicken fat,115,12.8,3.8,0.0,0.0,0.0,0.0,0.0,Moderate
+herring fish oil,123,13.6,2.9,0.0,0.0,0.0,0.0,0.0,Moderate
+bacon grease,39,4.3,1.7,0.0,0.0,0.0,0.0,0.009,Moderate
+turkey fat,45,5.0,1.5,0.0,0.0,0.0,0.0,0.0,Moderate
+beef tallow,115,12.8,6.4,0.0,0.0,0.0,0.0,0.0,Junk
+goose fat,45,5.0,1.4,0.0,0.0,0.0,0.0,0.0,Moderate
+duck fat,44,5.0,1.7,0.0,0.0,0.0,0.0,0.0,Moderate
+mutton tallow,45,5.0,2.4,0.0,0.0,0.0,0.0,0.0,Moderate
+grapeseed oil,120,13.6,1.3,0.0,0.0,0.0,0.0,0.0,Moderate
+sheanut oil,1927,218.0,101.6,0.0,0.0,0.0,0.0,0.0,Junk
+almond oil,120,13.6,1.1,0.0,0.0,0.0,0.0,0.0,Moderate
+sunflower oil,120,13.6,1.2,0.0,0.0,0.0,0.0,0.0,Moderate
+cashew butter,94,7.9,1.6,4.4,0.8,2.8,0.3,0.071,Moderate
+canola oil,124,14.0,1.0,0.0,0.0,0.0,0.0,0.0,Moderate
+babassu oil,1927,218.0,177.0,0.0,0.0,0.0,0.0,0.0,Junk
+teaseed oil,120,13.6,2.9,0.0,0.0,0.0,0.0,0.0,Moderate
+avocado oil,124,14.0,1.6,0.0,0.0,0.0,0.0,0.0,Moderate
+vegetable palm kernel oil,117,13.6,11.1,0.0,0.0,0.0,0.0,0.0,Junk
+coconut oil,117,13.6,11.2,0.0,0.0,0.0,0.0,0.0,Junk
+safflower oil,120,13.6,1.0,0.0,0.0,0.0,0.0,0.0,Moderate
+vegetable oil,120,13.6,2.1,0.0,0.0,0.0,0.0,0.0,Moderate
+apricot kernel oil,40,4.5,0.3,0.0,0.0,0.0,0.0,0.0,Moderate
+peanut oil,119,13.5,2.3,0.0,0.0,0.0,0.0,0.0,Moderate
+poppyseed oil,120,13.6,1.8,0.0,0.0,0.0,0.0,0.0,Moderate
+flaxseed oil,120,13.6,1.2,0.0,0.0,0.086,0.0,0.0,Moderate
+tomatoseed oil,1927,218.0,42.9,0.0,0.0,0.0,0.0,0.0,Junk
+wheat germ oil,120,13.6,2.6,0.0,0.0,0.0,0.0,0.0,Moderate
+sesame oil,40,4.5,0.6,0.0,0.0,0.0,0.0,0.0,Moderate
+corn granola oil,124,14.0,1.1,0.0,0.0,0.0,0.0,0.0,Moderate
+cocoa butter oil,120,13.6,8.1,0.0,0.0,0.0,0.0,0.0,Junk
+olive oil,119,13.5,1.9,0.0,0.0,0.0,0.0,0.004,Moderate
+palm kernel oil,40,4.5,4.0,0.0,0.0,0.0,0.0,0.098,Moderate
+mustard oil,124,14.0,1.6,0.0,0.0,0.0,0.0,0.0,Moderate
+rice bran oil,120,13.6,2.7,0.0,0.0,0.0,0.0,0.0,Moderate
+vegetable macaroni dry,308,0.9,0.1,62.9,0.0,11.0,3.6,0.06,Moderate
+chow mein noodles,257,9.9,1.0,37.5,0.5,5.9,1.5,0.5,Moderate
+chinese noodles,456,0.094,0.088,111.9,0.0,0.2,0.7,0.088,Moderate
+vegetable macaroni cooked,172,0.1,0.037,35.7,1.5,6.1,5.8,0.015,Healthy
+corn pasta dry,375,2.2,0.3,83.2,0.0,7.8,11.6,0.027,Healthy
+egg noodles dry,146,1.7,0.4,27.1,0.7,5.4,1.3,0.095,Moderate
+whole wheat spaghetti dry,98,0.4,0.047,21.2,0.0,4.1,0.0,0.002,Moderate
+japanese soba noodles dry,95,0.2,0.084,21.1,0.0,4.1,0.0,0.2,Moderate
+rice noodles dry,103,0.2,0.053,23.6,0.0,1.0,0.5,0.006,Moderate
+spinach spaghetti dry,105,0.4,0.097,21.2,0.8,3.8,3.0,0.094,Moderate
+egg noodles cooked,110,1.7,0.3,20.1,0.3,3.6,1.0,0.027,Moderate
+japanese somen noodles cooked,231,0.3,0.006,48.5,0.0,7.0,0.0,0.3,Moderate
+whole wheat macaroni dry,365,1.5,0.3,78.8,0.0,15.4,8.7,0.028,Healthy
+pasta marinara and ground beef sauce,41,1.6,0.5,4.1,1.0,2.5,0.5,0.0,Moderate
+macaroni raw,390,1.6,0.3,78.4,2.8,13.7,3.4,0.097,Moderate
+spaghetti dry,105,0.4,0.045,21.1,0.8,3.7,0.9,0.09,Moderate
+fusilli cucina,100,0.4,0.1,3.4,0.041,0.0,0.0,0.0,Moderate
+japanese somen noodles dry,101,0.2,0.0,21.0,0.0,3.2,1.2,0.5,Moderate
+pasta cooked,301,2.4,0.3,57.3,0.0,11.8,0.0,0.073,Moderate
+macaroni cooked,221,1.3,0.2,43.2,0.8,8.1,2.5,0.071,Moderate
+spinach egg noodles dry,145,1.7,0.4,26.7,0.0,5.6,2.6,0.096,Moderate
+japanese soba noodles cooked,113,0.1,0.026,24.4,0.0,5.8,0.0,0.1,Moderate
+rice noodles cooked,190,0.4,0.072,42.3,0.052,3.2,1.8,0.075,Moderate
+whole wheat macaroni cooked,174,0.8,0.1,37.2,1.1,7.5,3.9,0.057,Moderate
+spaghetti cooked,363,2.1,0.4,71.0,1.3,13.3,4.1,0.089,Moderate
+whole wheat spaghetti cooked,174,0.8,0.1,37.2,1.1,7.5,6.3,0.091,Healthy
+waffle,218,10.6,2.1,24.7,0.0,5.9,0.0,0.4,Moderate
+baked taco shell,61,2.7,0.8,8.3,0.2,0.8,0.9,0.004,Moderate
+puff pastry,1367,94.3,13.5,112.0,1.8,18.1,3.7,0.6,Junk
+blueberry muffin,214,9.2,1.6,30.2,17.9,2.6,0.6,0.2,Junk
+bread crumbs,427,5.7,1.3,77.7,6.7,14.4,4.9,0.8,Moderate
+warm cinnamon roll mcdonalds,113,5.1,1.3,15.0,7.0,2.0,0.5,0.1,Moderate
+corn muffin,201,5.5,0.9,33.7,11.7,3.9,2.2,0.3,Moderate
+tortilla,467,1.9,0.6,98.4,5.4,14.3,4.7,0.9,Moderate
+croutons seasoned,186,7.3,2.1,25.4,1.8,4.3,2.0,0.4,Moderate
+buttermilk waffle,102,3.1,0.8,16.0,1.5,2.4,0.9,0.2,Moderate
+flour tortilla,146,3.7,0.6,24.1,1.3,3.9,1.2,0.4,Moderate
+glazed donut,55,3.0,1.2,6.2,3.0,0.8,0.3,0.082,Moderate
+corn tortilla,52,0.7,0.1,10.7,0.2,1.4,1.5,0.075,Moderate
+muffin,169,6.5,1.2,23.6,0.0,3.9,1.5,0.3,Moderate
+croutons,33,0.5,0.1,5.9,0.0,1.0,0.4,0.035,Moderate
+donut with jelly filling,289,15.9,4.1,33.2,17.9,5.0,0.8,0.4,Junk
+sweet cinnamon rolls,309,13.6,2.6,42.2,26.3,5.1,2.0,0.3,Junk
+oat bran muffin,46,1.3,0.2,8.2,1.4,1.2,0.8,0.067,Moderate
+french cruller donut,169,7.5,1.9,24.4,14.4,1.3,0.5,0.1,Moderate
+pancakes,86,3.7,0.8,10.8,0.0,2.4,0.0,0.2,Moderate
+chocolate donut,250,11.9,3.1,34.4,19.2,2.7,1.3,0.1,Junk
+sweet cheese rolls,238,12.1,4.0,28.8,0.0,4.7,0.8,0.2,Moderate
+eclair,234,19.2,11.5,11.2,2.0,4.4,0.4,0.1,Junk
+donut with cream filling,307,20.8,4.6,25.5,12.4,5.4,0.7,0.3,Moderate
+fruit toaster pastry,209,5.6,1.3,37.1,14.8,2.4,0.5,0.2,Moderate
+donut,192,10.3,2.7,22.9,0.0,2.3,0.7,0.2,Moderate
+pancakes whole wheat,92,2.9,0.8,12.9,0.0,3.7,1.2,0.3,Moderate
+keikitos,196,10.6,0.0,22.3,10.8,2.9,0.5,0.2,Moderate
+zwieback,30,0.7,0.2,5.2,0.9,0.7,0.2,0.05,Moderate
+chocolate coated donut,81,4.5,2.4,9.2,4.8,0.9,0.3,0.099,Moderate
+waffle toasted,103,3.2,0.5,16.3,1.7,2.4,0.8,0.2,Moderate
+cinnamon toaster pastry,206,7.1,1.8,34.1,0.0,2.6,0.5,0.2,Moderate
+wheat bran bread,89,1.2,0.3,17.2,3.5,3.2,1.4,0.2,Moderate
+white bread,77,1.0,0.2,14.3,1.6,2.6,0.8,0.1,Moderate
+oat bran bread,71,1.3,0.2,11.9,2.3,3.1,1.4,0.1,Moderate
+whole wheat bread natures own,50,1.0,11.0,0.0,0.0,0.0,0.0,0.0,Junk
+high protein bread dr zaks,152,3.0,0.5,15.3,0.6,0.0,0.0,0.0,Moderate
+wheat bread,79,1.3,0.2,13.8,1.7,3.1,1.2,0.1,Moderate
+egg bread toasted,117,2.4,0.6,19.5,0.7,3.9,0.9,0.2,Moderate
+butter toastbrot ja,66,0.9,0.6,2.0,0.4,0.0,0.0,0.0,Moderate
+vienna bread toasted,93,0.6,0.1,18.0,1.0,3.8,0.9,0.2,Moderate
+vienna bread,92,0.6,0.2,18.1,0.8,3.8,0.8,0.2,Moderate
+protein bread,47,0.4,0.009,8.3,0.3,2.3,0.6,0.008,Moderate
+banana bread,186,6.0,1.3,31.1,0.0,2.5,0.6,0.2,Moderate
+rice bran bread,66,1.2,0.2,11.7,1.3,2.4,1.3,0.081,Moderate
+white fibre wonder bread,95,1.0,0.2,18.0,2.0,3.5,1.5,0.0,Moderate
+focaccia,142,4.5,0.5,20.4,1.0,5.0,1.0,0.3,Moderate
+oat bran bread toasted,70,1.3,0.2,11.8,2.3,3.1,1.3,0.1,Moderate
+rye bread,83,1.1,0.2,15.5,1.2,2.7,1.9,0.2,Moderate
+wheat germ bread,73,0.8,0.2,13.5,1.0,2.7,0.6,0.2,Moderate
+protein bread toasted,46,0.4,0.059,8.2,0.2,2.2,0.6,0.049,Moderate
+oatmeal bread,73,1.2,0.2,13.1,2.2,2.3,1.1,0.1,Moderate
+arepa,215,5.3,2.8,36.4,0.9,5.4,2.5,0.3,Moderate
+raisin bread toasted,86,1.4,0.3,16.5,1.8,2.5,1.4,0.1,Moderate
+cracked wheat bread,74,1.1,0.3,14.0,0.0,2.5,1.6,0.2,Moderate
+garlic bread,151,7.1,2.3,17.9,1.6,3.6,1.1,0.2,Moderate
+rye bread toasted,82,1.0,0.2,15.4,1.2,2.7,1.9,0.2,Moderate
+whole wheat bread,128,2.5,0.4,23.6,1.8,3.9,2.8,0.2,Moderate
+whole wheat bread toasted,128,2.5,0.4,23.7,1.8,3.9,2.8,0.2,Moderate
+pan dulce bread,231,7.3,1.4,35.5,7.9,5.9,1.4,0.1,Moderate
+rice bran bread toasted,66,1.3,0.2,11.8,1.3,2.4,1.3,0.026,Moderate
+pita bread whole wheat,74,0.7,0.1,15.4,0.2,2.7,2.1,0.1,Moderate
+wheat germ bread toasted,73,0.8,0.2,13.6,1.0,2.7,0.6,0.2,Moderate
+pumpernickel bread,65,0.8,0.1,12.4,0.1,2.3,1.7,0.2,Moderate
+frybread,502,18.6,7.0,73.4,3.1,10.2,0.0,0.5,Junk
+white bread toasted,83,1.1,0.2,15.4,1.3,2.5,0.7,0.2,Moderate
+piki bread,109,2.0,0.2,20.2,0.4,2.5,2.6,0.028,Moderate
+wheat bread toasted,75,1.0,0.2,13.4,1.5,3.1,1.1,0.1,Moderate
+pita bread,165,0.7,0.091,33.4,0.8,5.5,1.3,0.3,Moderate
+potato bread,85,1.0,0.0,15.1,3.0,4.0,2.0,0.1,Moderate
+egg bread,115,2.4,0.6,19.1,0.7,3.8,0.9,0.2,Moderate
+oatmeal bread toasted,73,1.2,0.2,13.2,2.2,2.3,1.1,0.1,Moderate
+cheese bread,196,10.0,3.0,21.5,1.0,5.0,1.0,0.4,Moderate
+pumpernickel bread toasted,80,1.0,0.1,15.1,0.2,2.8,2.1,0.2,Moderate
+raisin bread,88,1.4,0.3,16.7,1.8,2.5,1.4,0.1,Moderate
+pumpernickel roll,77,0.8,0.1,14.8,0.1,3.0,1.5,0.1,Moderate
+cinnamon raisin bagel,71,0.4,0.054,14.4,1.6,2.5,0.6,0.047,Moderate
+english muffin,127,1.1,0.2,25.5,0.9,5.0,2.6,0.2,Moderate
+rye dinner roll,123,1.5,0.3,22.8,0.5,4.4,2.1,0.3,Moderate
+english muffin whole wheat,134,1.4,0.2,26.7,5.3,5.8,4.4,0.2,Moderate
+dinner roll whole wheat,74,1.3,0.2,14.3,2.4,2.4,2.1,0.1,Moderate
+dinner roll,76,1.8,0.4,12.9,0.5,2.4,1.1,0.1,Moderate
+hotdog roll,117,1.6,0.4,21.1,3.1,4.1,0.8,0.2,Moderate
+bagel,245,1.5,0.0,47.9,6.0,10.0,4.0,0.4,Moderate
+oat bran bagel,176,0.8,0.1,36.8,1.1,7.4,2.5,0.4,Moderate
+pain au chocolat de la boulangerie,235,12.0,27.6,0.0,0.0,0.0,0.0,0.0,Junk
+egg bagel,72,0.5,0.1,13.8,0.0,2.8,0.6,0.1,Moderate
+english muffin toasted,140,1.1,0.3,27.4,1.8,5.4,1.5,0.2,Moderate
+english muffin whole wheat toasted,135,1.4,0.2,26.9,5.4,5.9,4.5,0.2,Moderate
+biscuit,357,16.5,4.4,45.0,2.2,7.1,1.5,0.6,Moderate
+french roll,105,1.6,0.4,19.1,0.1,3.3,1.2,0.2,Moderate
+oat bran dinner roll,78,1.5,0.2,13.3,2.2,3.1,1.4,0.1,Moderate
+pecan shortbread cookies,76,4.6,1.1,8.2,0.0,0.7,0.3,0.002,Moderate
+oatmeal cookies,113,4.5,1.1,17.2,6.2,1.6,0.7,0.1,Moderate
+chocolate wafers,485,15.9,4.7,81.1,33.2,7.4,3.8,0.8,Junk
+vanilla wafers low fat,353,12.2,3.1,58.9,30.0,4.0,1.5,0.3,Junk
+chocolate chip cookies mcdonalds,136,6.4,3.2,18.7,9.6,1.6,0.6,0.058,Moderate
+gingersnap cookies,29,0.7,0.2,5.4,1.4,0.4,0.2,0.012,Moderate
+biscotti abbracci mulino bianco,54,2.6,1.6,0.8,0.051,0.4,0.0,0.0,Moderate
+chocolate chip cookie,63,2.8,1.4,9.3,5.3,0.5,0.3,0.047,Moderate
+brownie,243,9.8,2.5,38.3,22.0,2.9,1.3,0.2,Junk
+shortbread cookies,40,1.9,0.5,5.2,1.2,0.5,0.1,0.097,Moderate
+oatmeal cookies with raisins,65,2.4,0.5,10.3,0.0,1.0,0.0,0.022,Moderate
+peanut butter sandwich cookies,67,3.0,0.7,9.2,5.0,1.2,0.3,0.098,Moderate
+sugar cookies,72,3.2,0.8,10.2,5.7,0.8,0.1,0.007,Moderate
+chocolate covered graham crackers,68,3.2,1.8,9.3,5.8,0.8,0.4,0.067,Moderate
+raisin cookies,60,2.0,0.5,10.2,7.1,0.6,0.2,0.077,Moderate
+vanilla wafers,28,1.2,0.3,4.3,0.0,0.3,0.1,0.045,Moderate
+graham crackers,355,8.5,1.3,64.5,26.1,5.8,2.4,0.4,Junk
+peanut butter cookies,95,4.8,0.9,11.8,0.0,1.8,0.0,0.1,Moderate
+vanilla sandwich cookie,72,3.0,0.4,10.8,5.9,0.7,0.2,0.044,Moderate
+sugar wafers with creme filling,51,2.3,1.2,7.1,4.3,0.4,0.2,0.06,Moderate
+cheese puffs,197,12.8,1.9,18.6,1.1,2.1,0.6,0.3,Moderate
+saltine crackers,13,0.3,0.097,2.2,0.063,0.3,0.022,0.067,Moderate
+trail mix,139,8.8,1.7,13.5,0.0,4.1,0.0,0.014,Moderate
+corn cones,144,7.6,6.4,17.8,0.0,1.6,0.3,0.3,Junk
+chocolate pretzels,50,1.8,0.8,7.8,0.0,0.8,0.0,0.037,Moderate
+french toast sticks,73,3.8,0.9,8.9,2.1,1.3,0.3,0.001,Moderate
+crackers,82,4.2,0.9,9.8,1.3,1.1,0.4,0.1,Moderate
+sesame sticks,54,3.7,0.6,4.7,0.084,1.1,0.3,0.09,Moderate
+cheese crackers,34,1.6,0.4,4.2,0.3,0.8,0.2,0.065,Moderate
+oriental rice cracker mix,143,7.2,1.1,14.6,0.8,4.9,3.7,0.1,Moderate
+breadsticks,103,2.4,0.4,17.1,0.3,3.0,0.8,0.2,Moderate
+milk crackers,50,1.7,0.3,7.7,1.8,0.8,0.2,0.095,Moderate
+matzo crackers whole wheat,98,0.4,0.005,22.1,0.0,3.7,3.3,0.002,Moderate
+matzo crackers with egg,109,0.6,0.2,22.0,0.0,3.4,0.8,0.057,Moderate
+granola bites,23,0.9,0.5,3.3,1.5,0.4,0.3,0.067,Moderate
+crackers whole wheat,120,4.0,0.6,19.5,0.3,3.0,2.9,0.2,Moderate
+tropical trail mix,619,23.9,11.9,91.8,0.0,8.8,0.0,0.1,Junk
+soft pretzels,389,3.6,0.8,79.8,0.3,9.4,2.0,0.9,Moderate
+corn tostada shell,58,2.9,0.9,7.9,0.0,0.8,0.7,0.084,Moderate
+matzo crackers,111,0.4,0.03,23.4,0.098,2.8,0.8,0.0,Moderate
+sesame crunch,9,0.6,0.096,0.9,0.6,0.2,0.1,0.027,Moderate
+trail mix with chocolate chips,707,46.6,8.9,65.6,0.0,20.7,0.0,0.2,Junk
+cracker meal,440,2.0,0.3,93.0,0.4,10.7,3.0,0.078,Moderate
+puffed rice,153,0.2,0.037,34.1,0.0,2.4,0.6,0.053,Moderate
+filinchen gutena,19,0.2,0.056,0.5,0.028,0.4,0.0,0.0,Moderate
+melba toast crackers,117,1.0,0.1,23.0,0.3,3.6,1.9,0.2,Moderate
+matzo crackers with egg onion,109,1.1,0.3,21.6,0.0,2.8,1.4,0.052,Moderate
+cornnuts,126,4.4,0.7,20.3,0.2,2.4,2.0,0.2,Moderate
+bagel chips,789,26.5,12.0,116.1,10.5,21.6,7.2,0.4,Junk
+pretzels,115,0.9,0.1,24.1,0.7,3.0,1.0,0.4,Moderate
+potato raw,164,0.2,0.028,37.2,1.7,4.3,4.7,0.072,Moderate
+gatto di patate home made,202,9.4,4.6,4.0,3.6,0.0,0.0,0.0,Moderate
+baked potato,161,0.2,0.074,36.6,2.0,4.3,3.8,0.097,Moderate
+potato sticks,188,12.4,3.2,19.2,0.006,2.4,1.2,0.2,Moderate
+potato cooked,52,0.006,0.003,12.1,0.5,1.1,1.2,0.035,Moderate
+vivaldi potatoes sainsburys,23,0.1,5.0,0.0,0.0,0.0,0.0,0.0,Moderate
+potato ham chowder soup,192,12.5,3.9,13.4,0.0,6.5,1.4,0.9,Moderate
+russet potato raw,292,0.3,0.06,66.7,2.3,7.9,4.8,0.068,Moderate
+russet potato baked,290,0.4,0.1,64.1,3.2,7.9,6.9,0.084,Healthy
+french fries,13,0.4,0.01,2.2,0.088,0.2,0.2,0.056,Moderate
+potato scalloped,216,9.0,5.5,26.4,0.0,7.0,4.7,0.8,Junk
+cottage fries,11,0.4,0.084,1.9,0.019,0.2,0.2,0.058,Moderate
+mashed potatoes,215,6.8,1.4,35.5,1.2,4.0,3.1,0.7,Moderate
+mashed potato with milk and butter,237,8.9,5.5,35.3,3.0,3.9,3.2,0.7,Junk
+red potato raw,149,0.3,0.074,33.9,2.7,4.0,3.6,0.02,Moderate
+potato pancake,59,3.2,0.5,6.1,0.4,1.3,0.7,0.2,Moderate
+potato puffs,243,11.0,2.3,35.5,0.3,2.6,3.2,0.6,Moderate
+red potato baked,74,0.1,0.008,16.7,1.2,2.0,1.5,0.037,Moderate
+potatoes canned,132,0.3,0.098,29.7,0.0,3.6,4.2,0.7,Moderate
+potato skin raw,22,0.099,0.093,4.7,0.0,1.0,1.0,0.053,Moderate
+shoestring french fries,4,0.1,0.059,0.7,0.062,0.099,0.099,0.055,Moderate
+hash brown potato,144,9.0,1.3,15.3,0.3,1.4,1.4,0.3,Moderate
+baked chips lays,130,2.0,26.0,0.0,0.0,0.0,0.0,0.0,Junk
+corn chips,162,10.0,1.3,17.2,0.031,1.9,1.2,0.2,Moderate
+nacho cheese tortilla chips low fat,90,1.0,0.3,18.5,0.8,2.4,1.8,0.2,Moderate
+corn chips barbecue,1036,64.7,8.8,111.3,0.0,13.9,10.3,1.5,Junk
+corn chips unsalted,490,29.4,3.8,50.5,1.2,5.8,3.9,0.024,Moderate
+potato chips fat free,860,1.4,0.3,190.1,8.4,21.9,17.0,1.5,Healthy
+sweet chilli kettle baked chips,99,2.2,0.3,2.1,0.4,2.0,0.0,0.0,Moderate
+taro chips,11,0.6,0.1,1.6,0.04,0.049,0.2,0.022,Moderate
+potato chips reduced fat,801,35.4,7.1,113.7,0.4,12.1,10.0,0.8,Junk
+onion snacks,150,6.8,1.3,19.5,1.4,2.3,1.2,0.3,Moderate
+potato chips cheese,843,46.2,14.6,98.1,0.0,14.5,8.8,0.8,Junk
+yuca cassava chips,9,0.4,0.1,1.2,0.006,0.054,0.002,0.041,Moderate
+tortilla chips low fat,117,1.6,0.2,22.6,0.2,3.1,1.5,0.1,Moderate
+ranch flavor tortilla chips,992,48.8,7.0,124.2,6.0,14.2,7.9,1.0,Junk
+potato chips,161,10.4,3.3,15.9,0.007,2.1,1.4,0.021,Moderate
+tortilla chips,142,6.2,0.8,20.3,0.2,2.1,1.6,0.077,Moderate
+sweet potato chips,149,9.1,0.8,15.9,2.5,0.8,2.5,0.05,Moderate
+nacho cheese tortilla chips,156,8.2,1.2,18.2,0.8,2.2,1.5,0.2,Moderate
+vegetable chips,134,6.6,0.5,17.1,1.1,1.5,1.3,0.3,Moderate
+taco flavor tortilla chips,1090,54.9,10.5,143.2,0.0,17.9,12.0,1.8,Junk
+potato chips barbecue,970,64.2,15.9,104.5,14.0,15.2,8.7,1.3,Junk
+pita chips,137,4.6,0.4,20.5,1.4,3.5,1.1,0.3,Moderate
+potato chips sour cream and onion,1051,67.1,17.6,102.0,0.0,16.0,10.3,1.1,Junk
+adobo fresco,780,60.2,8.4,53.6,5.8,5.8,3.7,49.4,Junk
+chili pepper sauce red,3,0.089,0.073,0.6,0.4,0.1,0.1,0.003,Moderate
+creamy ranch sauce mcdonalds,132,14.7,2.2,1.0,1.0,0.3,0.0,0.2,Moderate
+catsup,19,0.066,0.026,4.5,3.7,0.2,0.053,0.2,Moderate
+chili pepper sauce green,3,0.032,0.048,0.8,0.4,0.1,0.3,0.03,Moderate
+red wine vinegar,3,0.0,0.0,0.011,0.0,0.055,0.0,0.092,Moderate
+fish sauce,6,0.013,0.08,0.7,0.7,0.9,0.0,1.4,Moderate
+coleslaw dressing reduced fat,56,3.4,0.5,6.8,6.6,0.0,0.045,0.3,Moderate
+sour dressing,21,2.0,1.6,0.6,0.6,0.4,0.0,0.094,Moderate
+guava sauce cooked,86,0.3,0.014,22.6,14.0,0.8,8.6,0.017,Moderate
+pizza sauce,136,2.9,1.2,21.8,9.5,5.5,5.0,0.9,Moderate
+sweetn sour sauce mcdonalds,48,0.3,0.075,11.0,10.0,0.2,0.0,0.2,Moderate
+nance syrup,4,0.002,0.0,0.8,0.6,0.028,0.3,0.035,Moderate
+french dressing reduced fat,37,2.2,0.2,4.7,4.6,0.072,0.2,0.072,Moderate
+peppercorn dressing,76,8.2,1.4,0.5,0.3,0.2,0.0,0.1,Moderate
+sorghum syrup,61,0.0,0.0,15.7,15.7,0.0,0.0,0.096,Junk
+ranch dressing fat free,17,0.3,0.007,3.7,0.7,0.039,0.088,0.1,Moderate
+caesar dressing low calorie,17,0.7,0.1,2.8,2.4,0.028,0.053,0.2,Moderate
+sweet sour dressing,2,0.0,0.0,0.6,0.6,0.082,0.0,0.065,Moderate
+mayonnaise imitation fat free,13,0.4,0.005,2.5,1.6,0.043,0.3,0.1,Moderate
+sofrito,488,37.5,0.0,11.2,0.0,26.4,3.5,2.4,Moderate
+turkey gravy instant,27,1.0,0.3,3.9,0.5,0.8,0.3,0.3,Moderate
+teriyaki sauce,16,0.015,0.0,2.8,2.5,1.1,0.016,0.7,Moderate
+tomato sauce,59,0.7,0.1,13.0,8.7,2.9,3.7,0.083,Moderate
+barbecue sauce kraft,28,0.053,0.013,6.5,5.2,0.1,0.032,0.2,Moderate
+cranberry sauce sweetened,418,0.4,0.056,107.8,105.0,0.6,2.8,0.076,Junk
+coleslaw dressing,62,5.3,0.8,3.8,3.2,0.1,0.024,0.1,Moderate
+onion gravy dry,77,0.7,0.4,16.2,0.0,2.2,1.4,1.0,Moderate
+corn syrup light,62,0.09,0.0,16.9,16.9,0.0,0.0,0.065,Junk
+bacon tomato dressing,49,5.3,0.8,0.3,0.3,0.3,0.04,0.1,Moderate
+pancake syrup,53,0.075,0.025,13.9,8.4,0.0,0.0,0.064,Moderate
+balsamic vinegar,14,0.0,0.0,2.7,2.4,0.041,0.0,0.071,Moderate
+ranch dressing reduced fat,29,1.9,0.2,3.2,0.6,0.2,0.2,0.2,Moderate
+barbecue sauce mcdonalds,46,0.3,0.09,10.3,9.6,0.4,0.4,0.3,Moderate
+vinegar oil dressing,72,8.0,1.5,0.4,0.4,0.0,0.0,0.076,Moderate
+poppyseed dressing,66,5.5,1.0,4.0,3.9,0.2,0.03,0.1,Moderate
+honey mustard dressing,70,6.1,0.8,3.5,2.4,0.1,0.057,0.019,Moderate
+french dressing fat free,21,0.024,0.067,5.1,2.6,0.01,0.4,0.1,Moderate
+vinegar,3,0.0,0.0,0.089,0.063,0.0,0.0,0.024,Moderate
+spray dressing,13,0.9,0.1,1.3,1.1,0.07,0.075,0.012,Moderate
+honey mustard dressing fat free,25,0.2,0.031,5.8,2.7,0.2,0.2,0.2,Moderate
+mushroom gravy,119,6.4,1.0,13.0,0.0,3.0,1.0,1.4,Moderate
+white sauce,368,26.6,7.1,22.9,11.0,9.6,0.5,0.9,Junk
+marinara pasta sauce,129,3.9,0.4,19.9,14.5,3.7,4.8,1.1,Moderate
+tomato sauce with mushrooms,86,0.3,0.027,20.7,14.1,3.6,3.7,1.1,Moderate
+pork gravy powder,25,0.6,0.3,4.3,1.7,0.6,0.2,0.4,Moderate
+beef gravy,123,5.5,2.7,11.2,0.5,8.7,0.9,1.5,Moderate
+green goddess dressing,64,6.5,0.9,1.1,1.0,0.3,0.094,0.1,Moderate
+salsa con queso,358,23.8,6.2,27.9,4.9,7.9,1.8,2.0,Junk
+cocktail sauce,19,0.2,0.0,4.2,1.8,0.2,0.3,0.2,Moderate
+worcestershire sauce,13,0.0,0.0,3.3,1.7,0.0,0.0,0.2,Moderate
+barbecue sauce,29,0.1,0.009,6.9,5.7,0.1,0.2,0.2,Moderate
+tomato sauce with onions,103,0.5,0.007,24.4,0.0,3.8,4.4,1.3,Moderate
+brown gravy dry,22,0.6,0.2,3.6,0.0,0.6,0.1,0.3,Moderate
+blue cheese dressing light,14,0.4,0.1,2.1,0.6,0.3,0.0,0.2,Moderate
+spanish tomato sauce,81,0.7,0.007,17.7,0.0,3.5,3.4,1.2,Moderate
+oyster sauce,9,0.066,0.016,2.0,0.0,0.2,0.024,0.5,Moderate
+cheese sauce,30,2.2,1.2,0.8,0.033,1.5,0.071,0.002,Moderate
+hoisin sauce,35,0.5,0.036,7.1,4.4,0.5,0.4,0.3,Moderate
+pickle relish,20,0.061,0.093,5.3,4.4,0.097,0.2,0.1,Moderate
+tomato sauce with herbs cheese,144,4.7,1.5,25.0,0.0,5.2,5.4,1.3,Healthy
+french dressing,73,7.2,0.9,2.5,2.6,0.1,0.0,0.1,Moderate
+mayonnaise hellmanns,15,1.7,0.9,0.087,0.2,0.0,0.0,0.0,Moderate
+canadian maple syrup,76,0.0,0.0,19.1,17.0,0.0,0.0,0.086,Junk
+maple syrup,52,0.047,0.036,13.4,13.6,0.09,0.0,0.059,Moderate
+barbecue sauce bulls eye,27,0.1,0.028,6.4,5.6,0.1,0.2,0.2,Moderate
+ranch dressing,65,6.7,1.0,0.9,0.7,0.2,0.0,0.1,Moderate
+tomato ketchup mp,15,0.0,4.0,0.2,0.0,0.0,0.0,0.0,Moderate
+mayonnaise light,36,3.3,0.5,1.4,0.5,0.032,0.0,0.1,Moderate
+mayonnaise dressing,103,11.7,1.6,0.066,0.093,0.0,0.0,0.081,Moderate
+malt syrup,67,0.0,0.0,15.0,15.0,1.3,0.0,0.05,Moderate
+gravy dry,86,2.0,0.7,14.5,0.0,3.3,0.0,1.4,Moderate
+cranberry orange relish,490,0.3,0.06,127.1,0.0,0.8,0.0,0.063,Moderate
+caesar dressing,80,8.5,1.3,0.5,0.4,0.3,0.036,0.2,Moderate
+italian dressing,35,3.1,0.4,1.8,1.6,0.032,0.0,0.1,Moderate
+brown gravy instant,25,0.8,0.4,4.0,0.6,0.6,0.2,0.3,Moderate
+roquefort cheese dressing,15,1.1,0.4,0.4,0.4,0.8,0.0,0.1,Moderate
+blue cheese dressing,71,7.7,1.2,0.7,0.5,0.2,0.045,0.2,Moderate
+duck sauce,80,0.063,0.033,19.7,9.9,0.1,0.2,0.1,Moderate
+au jus,38,0.5,0.2,5.9,0.0,2.8,0.0,1.1,Moderate
+corn syrup dark,57,0.0,0.0,15.5,15.5,0.0,0.0,0.047,Junk
+buttermilk dressing light,30,1.9,0.2,3.2,0.6,0.2,0.2,0.2,Moderate
+cider vinegar,3,0.0,0.0,0.1,0.018,0.0,0.0,0.011,Moderate
+tartar sauce,32,2.5,0.5,2.0,0.6,0.2,0.078,0.1,Moderate
+pepper hot sauce,1,0.018,0.057,0.031,0.065,0.024,0.071,0.1,Moderate
+tomato chili sauce,6,0.095,0.076,1.2,0.6,0.2,0.4,0.083,Moderate
+turkey gravy dry,26,0.5,0.1,4.6,0.0,0.7,0.0,0.3,Moderate
+salsa sauce,5,0.039,0.07,1.2,0.7,0.3,0.3,0.1,Moderate
+steak sauce,16,0.004,0.0,3.7,1.7,0.2,0.3,0.3,Moderate
+molasses,58,0.068,0.052,14.9,14.9,0.0,0.0,0.007,Moderate
+italian dressing fat free,7,0.1,0.099,1.2,1.2,0.1,0.077,0.2,Moderate
+plum sauce,35,0.2,0.094,8.1,0.0,0.2,0.1,0.1,Moderate
+chow mein stir fry master foods,26,0.2,5.5,0.0,0.0,0.0,0.0,0.0,Junk
+beef gravy instant,25,0.6,0.3,4.1,1.6,0.7,0.3,0.3,Moderate
+horseradish,2,0.085,0.007,0.6,0.4,0.003,0.2,0.039,Moderate
+grenadine,54,0.0,0.0,13.4,9.3,0.0,0.0,0.038,Moderate
+tabasco sauce,1,0.002,0.051,0.006,0.067,0.045,0.013,0.075,Moderate
+sweet sour sauce,26,0.084,0.0,6.7,3.3,0.02,0.065,0.024,Moderate
+salsa verde,6,0.1,0.0,1.0,0.5,0.2,0.3,0.034,Moderate
+miso,40,1.2,0.2,5.1,1.2,2.6,1.1,0.7,Moderate
+sprouted soybean cooked,76,4.2,0.6,6.1,0.4,8.0,0.8,0.2,Moderate
+soy flour roasted,375,18.6,2.7,28.6,6.5,29.6,8.2,0.083,Healthy
+soy flour low fat,330,7.8,1.1,30.7,9.3,40.0,14.1,0.085,Healthy
+green soybean cooked,127,5.8,0.7,9.9,0.0,11.1,3.8,0.2,Moderate
+azumaya tofu vitasoy,316,16.6,2.0,9.1,1.6,32.8,2.4,0.03,Moderate
+soy proteins isolate,96,1.0,0.1,2.1,0.0,22.8,1.6,0.3,Moderate
+tofu yogurt,246,4.7,0.7,41.8,3.2,9.2,0.5,0.03,Moderate
+bacon meatless,446,42.5,6.7,9.1,0.0,15.4,3.7,2.1,Junk
+meatless chicken fried,304,16.6,1.5,11.1,0.0,27.7,5.6,0.5,Healthy
+soymilk,109,4.8,0.5,8.4,6.1,7.1,1.0,0.1,Moderate
+soy vermicelli,463,0.1,0.092,115.2,24.4,0.1,5.5,0.032,Junk
+tofu fried,35,2.6,0.4,1.2,0.4,2.4,0.5,0.021,Moderate
+tempeh,320,17.9,3.7,15.6,0.0,30.8,0.0,0.068,Moderate
+koyadofu,81,5.2,0.7,1.7,0.0,8.9,1.2,0.081,Moderate
+meatless meatloaf,110,5.0,0.8,4.5,0.7,11.8,2.6,0.3,Moderate
+soya vanille joghurt alpro,21,0.6,0.1,1.0,0.09,0.3,0.0,0.0,Moderate
+soybean curd cheese,340,18.2,2.6,15.5,3.6,28.1,0.0,0.094,Moderate
+soy sauce,8,0.054,0.025,0.8,0.097,1.3,0.1,0.9,Moderate
+soybean dry roasted,419,20.1,2.9,30.4,0.0,36.8,7.5,0.077,Healthy
+soybean oil,120,13.6,2.1,0.0,0.0,0.0,0.0,0.0,Moderate
+meatless chicken,376,21.4,3.1,6.1,0.0,39.7,6.0,1.2,Healthy
+soybean cooked,296,15.4,2.2,17.1,5.2,28.6,10.3,0.075,Healthy
+soymilk nonfat,68,0.046,0.0,10.1,8.9,6.0,0.5,0.1,Moderate
+soy flour,23,1.1,0.2,1.8,0.4,1.8,0.5,0.023,Moderate
+soybean lecithin oil,104,13.6,2.0,0.0,0.0,0.0,0.0,0.0,Moderate
+tofu raw,188,11.9,1.7,4.7,0.0,20.0,0.7,0.06,Moderate
+soy chips,109,2.1,0.3,15.0,0.5,7.5,1.0,0.2,Moderate
+green soybean raw,376,17.4,2.0,28.3,0.0,33.2,10.8,0.017,Healthy
+soy proteins concentrate,93,0.1,0.04,7.2,0.0,18.0,1.6,0.3,Moderate
+soybean margarine,34,3.8,0.8,0.043,0.0,0.052,0.0,0.005,Moderate
+chocolate soymilk nonfat,107,0.046,0.0,20.7,8.9,6.0,0.5,0.1,Moderate
+okara,93,2.1,0.2,15.3,0.0,3.9,0.0,0.07,Moderate
+meatless meatballs,284,13.0,2.1,11.5,1.8,30.2,6.6,0.8,Healthy
+vanilla soymilk,131,4.3,0.5,15.3,9.7,7.9,1.5,0.1,Moderate
+soy meal raw,414,2.9,0.3,49.0,0.0,54.8,0.0,0.017,Moderate
+soymilk low fat,104,1.5,0.0,17.5,8.5,4.0,1.9,0.04,Moderate
+sprouted soybean raw,85,4.7,0.7,6.7,0.0,9.2,0.8,0.005,Moderate
+soybean raw,830,37.1,5.4,56.1,13.6,67.9,17.3,0.023,Junk
+tempeh cooked,55,3.2,1.0,2.6,0.0,5.1,0.0,0.084,Moderate
+vanilla soymilk light,83,2.1,0.2,9.4,1.0,6.4,1.5,0.2,Moderate
+chocolate soymilk,153,3.7,0.6,24.2,19.1,5.5,1.0,0.1,Junk
+soy oil,120,13.6,3.4,0.0,0.0,0.0,0.0,0.0,Moderate
+natto,169,8.8,1.3,11.5,3.9,14.2,4.3,0.026,Moderate
+chrysanthemum raw,12,0.3,0.0,1.5,0.0,1.7,1.5,0.012,Moderate
+gourd cooked,100,0.6,0.035,25.5,9.2,1.2,5.2,0.065,Healthy
+cauliflower raw,3,0.081,0.094,0.6,0.2,0.2,0.3,0.042,Moderate
+red cabbage raw,53,0.3,0.002,12.5,6.5,2.4,3.6,0.079,Moderate
+broccoli raab raw,9,0.2,0.047,1.1,0.2,1.3,1.1,0.04,Moderate
+napa cabbage cooked,13,0.2,0.0,2.4,0.0,1.2,0.0,0.012,Moderate
+kelp,2,0.067,0.037,0.5,0.069,0.07,0.018,0.019,Moderate
+shallots raw,18,0.061,0.041,4.2,2.0,0.6,0.8,0.044,Moderate
+bamboo shoots raw,49,0.5,0.1,9.4,5.4,4.7,4.0,0.067,Moderate
+jute cooked,32,0.2,0.004,6.3,0.9,3.2,1.7,0.043,Moderate
+red lettuce,4,0.08,0.036,0.6,0.1,0.4,0.3,0.057,Moderate
+broccoli cooked,98,1.1,0.2,20.1,3.9,6.7,9.2,0.1,Healthy
+romanesco raw,20,0.2,0.038,3.9,1.9,1.9,2.0,0.025,Moderate
+eggplant raw,115,0.8,0.2,26.9,16.2,4.5,13.7,0.028,Junk
+leeks raw,54,0.3,0.049,12.6,3.5,1.3,1.6,0.003,Moderate
+lemongrass citronella,5,0.076,0.067,1.2,0.0,0.038,0.0,0.024,Moderate
+pumpkin cooked,49,0.2,0.019,12.0,5.1,1.8,2.7,0.006,Moderate
+celery cooked,7,0.098,0.064,1.5,0.9,0.3,0.6,0.093,Moderate
+serrano pepper,2,0.075,0.072,0.4,0.2,0.1,0.2,0.067,Moderate
+nopales raw,14,0.063,0.018,2.9,1.0,1.1,1.9,0.076,Moderate
+sweet potato leaves cooked,22,0.2,0.099,4.7,3.5,1.4,1.2,0.2,Moderate
+eggplant cooked,33,0.2,0.049,8.1,3.2,0.8,2.5,0.2,Moderate
+asparagus cooked,3,0.074,0.004,0.6,0.2,0.4,0.3,0.0,Moderate
+rutabaga cooked,72,0.4,0.007,16.4,9.5,2.2,4.3,0.049,Moderate
+parsnips raw,128,0.5,0.1,30.6,8.2,2.0,8.3,0.068,Healthy
+sour pickles,17,0.3,0.079,3.5,1.6,0.5,1.9,1.9,Moderate
+turnip greens cooked,29,0.3,0.091,6.3,0.8,1.6,5.0,0.4,Moderate
+jerusalem artichokes,110,0.047,0.0,26.2,14.4,3.0,2.4,0.011,Moderate
+collard raw,12,0.2,0.026,2.0,0.2,1.1,1.4,0.014,Moderate
+chrysanthemum cooked,20,0.036,0.0,4.3,2.0,1.6,2.3,0.042,Moderate
+oriental radish dried,314,0.8,0.3,73.5,43.3,9.2,27.7,0.3,Junk
+tomatillos,42,1.3,0.2,7.7,5.2,1.3,2.5,0.019,Moderate
+taro shoots raw,9,0.069,0.016,2.0,0.0,0.8,0.0,0.056,Moderate
+acorn squash raw,172,0.4,0.091,44.9,0.0,3.4,6.5,0.017,Healthy
+leeks dried,10,0.026,0.08,2.4,0.0,0.5,0.3,0.077,Moderate
+cabbage raw,70,0.3,0.054,16.2,9.0,3.6,7.0,0.006,Healthy
+sweet red peppers cooked,19,0.1,0.012,4.5,3.2,0.7,0.9,0.2,Moderate
+sweet red peppers raw,46,0.4,0.088,9.0,6.3,1.5,3.1,0.092,Moderate
+cucumber peeled,16,0.2,0.1,2.9,1.8,0.8,0.9,0.098,Moderate
+purslane raw,9,0.2,0.0,1.5,0.0,0.9,0.0,0.066,Moderate
+peas onions cooked,81,0.4,0.055,15.5,6.8,4.6,4.0,0.5,Moderate
+tomato cooked,22,0.1,0.086,4.9,3.1,1.2,0.9,0.029,Moderate
+taro shoots cooked,20,0.1,0.068,4.5,0.0,1.0,0.0,0.3,Moderate
+scots kale raw,28,0.4,0.072,5.6,0.0,1.9,1.1,0.059,Moderate
+artichoke raw,60,0.2,0.056,13.5,1.3,4.2,6.9,0.1,Healthy
+navy bean sprouts raw,70,0.7,0.05,13.6,0.0,6.4,0.0,0.063,Moderate
+sweet pickles,146,0.7,0.1,33.8,29.2,0.9,1.6,0.7,Junk
+oriental radish cooked,25,0.4,0.1,5.0,2.7,1.0,2.4,0.4,Moderate
+sweet potato leaves raw,15,0.2,0.088,3.1,0.0,0.9,1.9,0.073,Moderate
+irishmoss,2,0.049,0.06,0.6,0.098,0.037,0.082,0.084,Moderate
+drumstick leaves cooked,25,0.4,0.0,4.7,0.4,2.2,0.8,0.1,Moderate
+winter squash raw,39,0.2,0.019,10.0,2.6,1.1,1.7,0.027,Moderate
+pumpkin raw,30,0.1,0.065,7.5,3.2,1.2,0.6,0.062,Moderate
+chicory greens,7,0.096,0.078,1.4,0.2,0.5,1.2,0.017,Moderate
+spinach cooked,41,0.5,0.042,6.8,0.8,5.3,4.3,0.1,Moderate
+radish pickled,42,0.5,0.1,7.8,3.0,1.7,3.3,1.2,Moderate
+sweet onion,106,0.3,0.0,25.0,16.6,2.6,3.0,0.063,Junk
+salsify cooked,92,0.2,0.0,20.7,3.9,3.7,4.2,0.028,Moderate
+radish seeds sprouted,16,1.0,0.3,1.4,0.0,1.4,0.0,0.067,Moderate
+turnips raw,51,0.2,0.074,11.8,7.0,1.6,3.3,0.1,Moderate
+burdock root raw,85,0.2,0.069,20.5,3.4,1.8,3.9,0.008,Moderate
+red cabbage cooked,49,0.2,0.058,11.8,5.6,2.6,4.4,0.047,Moderate
+jute raw,10,0.046,0.0,1.6,0.0,1.3,0.0,0.042,Moderate
+hot chile pepper dried,2,0.054,0.001,0.3,0.2,0.054,0.1,0.041,Moderate
+salsify raw,109,0.3,0.0,24.7,0.0,4.4,4.4,0.093,Moderate
+crookneck squash raw,24,0.3,0.1,4.9,4.5,1.3,1.3,0.047,Moderate
+indian squash cooked,38,0.4,0.0,7.6,4.7,0.7,3.5,0.0,Moderate
+poi,269,0.3,0.063,65.4,0.9,0.9,1.0,0.091,Moderate
+sesbania flower cooked,22,0.007,0.0,5.3,0.0,1.2,0.0,0.3,Moderate
+acorn squash cooked,115,0.3,0.023,29.9,0.0,2.3,9.0,0.5,Healthy
+cauliflower cooked,29,0.6,0.055,5.1,2.6,2.3,2.9,0.094,Moderate
+crookneck squash cooked,34,0.7,0.1,6.8,4.5,1.9,2.0,0.4,Moderate
+laver seaweed,1,0.012,0.066,0.1,0.071,0.2,0.09,0.075,Moderate
+mountain yam cooked,119,0.1,0.014,29.0,0.0,2.5,0.0,0.4,Moderate
+pumpkin flowers raw,5,0.084,0.049,1.1,0.0,0.3,0.0,0.066,Moderate
+mustard greens raw,15,0.2,0.072,2.6,0.7,1.6,1.8,0.004,Moderate
+arrowhead,12,0.084,0.0,2.4,0.0,0.6,0.0,0.082,Moderate
+japanese cabbage,45,0.2,0.092,8.5,2.0,2.4,4.7,0.4,Moderate
+mung bean sprouts cooked,24,0.1,0.05,4.5,3.5,2.5,1.0,0.3,Moderate
+scallop squash cooked,29,0.3,0.034,5.9,2.7,1.9,3.4,0.4,Moderate
+pumpkin leaves cooked,15,0.2,0.092,2.4,0.5,1.9,1.9,0.2,Moderate
+hungarian pepper,8,0.1,0.082,1.8,1.0,0.2,0.3,0.028,Moderate
+sweet potato baked,103,0.2,0.013,23.6,7.4,2.3,3.8,0.07,Moderate
+chinese cabbage pe tsai raw,12,0.2,0.033,2.5,1.1,0.9,0.9,0.049,Moderate
+taro raw,116,0.2,0.099,27.5,0.4,1.6,4.3,0.054,Moderate
+yam bean jicama,49,0.1,0.061,11.5,2.3,0.9,6.4,0.047,Healthy
+olives,10,0.9,0.2,0.5,0.0,0.09,0.1,0.001,Moderate
+mustard greens cooked,36,0.7,0.053,6.3,2.0,3.6,2.8,0.4,Moderate
+pumpkin flowers cooked,20,0.1,0.057,4.4,3.2,1.5,1.2,0.082,Moderate
+tree fern cooked,57,0.096,0.0,15.3,0.0,0.4,5.3,0.3,Healthy
+yellow corn raw,606,7.9,1.1,123.3,1.1,15.6,12.1,0.06,Healthy
+endive,9,0.1,0.022,1.7,0.1,0.6,1.6,0.08,Moderate
+wakame,36,0.5,0.1,7.3,0.5,2.4,0.4,0.7,Moderate
+tahitian taro raw,55,1.2,0.2,8.6,0.0,3.5,0.0,0.003,Moderate
+broccoli raw,31,0.3,0.053,6.0,1.5,2.6,2.4,0.049,Moderate
+sweet green peppers raw,30,0.3,0.053,6.9,3.6,1.3,2.5,0.023,Moderate
+chinese cabbage pak choi cooked,20,0.3,0.014,3.0,1.4,2.7,1.7,0.5,Moderate
+agar,1,0.058,0.087,0.3,0.005,0.053,0.027,0.049,Moderate
+watercress,4,0.006,0.071,0.4,0.099,0.8,0.2,0.038,Moderate
+beet greens cooked,39,0.3,0.025,7.9,0.9,3.7,4.2,0.3,Moderate
+winter squash cooked,76,0.7,0.1,18.1,6.8,1.8,5.7,0.068,Healthy
+new zealand spinach raw,8,0.1,0.077,1.4,0.2,0.8,0.8,0.017,Moderate
+okra,4,0.082,0.001,0.9,0.2,0.2,0.4,0.098,Moderate
+yautia tannier,132,0.5,0.1,31.9,0.0,2.0,2.0,0.031,Moderate
+mustard spinach cooked,29,0.4,0.0,5.0,0.0,3.1,3.6,0.5,Moderate
+rhubarb cooked,278,0.1,0.08,74.9,68.9,0.9,4.8,0.007,Junk
+beets raw,58,0.2,0.028,13.0,9.2,2.2,3.8,0.1,Moderate
+drumstick pods raw,37,0.2,0.025,8.5,0.0,2.1,3.2,0.077,Moderate
+baby zucchini,2,0.089,0.02,0.3,0.0,0.3,0.1,0.041,Moderate
+onion raw,16,0.048,0.077,3.7,1.7,0.4,0.7,0.065,Moderate
+romanesco cooked,39,0.4,0.028,7.7,0.0,3.7,4.0,0.3,Moderate
+butternut squash raw,90,0.2,0.044,23.4,4.4,2.0,4.0,0.067,Moderate
+amaranth leaves,6,0.075,0.072,1.1,0.0,0.7,0.0,0.071,Moderate
+turnip greens raw,18,0.2,0.009,3.9,0.4,0.8,1.8,0.012,Moderate
+spaghetti squash raw,31,0.6,0.1,7.0,2.8,0.6,1.5,0.081,Moderate
+seaweed dry,52,0.3,0.006,9.2,0.0,3.1,7.3,0.9,Healthy
+yam cooked,158,0.2,0.061,37.4,0.7,2.0,5.3,0.017,Healthy
+corn dried,119,3.0,0.6,18.8,6.0,4.1,5.8,0.029,Healthy
+cucumber,23,0.2,0.068,5.4,2.5,1.0,0.8,0.061,Moderate
+arrowroot,78,0.2,0.094,16.1,0.0,5.1,1.6,0.052,Moderate
+cardoon raw,30,0.2,0.072,7.2,0.0,1.2,2.8,0.3,Moderate
+bamboo shoots cooked,14,0.3,0.007,2.3,0.0,1.8,1.2,0.04,Moderate
+summer squash raw,42,0.5,0.1,8.7,5.7,3.1,2.9,0.051,Moderate
+sweet potato raw,112,0.002,0.036,26.2,5.4,2.0,3.9,0.079,Moderate
+green tomato,42,0.4,0.024,9.3,7.3,2.2,2.0,0.055,Moderate
+beet greens raw,8,0.078,0.026,1.6,0.2,0.8,1.4,0.013,Moderate
+savoy cabbage cooked,41,0.2,0.076,9.2,0.0,3.1,4.8,0.05,Moderate
+witloof chicory,9,0.031,0.076,2.1,0.0,0.5,1.6,0.022,Moderate
+turnips cooked,34,0.1,0.082,7.9,4.7,1.1,3.1,0.017,Moderate
+dried tomatoes,5,0.053,0.032,1.1,0.8,0.3,0.2,0.069,Moderate
+radicchio,15,0.2,0.031,2.9,0.4,0.9,0.6,0.033,Moderate
+mixed vegetables cooked,118,0.3,0.0,23.8,5.7,5.2,8.0,0.089,Healthy
+yellow tomato,32,0.6,0.03,6.3,0.0,2.1,1.5,0.088,Moderate
+cardoon cooked,26,0.1,0.014,6.4,0.0,0.9,2.0,0.2,Moderate
+spinach raw,7,0.1,0.024,1.1,0.1,0.9,0.7,0.036,Moderate
+kale raw,7,0.3,0.057,0.9,0.2,0.6,0.9,0.045,Moderate
+drumstick pods cooked,42,0.2,0.0,9.7,0.0,2.5,5.0,0.3,Moderate
+kohlrabi raw,72,0.3,0.007,16.4,6.9,4.5,9.5,0.063,Healthy
+lentil sprouts,82,0.4,0.067,17.0,0.0,6.9,0.0,0.044,Moderate
+carrots raw,25,0.1,0.046,5.8,2.9,0.6,1.7,0.024,Moderate
+red chili peppers,18,0.2,0.088,4.0,2.4,0.8,0.7,0.03,Moderate
+fennel,73,0.5,0.0,17.1,0.0,2.9,7.3,0.1,Healthy
+sweet corn white,63,0.9,0.1,13.9,2.4,2.4,2.0,0.016,Moderate
+celeriac raw,66,0.5,0.1,14.4,2.5,2.3,2.8,0.2,Moderate
+hubbard squash raw,46,0.6,0.1,10.1,4.6,2.3,4.5,0.094,Moderate
+brussels sprouts cooked,8,0.1,0.099,1.5,0.4,0.5,0.5,0.051,Moderate
+carrots cooked,16,0.092,0.096,3.8,1.6,0.3,1.4,0.025,Moderate
+lambs quarters raw,0,0.067,0.0,0.069,0.0,0.08,0.046,0.033,Moderate
+lotus root cooked,6,0.056,0.029,1.4,0.0,0.1,0.3,0.0,Moderate
+split peas raw,672,2.3,0.3,118.9,15.8,48.4,50.2,0.075,Junk
+scots kale cooked,36,0.5,0.014,7.3,0.0,2.5,0.0,0.4,Moderate
+corn cooked,99,1.5,0.2,21.6,4.7,3.5,2.5,0.039,Moderate
+radish raw,1,0.026,0.084,0.2,0.066,0.042,0.002,0.033,Moderate
+stinging nettles,37,0.007,0.0,6.7,0.2,2.4,6.1,0.09,Healthy
+baby carrots,5,0.053,0.015,1.2,0.7,0.031,0.4,0.097,Moderate
+sweet yellow peppers,50,0.4,0.012,11.8,0.0,1.9,1.7,0.017,Moderate
+taro leaves raw,12,0.2,0.013,1.9,0.8,1.4,1.0,0.083,Moderate
+corn raw,123,1.9,0.5,26.7,9.0,4.7,2.9,0.083,Moderate
+roselle,28,0.4,0.0,6.4,0.0,0.5,0.0,0.079,Moderate
+drumstick leaves raw,13,0.3,0.0,1.7,0.0,2.0,0.4,0.071,Moderate
+scallop squash raw,23,0.3,0.097,5.0,3.1,1.6,1.6,0.075,Moderate
+chicory roots,65,0.2,0.052,15.8,7.9,1.3,1.4,0.055,Moderate
+brussels sprouts raw,8,0.077,0.072,1.7,0.4,0.6,0.7,0.049,Moderate
+kale cooked,42,1.4,0.2,6.3,1.4,3.5,4.7,0.018,Moderate
+pupusas con frijoles,289,11.4,2.8,39.7,1.6,7.0,7.3,0.4,Healthy
+mustard cabbage,36,0.1,0.016,7.2,1.8,1.4,4.0,0.9,Moderate
+gourd raw,19,0.2,0.07,4.1,1.9,1.1,1.0,0.03,Moderate
+butternut squash cooked,80,0.2,0.013,21.0,3.9,1.8,6.4,0.002,Healthy
+burdock root cooked,146,0.2,0.0,35.1,5.9,3.5,3.0,0.4,Moderate
+cassava,330,0.6,0.2,78.4,3.5,2.8,3.7,0.099,Moderate
+peas carrots cooked,77,0.7,0.1,16.2,7.0,4.9,5.0,0.5,Moderate
+romaine lettuce,8,0.1,0.049,1.5,0.6,0.6,1.0,0.083,Moderate
+yam raw,177,0.3,0.067,41.8,0.8,2.3,6.2,0.017,Healthy
+chowchow pickles,296,2.2,0.4,65.3,58.5,3.7,3.7,1.3,Junk
+prairie turnips raw,20,0.029,0.0,4.5,0.1,0.3,1.0,0.059,Moderate
+savoy cabbage raw,19,0.017,0.091,4.3,1.6,1.4,2.2,0.007,Moderate
+celery raw,6,0.045,0.005,1.2,0.5,0.3,0.6,0.019,Moderate
+celeriac cooked,42,0.3,0.0,9.1,0.0,1.5,0.0,0.084,Moderate
+mustard spinach raw,33,0.5,0.087,5.9,0.0,3.3,4.2,0.025,Moderate
+zucchini raw,44,0.8,0.2,8.1,6.5,3.1,2.6,0.023,Moderate
+okra cooked,35,0.3,0.032,7.2,3.8,3.0,4.0,0.4,Moderate
+white icicle radish,14,0.1,0.076,2.6,0.0,1.1,1.4,0.049,Moderate
+orange tomato,18,0.2,0.097,3.5,0.0,1.3,1.0,0.001,Moderate
+pumpkin leaves raw,7,0.2,0.053,0.9,0.0,1.2,0.0,0.057,Moderate
+spaghetti squash cooked,42,0.4,0.091,10.0,3.9,1.0,2.2,0.4,Moderate
+white corn cooked,100,1.5,0.2,22.4,8.0,3.4,2.8,0.082,Moderate
+artichoke cooked,64,0.4,0.059,14.3,1.2,3.5,10.3,0.087,Healthy
+avocado,432,39.6,5.7,23.0,1.8,5.4,18.1,0.045,Junk
+string beans wellsley farms,8,0.0,0.0,1.7,0.3,0.3,0.087,0.0,Moderate
+lambs quarters cooked,58,1.3,0.085,9.0,1.1,5.8,3.8,0.5,Moderate
+peas cooked,134,0.4,0.065,25.0,9.5,8.6,8.8,0.074,Healthy
+beets cooked,22,0.085,0.026,5.0,4.0,0.8,1.0,0.035,Moderate
+shallots dried,3,0.013,0.063,0.7,0.3,0.1,0.1,0.059,Moderate
+green lettuce,23,0.2,0.027,4.3,1.2,2.0,2.0,0.05,Moderate
+kohlrabi cooked,48,0.2,0.041,11.0,4.6,3.0,1.8,0.035,Moderate
+kanpyo dried,139,0.3,0.041,35.1,0.0,4.6,5.3,0.056,Healthy
+prairie turnips boiled,18,0.086,0.0,4.2,0.7,0.2,1.0,0.012,Moderate
+broccoli raab cooked,21,0.4,0.086,2.7,0.5,3.3,2.4,0.077,Moderate
+summer squash cooked,49,1.0,0.2,9.9,6.4,2.7,2.9,0.036,Moderate
+taro cooked,187,0.1,0.012,45.7,0.6,0.7,6.7,0.055,Healthy
+spring onion scallions,6,0.077,0.029,1.5,0.5,0.4,0.5,0.048,Moderate
+hubbard squash cooked,57,0.7,0.1,12.3,5.6,2.8,5.5,0.5,Healthy
+jalapeno pepper,4,0.002,0.06,0.9,0.6,0.1,0.4,0.028,Moderate
+new zealand spinach cooked,22,0.3,0.027,3.8,0.5,2.3,2.5,0.6,Moderate
+sesbania flower raw,1,0.095,0.0,0.2,0.0,0.012,0.0,0.007,Moderate
+spirulina dried,20,0.5,0.2,1.7,0.2,4.0,0.3,0.031,Moderate
+chinese cabbage pe tsai cooked,17,0.2,0.011,2.9,0.0,1.8,2.0,0.3,Moderate
+zucchini cooked,27,0.6,0.1,4.8,3.1,2.1,1.8,0.077,Moderate
+green olives pickled,4,0.4,0.064,0.1,0.051,0.073,0.057,0.1,Moderate
+lotus root raw,85,0.1,0.057,19.8,0.0,3.0,5.6,0.06,Healthy
+grape leaves,13,0.3,0.085,2.4,0.9,0.8,1.5,0.005,Moderate
+dill pickled cucumber,17,0.2,0.08,3.7,1.9,0.9,1.6,1.3,Moderate
+skunk cabbage,11,0.1,0.0,1.8,0.0,1.5,1.2,0.016,Moderate
+banana pepper,9,0.1,0.018,1.8,0.6,0.5,1.1,0.039,Moderate
+oriental radish raw,61,0.3,0.1,13.9,8.5,2.0,5.4,0.014,Healthy
+purslane cooked,21,0.2,0.0,4.1,0.0,1.7,0.0,0.3,Moderate
+rhubarb raw,11,0.1,0.043,2.3,0.6,0.5,0.9,0.058,Moderate
+swamp cabbage,20,0.2,0.0,3.6,0.0,2.0,1.9,0.4,Moderate
+mung bean sprouts raw,6,0.044,0.036,1.2,0.8,0.6,0.4,0.08,Moderate
+onion cooked,7,0.034,0.095,1.5,0.7,0.2,0.2,0.04,Moderate
+swiss chard raw,7,0.042,0.065,1.3,0.4,0.6,0.6,0.089,Moderate
+peas raw,117,0.6,0.1,21.0,8.2,7.9,7.4,0.017,Healthy
+cabbage cooked,35,0.019,0.0,8.3,4.2,1.9,2.9,0.011,Moderate
+taro leaves cooked,35,0.6,0.1,5.6,0.0,3.9,2.9,0.3,Moderate
+leeks cooked,38,0.2,0.086,9.4,2.6,1.0,1.2,0.067,Moderate
+split peas cooked,227,0.8,0.1,40.2,5.7,16.3,16.3,0.5,Healthy
+sweet corn yellow,58,0.4,0.029,14.2,2.6,4.1,1.5,0.05,Moderate
+asparagus raw,2,0.037,0.012,0.5,0.2,0.3,0.3,0.047,Moderate
+collard cooked,63,1.4,0.049,10.7,0.0,5.1,7.6,0.013,Healthy
+swiss chard cooked,35,0.1,0.0,7.2,1.9,3.3,3.7,0.7,Moderate
+nopales cooked,22,0.003,0.064,4.9,1.7,2.0,3.0,0.087,Moderate
+tahitian taro cooked,60,0.9,0.2,9.4,0.0,5.7,0.0,0.4,Moderate
+chinese cabbage pak choi raw,9,0.1,0.013,1.5,0.8,1.1,0.7,0.087,Moderate
+green chili pepper,18,0.097,0.067,4.3,2.3,0.9,0.7,0.023,Moderate
+mountain yam raw,91,0.1,0.015,22.2,0.4,1.8,3.4,0.021,Moderate
+parsnips cooked,114,0.5,0.081,27.2,7.7,2.1,6.4,0.021,Healthy
+tomato stewed,97,3.3,0.6,16.1,0.0,2.4,2.1,0.6,Moderate
+sweet green peppers cooked,19,0.1,0.037,4.5,2.3,0.7,0.9,0.2,Moderate
+white corn raw,143,2.0,0.3,31.6,5.3,5.3,4.5,0.088,Moderate
+rutabaga raw,286,1.2,0.2,66.5,34.4,8.3,17.8,0.061,Junk
+jalapeno peppers canned,37,1.3,0.1,6.4,2.9,1.3,3.5,2.3,Moderate
+pumpkin canned,83,0.7,0.4,19.8,8.1,2.7,7.1,0.6,Healthy
+peas onions canned,61,0.5,0.064,10.3,0.0,3.9,2.8,0.5,Moderate
+sweet mashed potato canned,258,0.5,0.1,59.1,13.9,5.0,4.3,0.2,Moderate
+hominy canned,119,1.5,0.2,23.5,3.0,2.4,4.1,0.6,Moderate
+tomato puree canned,95,0.5,0.098,22.5,12.1,4.1,4.8,0.002,Moderate
+dried tomatoes canned in oil,6,0.4,0.072,0.7,0.0,0.2,0.2,0.056,Moderate
+mixed vegetables canned,88,0.6,0.1,17.5,0.0,3.5,9.3,0.5,Healthy
+straw mushrooms canned,2,0.09,0.1,0.3,0.0,0.2,0.1,0.049,Moderate
+capers canned,2,0.089,0.021,0.4,0.011,0.2,0.3,0.2,Moderate
+red peppers canned,15,0.058,0.03,3.7,2.4,0.7,0.9,0.9,Moderate
+carrots canned,104,0.6,0.1,24.4,11.2,2.6,8.2,0.2,Moderate
+tomatoes in tomato juice canned,41,0.3,0.08,9.6,5.7,1.9,2.4,0.3,Moderate
+asparagus canned,62,0.7,0.2,10.2,4.1,7.4,4.1,0.1,Moderate
+sweet red peppers canned,25,0.4,0.013,5.5,0.0,1.1,1.7,1.9,Moderate
+onions canned,12,0.084,0.045,2.5,1.4,0.5,0.8,0.2,Moderate
+turnip greens canned,27,0.4,0.1,4.0,0.6,2.0,1.9,0.082,Moderate
+hearts of palm,9,0.2,0.056,1.5,0.0,0.8,0.8,0.1,Moderate
+spinach canned,44,0.9,0.1,6.8,0.0,4.9,3.7,0.7,Moderate
+sweet potato canned,568,1.3,0.3,133.5,98.3,6.3,16.0,0.3,Junk
+corn canned,49,0.6,0.032,11.1,3.3,1.6,1.4,0.2,Moderate
+peas carrots canned,97,0.7,0.1,21.6,7.2,5.5,8.4,0.7,Healthy
+crookneck squash canned,27,0.1,0.088,6.2,2.5,1.3,2.9,0.006,Moderate
+tomatoes canned,77,0.7,0.062,17.6,10.6,4.0,4.6,0.3,Moderate
+pimento canned,44,0.6,0.004,9.8,5.2,2.1,3.6,0.006,Moderate
+sweet green peppers canned,25,0.4,0.037,5.5,0.0,1.1,1.7,1.9,Moderate
+peas canned,57,0.8,0.1,9.5,0.0,3.5,0.0,0.2,Moderate
+chili peppers canned,29,0.4,0.013,6.4,0.0,1.0,2.4,0.6,Moderate
+green peppers canned,15,0.074,0.096,3.7,2.3,0.7,0.9,0.9,Moderate
+grape leaves canned,20,0.6,0.065,3.3,0.0,1.2,2.8,0.8,Moderate
+sauerkraut canned,27,0.2,0.023,6.1,2.5,1.3,4.1,0.9,Moderate
+beets canned,69,0.2,0.017,16.2,13.2,2.0,3.0,0.02,Moderate
+stewed tomatoes canned,66,0.5,0.078,15.8,9.0,2.3,2.6,0.6,Moderate
+tomato paste canned,215,1.2,0.3,49.5,31.9,11.3,10.7,2.1,Junk
+bacon ranch salad mcdonalds,389,20.1,5.2,19.4,4.9,28.1,3.2,0.9,Junk
+caesar salad with grilled chicken mcdonalds,201,5.6,3.0,11.3,4.8,29.1,3.3,0.6,Moderate
+caesar salad mcdonalds,94,4.4,2.5,9.1,4.4,6.8,3.4,0.2,Moderate
+vegetable salad,22,0.054,0.053,4.4,0.0,1.7,0.0,0.025,Moderate
+vegetable salad with chicken,70,1.5,0.4,2.5,0.0,11.6,0.0,0.1,Moderate
+potato salad,358,20.5,3.6,27.9,0.0,6.7,3.3,1.3,Moderate
+taco salad taco bell,906,48.9,15.9,80.5,0.0,35.7,16.0,1.9,Junk
+iceberg lettuce,8,0.045,0.089,1.7,1.1,0.5,0.7,0.022,Moderate
+cornsalad,12,0.2,0.0,2.0,0.0,1.1,0.0,0.067,Moderate
+potato salad with egg,393,23.5,3.6,40.5,12.4,4.9,3.3,0.8,Moderate
+side salad mcdonalds,17,0.2,0.014,3.7,1.9,0.9,1.4,0.037,Moderate
+caesar salad with crispy chicken mcdonalds,349,16.4,4.3,19.2,4.5,25.7,3.4,0.7,Moderate
+grape apple salad with walnuts,191,8.2,1.1,25.6,20.3,3.5,3.6,0.087,Junk
+vegetable salad with cheese egg,68,3.9,2.0,3.2,0.0,5.8,0.0,0.044,Moderate
+celtuce,1,0.088,0.0,0.3,0.0,0.071,0.1,0.094,Moderate
+arugula,5,0.1,0.029,0.7,0.4,0.5,0.3,0.018,Moderate
+vegetable salad with shrimp,71,1.7,0.4,4.4,0.0,9.7,0.0,0.3,Moderate
+coleslaw,292,18.9,3.1,28.4,23.3,1.8,3.6,0.4,Junk
+shiitake mushrooms cooked,10,0.007,0.061,2.6,0.7,0.3,0.4,0.048,Moderate
+shiitake mushrooms raw,6,0.039,0.0,1.3,0.5,0.4,0.5,0.096,Moderate
+crimini mushrooms,1,0.018,0.054,0.3,0.1,0.2,0.064,0.086,Moderate
+mushrooms raw,15,0.2,0.052,2.3,1.4,2.2,0.7,0.053,Moderate
+portabella mushrooms grilled,35,0.7,0.023,5.4,2.7,4.0,2.7,0.047,Moderate
+maitake mushrooms,0,0.017,0.011,0.072,0.043,0.016,0.041,0.059,Moderate
+shiitake mushrooms dried,11,0.061,0.014,2.7,0.046,0.3,0.4,0.086,Moderate
+chanterelle mushrooms,2,0.063,0.0,0.4,0.076,0.033,0.2,0.028,Moderate
+cloud ear fungus dried,80,0.2,0.0,20.4,0.0,2.6,19.6,0.036,Healthy
+mushrooms cooked,44,0.7,0.05,8.3,3.7,3.4,3.4,0.011,Moderate
+pepeao dried,72,0.1,0.0,19.4,0.0,1.2,0.0,0.072,Moderate
+truffles,61,4.1,2.2,5.4,4.6,0.7,0.3,0.034,Moderate
+jews ear,25,0.095,0.0,6.7,0.0,0.5,0.0,0.027,Moderate
+enoki mushrooms,1,0.099,0.027,0.2,0.034,0.062,0.089,0.084,Moderate
+morel mushrooms,4,0.07,0.056,0.7,0.096,0.4,0.4,0.08,Moderate
+portabella mushrooms raw,19,0.3,0.036,3.3,2.2,1.8,1.1,0.014,Moderate
+oyster mushroom,5,0.035,0.016,0.9,0.2,0.5,0.3,0.098,Moderate
+cream cheese,51,5.0,2.9,0.8,0.5,0.9,0.0,0.016,Moderate
+neufchatel cheese,215,19.4,10.9,3.1,2.7,7.8,0.0,0.3,Junk
+requeijao cremoso light catupiry,49,3.6,2.3,0.9,3.4,0.8,0.1,0.0,Moderate
+ricotta cheese,30,2.0,1.3,1.5,0.091,1.5,0.0,0.017,Moderate
+cream cheese low fat,30,2.3,1.4,1.2,0.9,1.2,0.0,0.046,Moderate
+cream cheese fat free,19,0.2,0.1,1.4,1.0,2.8,0.0,0.1,Moderate
+gruyere cheese,116,9.1,5.3,0.1,0.1,8.3,0.0,0.2,Junk
+cheddar cheese,113,9.3,5.3,0.9,0.1,6.4,0.0,0.2,Junk
+parmesan cheese,71,4.5,2.7,0.6,0.046,6.4,0.0,0.2,Moderate
+romano cheese,19,1.3,0.9,0.2,0.088,1.6,0.0,0.008,Moderate
+parmesan cheese grated,21,1.4,0.8,0.7,0.075,1.4,0.0,0.043,Moderate
+port salut cheese,465,37.2,22.0,0.8,0.8,31.4,0.0,0.7,Junk
+swiss cheese,98,7.7,4.6,0.4,0.0,6.7,0.0,0.057,Moderate
+goat cheese hard,128,10.1,7.0,0.6,0.6,8.6,0.0,0.076,Junk
+gouda cheese,100,7.7,4.9,0.6,0.6,7.0,0.0,0.2,Moderate
+pepper jack cheese lucerne,75,6.0,4.0,0.0,0.0,5.0,2.5,0.0,Moderate
+caraway cheese,106,8.3,5.3,0.9,0.0,7.1,0.0,0.2,Junk
+gjetost cheese,1058,67.0,43.5,96.8,0.0,21.9,0.0,1.4,Junk
+tilsit cheese,136,10.4,6.7,0.8,0.0,9.8,0.0,0.3,Junk
+goat cheese,103,8.4,5.8,0.009,0.031,6.1,0.0,0.1,Junk
+brick cheese,111,8.9,5.6,0.8,0.2,7.0,0.0,0.2,Junk
+asadero cheese,402,31.9,20.3,3.2,3.2,25.5,0.0,0.7,Junk
+camembert cheese,90,7.3,4.6,0.1,0.1,5.9,0.0,0.3,Moderate
+provolone cheese reduced fat,310,19.9,12.8,4.0,0.6,27.9,0.0,1.0,Junk
+roquefort cheese,314,26.0,16.4,1.7,0.0,18.3,0.0,1.5,Junk
+queso blanco cheese,366,28.7,16.1,3.0,2.1,24.0,0.0,0.8,Junk
+queso seco cheese,315,23.6,13.3,2.0,0.5,23.8,0.0,1.8,Junk
+goat cheese soft,75,6.0,4.1,0.0,0.3,5.2,0.0,0.1,Moderate
+mozzarella cheese,90,6.6,4.2,0.7,0.0,6.7,0.0,0.1,Moderate
+chihuahua cheese,494,39.2,24.9,7.3,7.3,28.5,0.0,0.8,Junk
+limburger cheese,98,8.2,5.0,0.1,0.1,6.0,0.0,0.2,Moderate
+muenster cheese,486,39.7,25.2,1.5,1.5,30.9,0.0,0.8,Junk
+queso fresco cheese,365,29.1,15.8,3.6,2.8,22.1,0.0,0.9,Junk
+brie cheese,100,8.3,5.2,0.1,0.1,6.2,0.0,0.2,Junk
+pimento cheese,525,43.7,27.5,2.4,0.9,31.0,0.1,2.0,Junk
+mexican cheese,316,21.7,13.0,3.8,0.6,27.7,0.0,0.9,Junk
+feta cheese,80,6.4,4.0,1.2,0.0,4.3,0.0,0.3,Moderate
+mozzarella cheese fat free,159,0.0,0.0,4.0,1.7,35.8,2.0,0.8,Moderate
+provolone cheese,463,35.1,22.5,2.8,0.7,33.8,0.0,1.2,Junk
+anejo cheese,492,39.6,25.1,6.1,6.1,28.3,0.0,1.5,Junk
+honey,64,0.0,0.0,17.3,17.2,0.08,0.025,0.011,Junk
+apple butter,35,0.063,0.038,8.5,7.1,0.045,0.3,0.003,Moderate
+fruit jam,56,0.095,0.021,13.8,9.7,0.0,0.2,0.052,Moderate
+chocolate hazelnut spread,100,5.5,5.3,11.5,10.0,1.0,1.0,0.099,Junk
+peanut butter,88,7.4,1.4,3.6,1.0,3.3,0.9,0.085,Moderate
+peanut spread,101,8.5,1.6,2.2,0.5,3.8,1.2,0.028,Moderate
+chicken spread,88,9.8,1.8,2.3,0.3,10.1,0.2,0.4,Moderate
+cheese spread,708,68.6,43.2,8.4,8.4,17.0,0.0,1.2,Junk
+tahini,86,7.2,1.0,3.9,0.0,2.7,1.4,0.098,Moderate
+orange marmalade,49,0.0,0.0,13.3,12.0,0.014,0.1,0.016,Moderate
+american cheese spread,46,3.4,2.1,1.4,1.2,2.6,0.0,0.3,Moderate
+apricot jam,48,0.01,0.042,12.9,8.7,0.1,0.044,0.004,Moderate
+chunky peanut butter,94,8.0,1.2,3.5,1.3,3.8,1.3,0.03,Moderate
+ham and cheese spread,37,2.8,1.3,0.3,0.0,2.4,0.0,0.2,Moderate
+chicken and rice casserole homade,27,1.0,0.0,2.4,0.0,2.0,0.3,0.0,Moderate
+picnic loaf,65,4.7,1.7,1.3,0.0,4.2,0.0,0.3,Moderate
+corn tamale,309,12.0,4.4,44.3,12.3,5.8,5.3,0.5,Moderate
+baked potato with cheese sauce bacon,451,25.9,10.1,44.4,0.0,18.4,0.0,1.0,Junk
+chinese egg roll,223,10.6,1.9,24.3,0.0,7.4,2.3,0.4,Moderate
+butter croissant,231,12.0,6.6,26.1,6.4,4.7,1.5,0.2,Junk
+enchilada with cheese beef,323,17.6,9.0,30.5,0.0,11.9,0.0,1.3,Junk
+corned beef hash with potatoes,387,24.2,10.2,21.9,0.8,20.6,2.6,1.0,Junk
+biscuit with egg cheese bacon,436,25.3,8.5,35.4,2.5,17.4,0.3,1.2,Junk
+bagel with ham egg cheese,483,18.5,7.9,52.4,7.0,26.7,0.4,1.3,Junk
+quesadilla with chicken,529,27.5,11.1,43.3,3.4,27.1,3.1,1.3,Junk
+corn rice,110,0.3,0.02,25.2,3.0,1.8,0.4,0.2,Moderate
+kung pao chicken,779,42.2,8.2,41.5,18.3,59.0,9.1,2.4,Junk
+beef empanada,298,16.3,4.6,27.8,1.6,10.1,1.8,0.4,Moderate
+frijoles with cheese,225,7.8,4.1,28.7,0.0,11.4,0.0,0.9,Moderate
+burrito with beef,285,8.1,1.7,43.9,4.1,9.1,4.4,0.5,Moderate
+crispy chicken sandwich,350,17.6,3.3,33.2,3.9,14.8,0.0,0.7,Moderate
+enchilada with cheese,374,25.3,11.5,21.2,3.6,15.4,2.6,0.7,Junk
+pork egg roll,189,6.1,1.3,25.1,4.5,8.4,1.8,0.3,Moderate
+corn on the cob with butter,155,3.4,1.6,31.9,0.0,4.5,0.0,0.056,Moderate
+pancakes with butter syrup,260,7.0,2.9,45.4,0.0,4.1,0.0,0.6,Moderate
+burrito with beans,224,6.7,3.4,35.7,0.0,7.0,0.0,0.5,Moderate
+scrambled eggs,100,7.6,2.9,1.0,0.8,6.5,0.0,0.1,Moderate
+baked potato with sour cream,393,22.3,10.0,50.0,0.0,6.7,0.0,0.2,Junk
+turkey and gravy,161,6.3,2.0,11.1,0.0,14.1,0.0,1.3,Moderate
+chicken egg roll,158,3.6,0.8,22.8,4.5,8.4,1.9,0.4,Moderate
+vegetable egg roll,153,3.6,0.6,25.0,5.3,5.2,2.2,0.4,Moderate
+ham cheese roll,67,5.2,2.0,1.1,0.0,3.8,0.0,0.3,Moderate
+biscuit with ham,386,18.4,11.4,43.8,2.2,13.4,0.8,1.1,Junk
+lemon chicken,1440,74.9,12.2,122.0,55.2,68.6,7.0,1.5,Junk
+hummus,435,21.1,2.8,49.5,0.7,12.0,9.8,0.6,Healthy
+croissant with egg cheese,368,24.7,14.1,24.3,0.0,12.8,0.0,0.6,Junk
+enchirito with cheese beef beans,344,16.1,7.9,33.8,0.0,17.9,0.0,1.3,Junk
+sweet sour pork,38,2.2,0.4,3.3,1.4,1.2,0.1,0.003,Moderate
+crab cake,160,10.4,2.2,5.1,0.0,11.3,0.2,0.5,Moderate
+egg dinner roll,107,2.2,0.6,18.2,1.5,3.3,1.3,0.2,Moderate
+english muffin with egg cheese sausage,472,29.9,11.4,28.8,2.5,22.1,0.3,0.8,Junk
+buttermilk pancakes,86,3.5,0.7,10.9,0.0,2.6,0.0,0.2,Moderate
+omelet,94,7.1,2.0,0.4,0.2,6.4,0.0,0.013,Moderate
+taco with chicken cheese lettuce,185,6.2,2.5,19.3,1.3,13.0,1.2,0.6,Moderate
+spinach souffle,230,17.6,10.1,8.0,2.5,10.7,1.0,0.8,Junk
+english muffin with cheese sausage,365,22.3,8.8,27.3,2.1,14.3,0.5,0.7,Junk
+potato gratin,328,18.6,11.6,27.6,0.0,12.4,4.4,1.1,Junk
+biscuit with egg,436,25.3,8.5,35.4,2.5,17.4,0.3,1.2,Junk
+french fries deep fried,222,10.5,1.7,29.4,0.2,2.4,2.7,0.1,Moderate
+sweet sour chicken,46,2.3,0.4,4.4,2.1,1.8,0.2,0.043,Moderate
+burrito with beans beef,460,18.0,7.0,47.0,5.3,27.8,7.2,1.4,Junk
+nachos with cinnamon sugar,592,36.0,18.2,63.4,0.0,7.2,0.0,0.4,Junk
+arroz con grandules,209,5.7,0.9,35.4,0.0,4.0,1.6,0.7,Moderate
+chili con carne,271,8.8,3.2,33.1,4.7,14.7,8.3,1.1,Healthy
+arroz con abichuelas,223,5.4,0.8,37.3,0.2,6.2,4.1,0.6,Moderate
+biscuit with sausage,412,27.1,8.2,33.3,1.8,10.7,0.4,0.9,Junk
+vegetarian stew,304,7.4,1.2,17.3,3.1,42.0,2.7,1.0,Moderate
+chicken sandwich with cheese,632,38.8,12.4,41.6,0.0,29.4,0.0,1.2,Junk
+biscuit with egg steak,410,28.4,8.6,21.3,0.0,17.9,0.0,0.9,Junk
+taco salad,212,11.2,5.2,17.9,0.0,10.0,0.0,0.6,Junk
+succotash,213,1.5,0.3,46.8,0.0,9.7,0.0,0.5,Moderate
+nachos with cheese jalapeno peppers,608,34.1,14.0,60.1,0.0,16.8,0.0,1.7,Junk
+biscuit with egg ham,442,27.0,5.9,31.4,4.2,20.4,0.8,1.4,Junk
+ladyfingers,103,2.6,0.9,16.9,7.2,3.0,0.3,0.016,Moderate
+mozzarella steak fried,102,5.9,2.2,7.7,0.7,4.6,0.6,0.2,Moderate
+tamale navajo,285,11.4,4.5,33.7,1.8,11.7,5.8,0.8,Healthy
+blueberry pancakes,84,3.5,0.8,11.0,0.0,2.3,0.0,0.2,Moderate
+chimichanga with beef cheese,443,23.4,11.2,39.3,0.0,20.1,0.0,1.0,Junk
+egg cheese sandwich,340,19.4,6.6,25.9,0.0,15.6,0.0,0.8,Junk
+biscuit with egg bacon,458,31.1,8.0,28.6,3.3,17.0,0.8,1.3,Junk
+pupusas con queso,300,15.5,7.6,26.2,1.4,13.7,3.4,0.5,Junk
+apple croissant,145,5.0,2.8,21.1,0.0,4.2,1.4,0.2,Moderate
+refried red beans,336,16.1,2.2,36.0,0.0,11.7,11.0,0.9,Healthy
+tostada with guacamole,180,11.6,4.9,16.0,0.0,6.2,0.0,0.4,Moderate
+chicken sandwich,468,20.9,4.0,39.1,6.8,30.4,2.6,1.4,Moderate
+fried rice,228,3.2,0.7,43.4,0.6,6.5,1.5,0.6,Moderate
+pupusas del cerdo,283,12.7,3.9,28.1,1.8,14.0,3.2,0.5,Moderate
+turkey pot pie,699,34.9,11.4,70.3,0.0,25.8,4.4,1.4,Junk
+cheese croissant,331,16.7,8.5,37.6,9.1,7.4,2.1,0.3,Junk
+chimichanga with beef,425,19.7,8.5,42.8,0.0,19.6,0.0,0.9,Junk
+french toast with butter,178,9.4,3.9,18.0,0.0,5.2,0.0,0.3,Moderate
+ham egg cheese sandwich,347,16.3,7.4,30.9,0.0,19.2,0.0,1.0,Junk
+english muffin with butter,189,5.8,2.4,30.4,0.0,4.9,0.0,0.4,Moderate
+savoury noodle one pan dinner tandaco,172,1.2,0.5,5.5,0.0,0.0,0.0,0.0,Moderate
+ham cheese sandwich,352,15.5,6.4,33.3,0.0,20.7,0.0,0.8,Junk
+sweet gefilte fish,35,0.7,0.2,3.1,0.0,3.8,0.0,0.2,Moderate
+poached egg,72,4.7,1.6,0.4,0.2,6.3,0.0,0.1,Moderate
+tostada with beef cheese,315,16.3,10.4,22.8,0.0,19.0,0.0,0.9,Junk
+tostada with beans cheese,223,9.9,5.4,26.5,0.0,9.6,0.0,0.5,Junk
+pork tamale,247,12.8,3.8,22.4,0.7,10.4,3.4,0.7,Moderate
+nachos with cheese,274,17.2,1.7,27.9,1.7,3.5,2.6,0.3,Moderate
+pulled pork in barbecue sauce,418,11.0,3.5,46.7,37.8,32.8,3.0,1.7,Junk
+baked potato with cheese sauce,474,28.7,10.6,46.5,0.0,14.6,0.0,0.4,Junk
+baked beans,310,10.3,3.9,43.3,0.0,11.1,11.0,0.8,Healthy
+arroz con frijoles,220,5.6,1.1,35.6,1.3,6.8,5.0,0.6,Moderate
+taco with beef cheese lettuce,156,8.8,3.0,13.7,0.6,6.1,2.7,0.3,Moderate
+burrito with beans cheese beef,165,6.6,3.6,19.8,0.0,7.3,0.0,0.5,Moderate
+egg mix,30,2.2,0.8,0.098,0.091,2.4,0.0,0.012,Moderate
+falafel,57,3.0,0.4,5.4,0.0,2.3,0.0,0.081,Moderate
+taco salad with chili con carne,193,8.8,4.0,17.7,0.0,11.6,0.0,0.6,Moderate
+wonton wrappers,93,0.5,0.022,18.5,0.0,3.1,0.6,0.2,Moderate
+hushpuppies,512,20.5,3.2,69.9,3.1,11.7,4.3,1.0,Moderate
+chicken pot pie,598,34.6,12.6,57.3,7.2,14.6,3.0,1.2,Junk
+general tsos chicken,1578,87.5,14.8,128.3,62.1,69.0,4.8,2.3,Junk
+burrito with beans cheese,379,11.2,4.3,57.8,3.2,13.6,7.8,1.0,Healthy
+vegetarian fillets,247,15.3,2.4,7.7,0.7,19.6,5.2,0.4,Healthy
+biscuit with egg sausage,505,33.6,10.4,34.1,1.5,18.0,0.3,1.1,Junk
+chicken chow mein,513,16.9,3.0,50.1,10.5,40.8,6.0,1.9,Moderate
+fruit burrito,231,9.5,4.6,35.0,0.0,2.5,0.0,0.2,Moderate
+arroz con leche,369,9.3,4.8,63.0,38.6,8.1,1.3,0.3,Junk
+caramel custard flan,444,12.3,5.5,69.7,70.8,13.9,0.0,0.2,Junk
+gelatin dessert,167,0.0,0.0,38.3,36.4,3.3,0.0,0.2,Junk
+chocolate milk dessert,229,1.4,0.8,51.6,51.6,5.9,0.0,0.1,Junk
+chocolate mousse,338,24.0,13.7,24.1,22.2,6.2,0.9,0.081,Junk
+dulce de leche,60,1.4,0.9,10.5,9.5,1.3,0.0,0.036,Moderate
+apple crisp,454,9.7,1.9,87.0,55.5,4.9,3.9,1.0,Junk
+spinach spaghetti cooked,182,0.9,0.1,36.6,0.0,6.4,0.0,0.061,Moderate
+corn pasta cooked,176,1.0,0.1,39.1,0.0,3.7,6.7,0.0,Healthy
+spaghetti with meat sauce,255,2.9,1.0,43.1,7.4,14.3,5.1,0.7,Healthy
+pasta with meatballs in tomato sauce,273,13.0,5.0,28.3,7.2,10.6,6.9,0.7,Healthy
+cheese tortellini,332,7.8,3.9,50.8,1.0,14.6,2.1,0.4,Moderate
+pasta with sliced franks in tomato sauce,227,6.0,2.5,32.0,8.0,11.0,4.0,0.7,Moderate
+lasagna,166,6.1,2.9,18.9,3.8,9.0,2.1,0.5,Moderate
+macaroni cheese,310,9.4,3.1,43.7,3.0,12.6,2.3,0.9,Moderate
+vegetable lasagna,316,13.7,5.5,32.2,5.8,15.6,4.3,1.0,Junk
+spinach egg noodles cooked,211,2.5,0.6,38.8,1.1,8.1,3.7,0.068,Moderate
+cheese lasagna,316,13.0,5.1,33.6,10.3,15.9,4.1,0.7,Junk
+pasta with tomato sauce,176,1.8,0.4,35.1,10.1,5.6,2.3,1.0,Moderate
+spinach pasta cooked,37,0.3,0.078,7.1,0.0,1.4,0.0,0.004,Moderate
+vegetable chicken soup,166,4.8,1.4,21.1,3.4,12.3,1.0,0.075,Moderate
+bean ham soup,198,2.5,0.6,33.5,7.8,10.3,9.8,0.5,Healthy
+cream of chicken soup,227,14.5,4.3,18.0,1.4,6.0,0.0,1.8,Moderate
+tomato soup canned,139,3.3,1.8,22.6,16.5,6.3,1.5,0.5,Junk
+egg drop soup,65,1.5,0.4,10.3,0.2,2.8,1.0,0.9,Moderate
+scotch broth,197,6.4,2.7,23.0,0.0,12.1,3.0,2.1,Moderate
+cream of onion soup,268,12.8,3.6,31.7,11.1,6.7,1.2,1.9,Moderate
+chicken broth dry,10,0.2,0.055,1.1,0.0,0.7,0.0,1.2,Moderate
+vegetable soup with beef broth,162,3.8,0.9,26.3,4.0,6.0,3.2,1.3,Moderate
+chili with beans canned,287,14.1,6.0,30.5,3.0,14.6,11.3,1.3,Junk
+beef noodle soup,168,6.2,2.3,17.9,5.2,9.6,1.5,1.6,Moderate
+consomme dry,17,0.2,0.0,1.9,1.1,2.2,0.0,0.8,Moderate
+chicken mushroom soup,126,6.1,1.6,15.1,1.0,2.0,4.0,0.8,Moderate
+beef vegetable soup,120,2.9,1.0,15.4,3.1,8.0,3.0,0.8,Moderate
+black bean soup,234,3.4,0.9,39.6,6.4,12.4,17.5,2.5,Healthy
+split pea soup with ham bacon,189,3.1,0.9,28.6,0.0,11.6,4.1,1.0,Moderate
+cream of mushroom soup,199,13.4,2.4,17.1,1.0,3.4,1.8,1.7,Moderate
+green pea soup,320,5.7,2.7,51.7,16.7,16.7,10.0,1.7,Junk
+chicken broth soup,78,2.6,0.8,1.9,0.9,11.1,0.0,1.6,Moderate
+chicken mushroom chowder soup,431,23.7,6.2,38.3,0.0,16.2,7.5,1.8,Junk
+chicken dumplings soup,235,13.4,3.2,14.7,1.4,13.6,1.2,1.8,Moderate
+chicken vegetable soup,148,5.6,1.7,17.0,3.0,7.1,1.7,1.7,Moderate
+turkey vegetable soup,72,3.0,0.9,8.6,2.6,3.1,0.5,0.9,Moderate
+wonton soup,71,0.6,0.1,11.7,0.8,4.6,0.4,0.9,Moderate
+beef stock,31,0.2,0.003,2.9,1.3,4.7,0.0,0.5,Moderate
+mushroom barley soup,186,5.5,1.1,29.3,0.0,4.6,0.0,1.7,Moderate
+gazpacho soup,70,0.4,0.008,6.6,2.2,10.7,0.7,1.1,Moderate
+beef mushroom soup,186,7.3,3.7,15.9,0.0,14.0,0.6,2.2,Moderate
+chicken rice soup,127,3.2,1.0,13.0,1.4,12.3,1.0,0.9,Moderate
+pepperpot soup,100,4.5,2.0,9.1,0.0,6.2,0.5,0.9,Moderate
+vegetable soup,149,4.0,0.6,24.6,7.9,4.3,1.3,1.3,Moderate
+chili beef soup,308,6.7,3.3,49.6,13.4,13.4,6.6,2.1,Moderate
+chicken soup,174,6.5,1.9,16.9,2.1,12.4,1.5,0.9,Moderate
+bean with frankfurters soup,188,7.0,2.1,22.0,0.0,10.0,0.0,1.1,Moderate
+pea soup,161,2.8,1.4,25.6,8.3,8.3,4.9,0.015,Moderate
+turkey soup,135,4.4,1.2,14.1,0.0,10.2,0.0,0.9,Moderate
+stockpot soup,201,7.8,1.7,23.1,0.0,9.8,0.0,2.1,Moderate
+hot sour soup,91,2.8,0.5,10.1,1.0,6.0,1.2,0.9,Moderate
+cheese soup,203,9.7,6.1,28.0,9.3,2.0,5.5,1.7,Junk
+cream of potato soup,186,4.7,2.4,32.2,3.6,3.8,3.3,1.5,Moderate
+bean with bacon soup,106,2.1,1.0,16.4,0.6,5.5,9.0,0.9,Healthy
+fish stock,40,1.9,0.5,0.0,0.0,5.3,0.0,0.4,Moderate
+split pea soup with ham,381,8.9,3.5,56.2,0.0,20.7,4.6,1.7,Moderate
+beef broth soup,17,0.5,0.3,0.01,0.0,2.7,0.0,0.9,Moderate
+lentil soup with ham,139,2.8,1.1,20.2,0.0,9.3,0.0,1.3,Moderate
+tomato soup,98,0.7,0.2,22.5,12.2,2.2,1.6,0.6,Moderate
+fish broth,39,1.5,0.3,1.0,0.2,4.9,0.0,0.5,Moderate
+chili without beans canned,283,17.0,5.4,14.6,0.0,18.1,0.0,0.9,Junk
+minestrone soup,167,5.0,1.1,22.6,3.7,8.6,2.0,1.3,Moderate
+clam chowder soup,154,4.4,0.8,24.5,6.8,4.4,3.0,1.8,Moderate
+tomato vegetable soup,54,0.8,0.4,9.9,2.4,1.9,0.7,0.3,Moderate
+cream of rice coup,127,0.2,0.07,28.1,0.022,2.2,0.2,0.4,Moderate
+cream of celery soup,181,11.2,2.8,17.7,3.4,3.3,1.5,1.3,Moderate
+chicken gravy,188,13.6,3.4,12.9,1.9,4.6,1.0,1.0,Moderate
+tomato rice soup,240,5.5,1.0,44.1,15.2,4.2,3.4,1.6,Junk
+vegetable beef soup,128,2.0,0.6,9.6,0.0,18.1,4.4,1.1,Moderate
+tomato beef noodle soup,281,8.6,3.2,42.3,0.0,8.9,3.0,1.8,Moderate
+oyster stew soup,118,7.7,5.0,8.2,0.0,4.2,0.0,1.8,Moderate
+ramen noodle soup dry,371,13.3,6.4,53.9,1.3,8.9,2.0,1.7,Junk
+chicken noodle soup,145,4.7,1.2,18.4,0.0,7.2,2.7,2.1,Moderate
+chicken bouillon dry,11,0.6,0.1,0.7,0.7,0.7,0.0,1.0,Moderate
+cream of asparagus soup,174,8.2,2.1,21.5,1.8,4.6,1.0,1.7,Moderate
+turkey noodle soup,139,4.0,1.1,17.3,1.0,7.8,1.5,1.6,Moderate
+cream of shrimp soup,181,10.4,6.5,16.5,0.0,5.6,0.5,1.7,Junk
+bean with pork soup,335,11.5,3.0,44.1,7.8,15.3,15.3,1.7,Healthy
+chicken broth,12,0.5,0.008,1.0,0.0,1.0,0.0,0.9,Moderate
+beef broth powder,8,0.3,0.2,0.6,0.6,0.6,0.0,0.9,Moderate
+split pea soup,180,2.3,0.8,29.9,12.8,9.7,4.8,0.4,Moderate
+escarole soup,61,4.0,1.2,4.0,0.0,3.4,0.0,2.3,Moderate
+chicken stock,86,2.9,0.8,8.5,3.8,6.0,0.0,0.3,Moderate
+tomato bisque soup,248,5.0,1.1,47.7,0.0,4.5,2.1,1.8,Moderate
+shark fin soup,99,4.3,1.1,8.2,0.0,6.9,0.0,1.1,Moderate
+onion soup,113,3.5,0.5,16.4,6.7,7.5,1.7,1.3,Moderate
+chicken gumbo soup,113,2.9,0.7,16.8,4.9,5.3,4.0,1.7,Moderate
+crab soup,95,0.8,0.2,12.5,0.0,10.4,2.4,0.6,Moderate
+tripe soup,148,5.2,2.1,8.1,0.0,17.2,0.0,0.8,Moderate
+little india little lunch,164,10.6,15.6,2.0,0.0,0.0,0.0,0.0,Junk
+original chicken sandwich chick fil a,125,5.1,11.6,0.0,0.0,0.0,0.0,0.0,Junk
+sausage mcmuffin mcdonalds,383,24.2,8.3,28.2,2.2,14.6,1.6,0.8,Junk
+sausage mcgriddles mcdonalds,421,24.0,7.3,42.2,15.2,11.4,1.4,1.0,Junk
+crispy chicken drumstick kentucky fried chicken,70,3.0,0.8,0.0,0.0,10.6,0.0,0.2,Moderate
+chicken crispy drumsticks kentucky fried chicken,156,10.1,2.2,4.5,0.0,11.8,0.0,0.4,Moderate
+biscuit kentucky fried chicken,185,9.1,2.2,22.1,1.7,3.8,0.8,0.5,Moderate
+english muffin mcdonalds,97,2.3,1.1,2.9,1.5,5.7,0.2,0.031,Moderate
+french fries mcdonalds,378,18.1,2.7,49.8,0.2,4.0,4.6,0.2,Moderate
+hotdog,383,23.0,8.1,28.5,0.0,16.4,0.0,1.1,Junk
+french fries burger king,207,9.2,1.6,28.6,0.4,2.4,2.1,0.2,Moderate
+original taco with beef cheese lettuce taco bell,158,8.8,3.0,13.7,0.6,6.1,2.7,0.3,Moderate
+hotdog with chili,296,13.4,4.9,31.3,0.0,13.5,0.0,0.5,Moderate
+chicken crispy wings kentucky fried chicken,148,10.1,2.1,5.1,0.0,9.2,0.0,0.3,Moderate
+egg white delight mcdonalds,250,16.0,4.0,0.0,0.0,0.0,0.0,0.0,Moderate
+french toast sticks burger king,73,3.7,0.8,8.7,2.1,1.3,0.3,0.014,Moderate
+mcchicken mcdonalds,358,17.3,3.1,36.6,4.7,13.7,1.7,0.8,Moderate
+nachos supreme taco bell,480,26.6,7.8,45.0,0.0,14.8,8.0,0.8,Junk
+crispy chicken wing kentucky fried chicken,104,5.3,1.1,1.3,0.0,12.6,0.0,0.3,Moderate
+chicken strips burger king,105,5.5,1.0,7.4,0.0,6.6,0.5,0.3,Moderate
+crispy chicken breast kentucky fried chicken,214,6.7,1.7,0.4,0.0,38.2,0.0,0.7,Moderate
+sausage biscuit mcdonalds,440,29.7,12.5,31.8,2.3,11.3,1.4,1.0,Junk
+sausage burrito mcdonalds,339,17.1,6.1,24.2,1.4,13.0,1.2,0.8,Junk
+onion rings fried,27,1.6,0.3,2.8,0.4,0.3,0.2,0.015,Moderate
+onion rings burger king,379,23.0,3.8,39.7,4.9,3.5,2.5,0.7,Moderate
+turkey patty fried,79,5.0,1.3,4.4,0.053,3.9,0.1,0.2,Moderate
+hotcakes with syrup mcdonalds,601,17.8,1.8,101.8,45.5,9.0,2.0,0.6,Junk
+crispy chicken thigh kentucky fried chicken,163,9.1,2.5,0.0,0.0,20.4,0.0,0.5,Moderate
+corn dog,195,9.4,2.7,21.0,5.9,6.7,0.8,0.5,Moderate
+chicken box mcdonalds,70,4.0,0.8,5.5,0.5,0.2,0.0,0.0,Moderate
+potato wedges kentucky fried chicken,379,19.8,4.0,45.0,0.0,5.4,4.2,1.0,Moderate
+scrambled eggs mcdonalds,98,7.5,2.1,0.9,0.1,7.7,0.0,0.04,Moderate
+egg mcmuffin mcdonalds,287,12.2,4.5,27.3,2.7,17.2,1.4,0.8,Moderate
+nachos taco bell,362,21.9,4.7,36.0,0.0,5.1,3.8,0.5,Moderate
+biscuit large mcdonalds,310,14.4,8.3,39.4,2.7,5.5,1.8,0.9,Junk
+crispy chicken strips kentucky fried chicken,129,7.2,1.4,6.4,0.0,9.5,0.7,0.4,Moderate
+hotcakes mcdonalds,113,2.9,0.6,19.0,4.4,3.0,0.7,0.2,Moderate
+chicken crispy breast kentucky fried chicken,375,23.2,5.0,11.9,0.0,29.7,0.0,0.8,Moderate
+hotcakes sausage mcdonalds,776,34.9,7.3,102.4,45.7,15.5,2.1,0.9,Junk
+chicken mcnuggets mcdonalds,48,3.2,0.5,2.4,0.025,2.5,0.0,0.009,Moderate
+chips chipotle,151,7.1,0.9,2.1,2.1,0.2,0.0,0.0,Moderate
+biscuit mcdonalds,261,12.2,7.0,33.3,2.2,4.7,1.5,0.7,Junk
+rice bowl with chicken,36,0.4,0.01,6.4,1.2,1.6,0.2,0.064,Moderate
+spaghetti with meatballs,200,8.2,2.9,22.9,5.8,8.7,5.4,0.6,Healthy
+meat ravioli canned,259,8.9,3.7,36.0,6.3,8.9,4.2,0.9,Moderate
+cheese ravioli canned,186,3.5,1.7,33.0,9.0,6.0,3.1,0.7,Moderate
+premium crispy chicken ranch blt sandwich mcdonalds,586,22.9,4.7,59.8,13.3,35.3,3.4,1.2,Moderate
+steak sandwich,459,14.1,3.8,52.0,0.0,30.3,0.0,0.8,Moderate
+cheeseburger burger king,380,19.7,9.1,31.5,6.0,19.4,3.7,0.8,Junk
+cheeseburger mcdonalds,313,14.0,5.3,33.1,7.4,15.4,1.3,0.7,Junk
+double cheeseburger,643,36.9,15.9,41.0,9.5,37.0,2.1,0.9,Junk
+double hamburger,942,58.6,21.6,51.4,13.2,52.1,5.2,1.1,Junk
+premium grilled chicken classic sandwich mcdonalds,366,8.6,1.7,44.6,10.0,28.3,2.8,0.8,Moderate
+big n tasty with cheese mcdonalds,573,36.0,10.8,39.7,9.5,27.2,3.2,1.0,Junk
+premium grilled chicken club sandwich mcdonalds,493,18.0,6.4,44.3,6.4,38.3,2.7,1.0,Junk
+quarter pounder mcdonalds,417,19.8,6.9,37.9,8.8,24.1,2.7,0.7,Junk
+premium crispy chicken classic sandwich mcdonalds,524,20.0,3.2,58.6,12.4,27.8,3.2,1.0,Moderate
+veggie burger,124,4.4,1.0,10.0,0.7,11.0,3.4,0.4,Moderate
+quarter pounder with cheese mcdonalds,513,28.3,11.2,39.7,9.8,29.0,2.8,1.2,Junk
+beef sandwich steak raw,173,15.1,6.5,0.0,0.0,9.2,0.0,0.043,Junk
+cheeseburger,292,13.2,6.0,28.7,5.9,15.0,1.6,0.6,Junk
+premium grilled chicken ranch blt sandwich mcdonalds,412,10.9,3.0,44.3,10.5,33.7,2.8,1.0,Moderate
+double whopper with cheese burger king,1061,68.1,27.9,53.9,14.4,57.7,6.4,1.5,Junk
+big mac mcdonalds,563,32.8,8.3,44.0,8.7,25.9,3.5,1.0,Junk
+sandwich with cold cuts,833,39.3,13.9,79.9,12.4,41.1,4.7,2.2,Junk
+filet o fish mcdonalds,378,19.6,3.8,35.4,4.9,15.1,1.9,0.6,Moderate
+hand breaded chicken tenders carls jr,57,2.9,0.6,0.2,0.0,0.0,0.0,0.0,Moderate
+grilled chicken sandwich wendys,370,8.0,42.0,0.0,0.0,0.0,0.0,0.0,Junk
+sandwich with roast beef,410,13.0,7.1,44.3,0.0,28.6,0.0,0.8,Junk
+hamburger burger king,258,10.4,3.8,26.5,5.5,14.7,2.0,0.5,Moderate
+big n tasty mcdonalds,524,31.7,8.6,38.5,8.8,24.7,3.2,0.7,Junk
+roast beef sandwich,364,15.3,5.1,33.1,5.7,22.6,1.9,1.0,Junk
+roast beef sandwich with cheese,473,18.0,9.0,45.4,0.0,32.2,0.0,1.6,Junk
+hamburger,255,9.9,3.5,28.7,5.8,12.9,1.7,0.5,Moderate
+premium fish sandwich burger king,572,27.4,4.3,58.7,7.8,22.6,2.0,1.3,Moderate
+whopper burger king,790,48.4,18.3,52.8,13.0,35.4,3.2,1.4,Junk
+sandwich with tuna salad,584,28.0,5.3,55.4,0.0,29.7,0.0,1.3,Junk
+original chicken sandwich burger king,569,29.2,5.4,52.2,6.0,24.2,4.8,1.3,Junk
+double whopper burger king,942,58.6,21.6,51.4,13.2,52.1,5.2,1.1,Junk
+premium crispy chicken club sandwich mcdonalds,635,29.9,8.5,57.4,12.7,39.1,3.0,1.2,Junk
+hamburger mcdonalds,251,9.6,3.3,28.8,5.7,12.3,1.2,0.5,Moderate
+pepperoni pizza dominos,308,12.6,5.4,36.0,4.2,12.7,2.4,0.7,Junk
+sausage pizza,325,14.3,5.8,35.5,3.9,13.3,2.7,0.7,Junk
+pepperoni pizza,313,13.2,5.7,35.5,3.6,13.0,2.6,0.8,Junk
+pepperoni pizza pizza hut,269,10.9,5.0,30.3,3.5,12.3,1.6,0.8,Moderate
+cheese pizza pizza hut,260,10.5,4.8,30.0,3.2,11.5,1.7,0.7,Moderate
+cheese pizza,285,10.4,4.8,35.7,3.8,12.2,2.5,0.6,Moderate
+cheese pizza dominos,278,9.7,4.4,35.9,4.3,11.7,2.4,0.6,Moderate
+meat vegetable pizza,332,14.8,6.0,34.5,5.1,15.0,3.0,0.8,Junk
+sucker raw,146,3.7,0.7,0.0,0.0,26.6,0.0,0.0,Moderate
+northern pike raw,348,2.7,0.5,0.0,0.0,76.3,0.0,0.2,Moderate
+haddock cooked,135,0.8,0.2,0.0,0.0,30.0,0.0,0.4,Moderate
+burbot cooked,104,0.9,0.2,0.0,0.0,22.3,0.0,0.1,Moderate
+pollock cooked,356,3.8,0.5,0.0,0.0,75.3,0.0,0.3,Moderate
+rainbow smelt raw,27,0.7,0.1,0.0,0.0,5.0,0.0,0.019,Moderate
+whitefish cooked,265,11.6,1.8,0.0,0.0,37.7,0.0,0.1,Moderate
+walleye pike raw,148,1.9,0.4,0.0,0.0,30.4,0.0,0.011,Moderate
+carp cooked,275,12.2,2.4,0.0,0.0,38.9,0.0,0.1,Moderate
+wolffish cooked,293,7.3,1.1,0.0,0.0,53.4,0.0,0.3,Moderate
+snapper cooked,218,2.9,0.6,0.0,0.0,44.7,0.0,0.066,Moderate
+roe cooked,58,2.3,0.5,0.5,0.0,8.1,0.0,0.055,Moderate
+anchovy raw,37,1.4,0.4,0.0,0.0,5.8,0.0,0.012,Moderate
+herring raw,291,16.6,3.8,0.0,0.0,33.0,0.0,0.2,Moderate
+cod raw,189,1.5,0.3,0.0,0.0,41.1,0.0,0.1,Moderate
+tilapia raw,111,2.0,0.7,0.0,0.0,23.3,0.0,0.009,Moderate
+whiting cooked,84,1.2,0.3,0.0,0.0,16.9,0.0,0.018,Moderate
+skipjack tuna cooked,407,4.0,1.3,0.0,0.0,86.9,0.0,0.1,Moderate
+salmon cooked,733,44.0,8.5,0.0,0.0,78.7,0.0,0.2,Junk
+chum salmon cooked,474,14.9,3.3,0.0,0.0,79.5,0.0,0.2,Moderate
+american shad cooked,363,25.4,0.0,0.0,0.0,31.3,0.0,0.043,Moderate
+shark cooked,65,3.9,0.9,1.8,0.0,5.3,0.0,0.068,Moderate
+trout cooked,118,5.3,0.9,0.0,0.0,16.5,0.0,0.027,Moderate
+swordfish raw,196,9.0,2.2,0.0,0.0,26.7,0.0,0.1,Moderate
+rainbow trout cooked,119,5.2,1.2,0.0,0.0,16.9,0.0,0.041,Moderate
+fish sandwich with cheese,374,19.6,3.8,35.4,4.9,15.1,0.0,0.6,Moderate
+jellyfish dried,21,0.8,0.2,0.0,0.0,3.2,0.0,5.6,Moderate
+mullet raw,139,4.5,1.3,0.0,0.0,23.0,0.0,0.098,Moderate
+halibut cooked,353,5.1,1.1,0.0,0.0,71.7,0.0,0.3,Moderate
+lingcod raw,213,2.7,0.5,0.0,0.0,44.2,0.0,0.1,Moderate
+orange roughy cooked,30,0.3,0.046,0.0,0.0,6.4,0.0,0.079,Moderate
+cisco raw,77,1.5,0.3,0.0,0.0,15.0,0.0,0.042,Moderate
+florida pompano cooked,186,10.7,4.0,0.0,0.0,20.8,0.0,0.05,Moderate
+snapper raw,218,2.9,0.6,0.0,0.0,44.7,0.0,0.1,Moderate
+fish sandwich,565,27.4,4.3,58.7,7.8,22.6,0.0,1.3,Moderate
+haddock raw,143,0.9,0.2,0.0,0.0,31.5,0.0,0.4,Moderate
+ocean perch raw,51,1.0,0.2,0.0,0.0,9.8,0.0,0.2,Moderate
+cuttlefish cooked,45,0.4,0.08,0.5,0.0,9.2,0.0,0.2,Moderate
+cod cooked,189,1.5,0.3,0.0,0.0,41.1,0.0,0.1,Moderate
+seatrout raw,248,8.6,2.4,0.0,0.0,39.8,0.0,0.1,Moderate
+flounder raw,114,3.1,0.7,0.0,0.0,20.2,0.0,0.5,Moderate
+spot cooked,79,3.1,0.9,0.0,0.0,11.9,0.0,0.022,Moderate
+walleye pike cooked,148,1.9,0.4,0.0,0.0,30.4,0.0,0.069,Moderate
+perch raw,55,0.6,0.1,0.0,0.0,11.6,0.0,0.037,Moderate
+pumpkin seed sunfish raw,43,0.3,0.051,0.0,0.0,9.3,0.0,0.06,Moderate
+salt mackerel,415,34.1,9.7,0.0,0.0,25.2,0.0,6.1,Junk
+mackerel cooked,231,15.7,3.7,0.0,0.0,21.0,0.0,0.064,Moderate
+tilapia cooked,111,2.3,0.8,0.0,0.0,22.8,0.0,0.011,Moderate
+drum raw,236,9.8,2.2,0.0,0.0,34.7,0.0,0.1,Moderate
+atlantic croaker fried,192,11.0,3.0,6.6,0.0,15.8,0.3,0.3,Moderate
+pumpkin seed sunfish cooked,42,0.3,0.025,0.0,0.0,9.2,0.0,0.046,Moderate
+wolffish raw,294,7.3,1.1,0.0,0.0,53.6,0.0,0.3,Moderate
+bluefin tuna cooked,276,9.4,2.4,0.0,0.0,44.9,0.0,0.02,Moderate
+scup cooked,68,1.8,0.0,0.0,0.0,12.1,0.0,0.061,Moderate
+herring cooked,290,16.6,3.7,0.0,0.0,32.9,0.0,0.2,Moderate
+bluefish raw,186,6.4,1.4,0.0,0.0,30.1,0.0,0.028,Moderate
+sheepshead cooked,234,3.0,0.7,0.0,0.0,48.4,0.0,0.1,Moderate
+bass cooked,91,2.9,0.6,0.0,0.0,15.0,0.0,0.078,Moderate
+pout cooked,279,3.2,1.1,0.0,0.0,58.4,0.0,0.2,Moderate
+chinook salmon raw,709,41.3,12.3,0.0,0.0,78.9,0.0,0.2,Junk
+rockfish raw,172,2.6,0.7,0.0,0.0,35.1,0.0,0.1,Moderate
+tilefish raw,371,8.9,1.7,0.0,0.0,67.6,0.0,0.2,Moderate
+scup raw,174,4.5,1.1,0.0,0.0,31.3,0.0,0.082,Moderate
+sablefish cooked,755,59.3,12.4,0.0,0.0,51.9,0.0,0.2,Junk
+tuna salad,383,19.0,3.2,19.3,0.0,32.9,0.0,0.8,Moderate
+coho salmon cooked,255,11.8,2.8,0.0,0.0,34.7,0.0,0.06,Moderate
+roe raw,20,0.9,0.2,0.2,0.0,3.1,0.0,0.052,Moderate
+sea bass raw,125,2.6,0.7,0.0,0.0,23.8,0.0,0.084,Moderate
+pink salmon cooked,349,12.0,2.2,0.0,0.0,56.0,0.0,0.2,Moderate
+sockeye salmon cooked,493,17.3,3.0,0.0,0.0,82.1,0.0,0.3,Moderate
+whitefish raw,265,11.6,1.8,0.0,0.0,37.8,0.0,0.1,Moderate
+greenland halibut cooked,760,56.4,9.9,0.0,0.0,58.6,0.0,0.3,Junk
+northern pike cooked,350,2.7,0.5,0.0,0.0,76.5,0.0,0.2,Moderate
+salmon raw,824,53.1,12.1,0.0,0.0,80.9,0.0,0.2,Junk
+turbot cooked,388,12.0,0.0,0.0,0.0,65.4,0.0,0.6,Moderate
+surimi,28,0.3,0.059,1.9,0.0,4.3,0.0,0.042,Moderate
+chinook salmon cooked,711,41.2,9.9,0.0,0.0,79.2,0.0,0.2,Junk
+mullet cooked,140,4.5,1.3,0.0,0.0,23.1,0.0,0.001,Moderate
+chum salmon raw,3,0.1,0.08,0.0,0.0,0.6,0.0,0.029,Moderate
+butterfish raw,47,2.6,1.1,0.0,0.0,5.5,0.0,0.072,Moderate
+sea bass cooked,125,2.6,0.7,0.0,0.0,23.9,0.0,0.058,Moderate
+greenland halibut raw,759,56.5,9.9,0.0,0.0,58.6,0.0,0.3,Junk
+halibut raw,371,5.4,1.2,0.0,0.0,75.7,0.0,0.3,Moderate
+sturgeon cooked,184,7.0,1.6,0.0,0.0,28.2,0.0,0.019,Moderate
+fish fillet fried,211,11.2,2.6,15.4,0.0,13.3,0.5,0.5,Moderate
+rainbow trout raw,111,4.9,1.1,0.0,0.0,15.8,0.0,0.022,Moderate
+pout raw,278,3.2,1.1,0.0,0.0,58.6,0.0,0.2,Moderate
+rainbow smelt cooked,35,0.9,0.2,0.0,0.0,6.4,0.0,0.047,Moderate
+monkfish raw,22,0.4,0.079,0.0,0.0,4.1,0.0,0.059,Moderate
+trout raw,117,5.2,0.9,0.0,0.0,16.4,0.0,0.051,Moderate
+shark raw,37,1.3,0.3,0.0,0.0,5.9,0.0,0.003,Moderate
+burbot raw,104,0.9,0.2,0.0,0.0,22.4,0.0,0.1,Moderate
+dolphinfish cooked,173,1.4,0.4,0.0,0.0,37.7,0.0,0.2,Moderate
+crayfish cooked,25,0.4,0.089,0.0,0.0,5.0,0.0,0.058,Moderate
+dolphinfish raw,173,1.4,0.4,0.0,0.0,37.7,0.0,0.2,Moderate
+perch cooked,54,0.5,0.1,0.0,0.0,11.4,0.0,0.043,Moderate
+cusk raw,106,0.8,0.2,0.0,0.0,23.2,0.0,0.086,Moderate
+bluefin tuna raw,41,1.4,0.4,0.0,0.0,6.6,0.0,0.013,Moderate
+milkfish cooked,54,2.4,0.0,0.0,0.0,7.4,0.0,0.076,Moderate
+carp raw,277,12.2,2.4,0.0,0.0,38.9,0.0,0.1,Moderate
+sturgeon raw,30,1.1,0.3,0.0,0.0,4.6,0.0,0.007,Moderate
+orange roughy raw,22,0.2,0.057,0.0,0.0,4.6,0.0,0.063,Moderate
+catfish fried,199,11.6,2.9,7.0,0.0,15.7,0.6,0.2,Moderate
+cuttlefish raw,22,0.2,0.002,0.2,0.0,4.6,0.0,0.1,Moderate
+bass raw,90,2.9,0.6,0.0,0.0,14.9,0.0,0.055,Moderate
+flounder cooked,109,3.0,0.7,0.0,0.0,19.4,0.0,0.5,Moderate
+milkfish raw,42,1.9,0.5,0.0,0.0,5.8,0.0,0.098,Moderate
+eel raw,375,23.8,4.8,0.0,0.0,37.6,0.0,0.1,Moderate
+catfish raw,189,9.4,2.1,0.0,0.0,24.2,0.0,0.2,Moderate
+fish sticks,78,4.5,1.0,6.1,0.5,3.1,0.4,0.1,Moderate
+coho salmon raw,254,12.2,2.9,0.0,0.0,33.8,0.0,0.054,Moderate
+monkfish cooked,27,0.6,0.0,0.0,0.0,5.3,0.0,0.004,Moderate
+yellowtail cooked,546,19.6,0.0,0.0,0.0,86.6,0.0,0.1,Moderate
+yellowfin tuna cooked,37,0.2,0.054,0.0,0.0,8.2,0.0,0.011,Moderate
+ling cooked,168,1.2,0.0,0.0,0.0,36.8,0.0,0.3,Moderate
+eel cooked,67,4.2,0.9,0.0,0.0,6.7,0.0,0.069,Moderate
+sablefish raw,753,59.1,12.4,0.0,0.0,51.8,0.0,0.2,Junk
+salmon nuggets,60,3.3,0.4,4.0,0.0,3.6,0.0,0.005,Moderate
+yellowtail raw,546,19.6,4.8,0.0,0.0,86.5,0.0,0.1,Moderate
+butterfish cooked,47,2.6,0.0,0.0,0.0,5.5,0.0,0.042,Moderate
+caviar,42,2.9,0.6,0.6,0.0,3.9,0.0,0.2,Moderate
+pollock raw,355,3.8,0.5,0.0,0.0,75.0,0.0,0.3,Moderate
+catfish cooked,206,10.3,2.3,0.0,0.0,26.4,0.0,0.2,Moderate
+whiting raw,83,1.2,0.2,0.0,0.0,16.8,0.0,0.016,Moderate
+pink salmon raw,404,14.0,2.6,0.0,0.0,65.2,0.0,0.2,Moderate
+yellowfin tuna raw,31,0.1,0.073,0.0,0.0,6.9,0.0,0.049,Moderate
+mackerel raw,230,15.6,3.6,0.0,0.0,20.8,0.0,0.1,Moderate
+turbot raw,388,12.0,3.1,0.0,0.0,65.5,0.0,0.6,Moderate
+cusk cooked,106,0.8,0.0,0.0,0.0,23.1,0.0,0.047,Moderate
+atlantic croaker raw,82,2.5,0.9,0.0,0.0,14.0,0.0,0.014,Moderate
+sucker cooked,148,3.7,0.7,0.0,0.0,26.6,0.0,0.019,Moderate
+spot raw,79,3.1,0.9,0.0,0.0,11.8,0.0,0.022,Moderate
+drum cooked,236,9.7,2.2,0.0,0.0,34.6,0.0,0.1,Moderate
+crayfish raw,3,0.048,0.01,0.0,0.0,0.6,0.0,0.024,Moderate
+tilefish cooked,441,14.1,2.6,0.0,0.0,73.5,0.0,0.2,Moderate
+bluefish cooked,186,6.4,1.4,0.0,0.0,30.1,0.0,0.045,Moderate
+grouper cooked,238,2.6,0.6,0.0,0.0,50.2,0.0,0.1,Moderate
+sheepshead raw,257,5.7,1.4,0.0,0.0,48.1,0.0,0.2,Moderate
+herring kippered,87,4.9,1.1,0.0,0.0,9.8,0.0,0.4,Moderate
+grouper raw,238,2.6,0.6,0.0,0.0,50.2,0.0,0.1,Moderate
+ocean perch cooked,48,0.9,0.2,0.0,0.0,9.3,0.0,0.2,Moderate
+ling raw,168,1.2,0.2,0.0,0.0,36.7,0.0,0.3,Moderate
+lingcod cooked,329,4.1,0.8,0.0,0.0,68.4,0.0,0.2,Moderate
+florida pompano raw,184,10.6,3.9,0.0,0.0,20.7,0.0,0.081,Moderate
+rockfish cooked,162,2.4,0.6,0.0,0.0,33.1,0.0,0.1,Moderate
+seatrout cooked,247,8.6,2.4,0.0,0.0,39.9,0.0,0.1,Moderate
+sockeye salmon raw,562,22.2,4.7,0.0,0.0,84.4,0.0,0.4,Moderate
+swordfish cooked,182,8.4,2.0,0.0,0.0,24.9,0.0,0.1,Moderate
+american shad raw,362,25.3,5.8,0.0,0.0,31.2,0.0,0.001,Junk
+sardine canned in oil,310,17.1,2.3,0.0,0.0,36.7,0.0,0.5,Moderate
+anchovy canned in oil,8,0.4,0.001,0.0,0.0,1.2,0.0,0.1,Moderate
+salmon canned,520,20.3,5.5,0.0,0.0,79.1,0.0,1.8,Junk
+sardines in tomato sauce canned,165,9.3,2.4,0.5,0.4,18.6,0.009,0.4,Moderate
+sockeye salmon canned,563,24.9,4.9,0.0,0.0,79.5,0.0,1.4,Moderate
+tuna canned,102,2.4,0.6,0.0,0.0,18.9,0.0,0.3,Moderate
+pink salmon canned,530,20.4,3.5,0.0,0.0,80.9,0.0,1.7,Moderate
+cod canned,328,2.7,0.5,0.0,0.0,71.0,0.0,0.7,Moderate
+eastern oyster canned,110,4.0,1.0,6.3,0.0,11.4,0.0,0.2,Moderate
+chum salmon canned,520,20.3,5.5,0.0,0.0,79.1,0.0,0.3,Junk
+tuna canned in oil,331,14.4,2.3,0.0,0.0,47.2,0.0,0.7,Moderate
+wild pink salmon oceans,320,16.0,0.0,0.0,0.0,0.0,0.0,0.0,Moderate
+shrimp canned,128,1.7,0.2,0.0,0.0,26.1,0.0,1.1,Moderate
+alaska king crab raw,144,1.0,0.2,0.0,0.0,31.5,0.0,1.4,Moderate
+scallops fried,64,3.2,0.8,6.4,0.0,2.6,0.0,0.2,Moderate
+shrimp cooked,7,0.092,0.023,0.013,0.0,1.3,0.0,0.012,Moderate
+clams fried,19,1.0,0.3,1.0,0.0,1.3,0.0,0.068,Moderate
+alaska king crab cooked,130,2.1,0.2,0.0,0.0,25.9,0.0,1.4,Moderate
+scallops cooked,11,0.058,0.092,0.5,0.0,2.1,0.0,0.06,Moderate
+squid fried,140,6.0,1.5,6.2,0.0,14.4,0.0,0.2,Moderate
+oyster raw,41,1.2,0.3,2.5,0.0,4.7,0.0,0.059,Moderate
+abalone,89,0.6,0.1,5.1,0.0,14.5,0.0,0.3,Moderate
+queen crab raw,25,0.3,0.096,0.0,0.0,5.2,0.0,0.2,Moderate
+whelk cooked,78,0.2,0.003,4.4,0.0,13.5,0.0,0.1,Moderate
+oyster cooked,41,1.2,0.3,2.5,0.0,4.7,0.0,0.066,Moderate
+eastern oyster cooked,8,0.2,0.073,0.7,0.0,0.7,0.0,0.038,Moderate
+blue mussels cooked,344,9.0,1.7,14.8,0.0,47.6,0.0,0.7,Moderate
+octopus raw,23,0.3,0.002,0.6,0.0,4.2,0.0,0.064,Moderate
+spiny lobster cooked,233,3.2,0.5,5.1,0.0,43.0,0.0,0.4,Moderate
+blue mussels raw,129,3.4,0.6,5.5,0.0,17.9,0.0,0.4,Moderate
+queen crab cooked,98,1.3,0.2,0.0,0.0,20.2,0.0,0.6,Moderate
+dungeness crab cooked,140,1.6,0.2,1.2,0.0,28.3,0.0,0.5,Moderate
+dungeness crab raw,140,1.6,0.2,1.2,0.0,28.4,0.0,0.5,Moderate
+shrimp fried,52,3.2,0.7,4.8,0.086,1.3,0.1,0.2,Moderate
+shrimp raw,4,0.023,0.061,0.041,0.0,0.7,0.0,0.083,Moderate
+blue crab cooked,71,0.6,0.2,0.0,0.0,15.2,0.0,0.3,Moderate
+shrimp imitation,29,0.4,0.019,2.6,0.0,3.5,0.0,0.2,Moderate
+conch baked,165,1.5,0.5,2.2,0.0,33.4,0.0,0.2,Moderate
+squid raw,26,0.4,0.1,0.9,0.0,4.4,0.0,0.09,Moderate
+scallop raw,10,0.091,0.089,0.5,0.0,1.8,0.0,0.057,Moderate
+lobster raw,116,1.1,0.3,0.0,0.0,24.8,0.0,0.6,Moderate
+scallop imitation,28,0.1,0.065,3.0,0.0,3.6,0.0,0.2,Moderate
+blue crab raw,18,0.2,0.067,0.018,0.0,3.8,0.0,0.079,Moderate
+whelk raw,39,0.1,0.096,2.2,0.0,6.7,0.0,0.073,Moderate
+spiny lobster raw,234,3.2,0.5,5.1,0.0,43.1,0.0,0.4,Moderate
+clams canned,227,2.5,0.5,9.4,0.0,38.8,0.0,0.2,Moderate
+lobster cooked,134,1.3,0.3,0.0,0.0,28.5,0.0,0.7,Moderate
+eastern oyster fried,29,1.8,0.5,1.7,0.0,1.3,0.0,0.015,Moderate
+clams raw,195,2.2,0.4,8.1,0.0,33.3,0.0,1.4,Moderate
+octopus cooked,139,1.8,0.4,3.7,0.0,25.3,0.0,0.4,Moderate
+eastern oyster raw,8,0.2,0.0,0.8,0.0,0.7,0.0,0.021,Moderate
+oyster fried,61,3.0,0.8,6.7,0.0,2.1,0.0,0.1,Moderate
+sturgeon smoked,49,1.2,0.3,0.0,0.0,8.8,0.0,0.2,Moderate
+chinook salmon smoked,159,5.9,1.3,0.0,0.0,24.9,0.0,1.1,Moderate
+cisco smoked,50,3.4,0.5,0.0,0.0,4.6,0.0,0.1,Moderate
+haddock smoked,33,0.3,0.049,0.0,0.0,7.1,0.0,0.2,Moderate
+whitefish smoked,147,1.3,0.3,0.0,0.0,31.8,0.0,1.4,Moderate
+red salmon sockeye filets smoked,373,12.3,2.8,0.0,0.0,65.5,0.0,0.065,Moderate

@@ -1,0 +1,43 @@
+<h1>Food Identifier</h1>
+
+{% if error %}
+<p style="color: red;">{{ error }}</p>
+{% endif %}
+
+<form method="POST">
+
+<input type="text" name="food" placeholder="Enter food name">
+
+<button type="submit">Search</button>
+
+</form>
+
+
+{% if matches is not none and not matches.empty %}
+
+<h3>Select Food</h3>
+
+<form method="POST">
+
+<select name="selected_food">
+
+{% for row in matches.itertuples() %}
+
+<option value="{{ row.Index }}">{{ row.food }}</option>
+
+{% endfor %}
+
+</select>
+
+<button type="submit">Identify</button>
+
+</form>
+
+{% endif %}
+
+
+{% if prediction %}
+
+<h3>Predicted Category: {{ prediction }}</h3>
+
+{% endif %}

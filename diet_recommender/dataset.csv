@@ -1,0 +1,552 @@
+food,Caloric Value,Fat,Saturated Fats,Carbohydrates,Sugars,Protein,Dietary Fiber,Sodium,category
+cream cheese,51,5.0,2.9,0.8,0.5,0.9,0.0,0.016,Healthy
+neufchatel cheese,215,19.4,10.9,3.1,2.7,7.8,0.0,0.3,Healthy
+requeijao cremoso light catupiry,49,3.6,2.3,0.9,3.4,0.8,0.1,0.0,Healthy
+ricotta cheese,30,2.0,1.3,1.5,0.091,1.5,0.0,0.017,Healthy
+cream cheese low fat,30,2.3,1.4,1.2,0.9,1.2,0.0,0.046,Healthy
+cream cheese fat free,19,0.2,0.1,1.4,1.0,2.8,0.0,0.1,Healthy
+gruyere cheese,116,9.1,5.3,0.1,0.1,8.3,0.0,0.2,Healthy
+cheddar cheese,113,9.3,5.3,0.9,0.1,6.4,0.0,0.2,Healthy
+parmesan cheese,71,4.5,2.7,0.6,0.046,6.4,0.0,0.2,Healthy
+romano cheese,19,1.3,0.9,0.2,0.088,1.6,0.0,0.008,Healthy
+parmesan cheese grated,21,1.4,0.8,0.7,0.075,1.4,0.0,0.043,Healthy
+port salut cheese,465,37.2,22.0,0.8,0.8,31.4,0.0,0.7,Moderate
+swiss cheese,98,7.7,4.6,0.4,0.0,6.7,0.0,0.057,Healthy
+goat cheese hard,128,10.1,7.0,0.6,0.6,8.6,0.0,0.076,Healthy
+gouda cheese,100,7.7,4.9,0.6,0.6,7.0,0.0,0.2,Healthy
+pepper jack cheese lucerne,75,6.0,4.0,0.0,0.0,5.0,2.5,0.0,Healthy
+caraway cheese,106,8.3,5.3,0.9,0.0,7.1,0.0,0.2,Healthy
+gjetost cheese,1058,67.0,43.5,96.8,0.0,21.9,0.0,1.4,Moderate
+tilsit cheese,136,10.4,6.7,0.8,0.0,9.8,0.0,0.3,Healthy
+goat cheese,103,8.4,5.8,0.009,0.031,6.1,0.0,0.1,Healthy
+brick cheese,111,8.9,5.6,0.8,0.2,7.0,0.0,0.2,Healthy
+asadero cheese,402,31.9,20.3,3.2,3.2,25.5,0.0,0.7,Moderate
+camembert cheese,90,7.3,4.6,0.1,0.1,5.9,0.0,0.3,Healthy
+provolone cheese reduced fat,310,19.9,12.8,4.0,0.6,27.9,0.0,1.0,Healthy
+roquefort cheese,314,26.0,16.4,1.7,0.0,18.3,0.0,1.5,Healthy
+queso blanco cheese,366,28.7,16.1,3.0,2.1,24.0,0.0,0.8,Healthy
+queso seco cheese,315,23.6,13.3,2.0,0.5,23.8,0.0,1.8,Healthy
+goat cheese soft,75,6.0,4.1,0.0,0.3,5.2,0.0,0.1,Healthy
+mozzarella cheese,90,6.6,4.2,0.7,0.0,6.7,0.0,0.1,Healthy
+chihuahua cheese,494,39.2,24.9,7.3,7.3,28.5,0.0,0.8,Junk
+limburger cheese,98,8.2,5.0,0.1,0.1,6.0,0.0,0.2,Healthy
+muenster cheese,486,39.7,25.2,1.5,1.5,30.9,0.0,0.8,Moderate
+queso fresco cheese,365,29.1,15.8,3.6,2.8,22.1,0.0,0.9,Healthy
+brie cheese,100,8.3,5.2,0.1,0.1,6.2,0.0,0.2,Healthy
+pimento cheese,525,43.7,27.5,2.4,0.9,31.0,0.1,2.0,Moderate
+mexican cheese,316,21.7,13.0,3.8,0.6,27.7,0.0,0.9,Healthy
+feta cheese,80,6.4,4.0,1.2,0.0,4.3,0.0,0.3,Healthy
+mozzarella cheese fat free,159,0.0,0.0,4.0,1.7,35.8,2.0,0.8,Healthy
+provolone cheese,463,35.1,22.5,2.8,0.7,33.8,0.0,1.2,Moderate
+anejo cheese,492,39.6,25.1,6.1,6.1,28.3,0.0,1.5,Junk
+honey,64,0.0,0.0,17.3,17.2,0.08,0.025,0.011,Moderate
+apple butter,35,0.063,0.038,8.5,7.1,0.045,0.3,0.003,Healthy
+fruit jam,56,0.095,0.021,13.8,9.7,0.0,0.2,0.052,Healthy
+chocolate hazelnut spread,100,5.5,5.3,11.5,10.0,1.0,1.0,0.099,Moderate
+peanut butter,88,7.4,1.4,3.6,1.0,3.3,0.9,0.085,Healthy
+peanut spread,101,8.5,1.6,2.2,0.5,3.8,1.2,0.028,Healthy
+chicken spread,88,9.8,1.8,2.3,0.3,10.1,0.2,0.4,Healthy
+cheese spread,708,68.6,43.2,8.4,8.4,17.0,0.0,1.2,Junk
+tahini,86,7.2,1.0,3.9,0.0,2.7,1.4,0.098,Healthy
+orange marmalade,49,0.0,0.0,13.3,12.0,0.014,0.1,0.016,Healthy
+american cheese spread,46,3.4,2.1,1.4,1.2,2.6,0.0,0.3,Healthy
+apricot jam,48,0.01,0.042,12.9,8.7,0.1,0.044,0.004,Healthy
+chunky peanut butter,94,8.0,1.2,3.5,1.3,3.8,1.3,0.03,Healthy
+ham and cheese spread,37,2.8,1.3,0.3,0.0,2.4,0.0,0.2,Healthy
+chicken and rice casserole homade,27,1.0,0.0,2.4,0.0,2.0,0.3,0.0,Healthy
+picnic loaf,65,4.7,1.7,1.3,0.0,4.2,0.0,0.3,Healthy
+corn tamale,309,12.0,4.4,44.3,12.3,5.8,5.3,0.5,Healthy
+baked potato with cheese sauce bacon,451,25.9,10.1,44.4,0.0,18.4,0.0,1.0,Moderate
+chinese egg roll,223,10.6,1.9,24.3,0.0,7.4,2.3,0.4,Healthy
+butter croissant,231,12.0,6.6,26.1,6.4,4.7,1.5,0.2,Moderate
+enchilada with cheese beef,323,17.6,9.0,30.5,0.0,11.9,0.0,1.3,Healthy
+corned beef hash with potatoes,387,24.2,10.2,21.9,0.8,20.6,2.6,1.0,Healthy
+biscuit with egg cheese bacon,436,25.3,8.5,35.4,2.5,17.4,0.3,1.2,Moderate
+bagel with ham egg cheese,483,18.5,7.9,52.4,7.0,26.7,0.4,1.3,Junk
+quesadilla with chicken,529,27.5,11.1,43.3,3.4,27.1,3.1,1.3,Moderate
+corn rice,110,0.3,0.02,25.2,3.0,1.8,0.4,0.2,Healthy
+kung pao chicken,779,42.2,8.2,41.5,18.3,59.0,9.1,2.4,Junk
+beef empanada,298,16.3,4.6,27.8,1.6,10.1,1.8,0.4,Healthy
+frijoles with cheese,225,7.8,4.1,28.7,0.0,11.4,0.0,0.9,Healthy
+burrito with beef,285,8.1,1.7,43.9,4.1,9.1,4.4,0.5,Healthy
+crispy chicken sandwich,350,17.6,3.3,33.2,3.9,14.8,0.0,0.7,Healthy
+enchilada with cheese,374,25.3,11.5,21.2,3.6,15.4,2.6,0.7,Healthy
+pork egg roll,189,6.1,1.3,25.1,4.5,8.4,1.8,0.3,Healthy
+corn on the cob with butter,155,3.4,1.6,31.9,0.0,4.5,0.0,0.056,Healthy
+pancakes with butter syrup,260,7.0,2.9,45.4,0.0,4.1,0.0,0.6,Healthy
+burrito with beans,224,6.7,3.4,35.7,0.0,7.0,0.0,0.5,Healthy
+scrambled eggs,100,7.6,2.9,1.0,0.8,6.5,0.0,0.1,Healthy
+baked potato with sour cream,393,22.3,10.0,50.0,0.0,6.7,0.0,0.2,Moderate
+turkey and gravy,161,6.3,2.0,11.1,0.0,14.1,0.0,1.3,Healthy
+chicken egg roll,158,3.6,0.8,22.8,4.5,8.4,1.9,0.4,Healthy
+vegetable egg roll,153,3.6,0.6,25.0,5.3,5.2,2.2,0.4,Healthy
+ham cheese roll,67,5.2,2.0,1.1,0.0,3.8,0.0,0.3,Healthy
+biscuit with ham,386,18.4,11.4,43.8,2.2,13.4,0.8,1.1,Healthy
+lemon chicken,1440,74.9,12.2,122.0,55.2,68.6,7.0,1.5,Junk
+hummus,435,21.1,2.8,49.5,0.7,12.0,9.8,0.6,Healthy
+croissant with egg cheese,368,24.7,14.1,24.3,0.0,12.8,0.0,0.6,Healthy
+enchirito with cheese beef beans,344,16.1,7.9,33.8,0.0,17.9,0.0,1.3,Healthy
+sweet sour pork,38,2.2,0.4,3.3,1.4,1.2,0.1,0.003,Healthy
+crab cake,160,10.4,2.2,5.1,0.0,11.3,0.2,0.5,Healthy
+egg dinner roll,107,2.2,0.6,18.2,1.5,3.3,1.3,0.2,Healthy
+english muffin with egg cheese sausage,472,29.9,11.4,28.8,2.5,22.1,0.3,0.8,Moderate
+buttermilk pancakes,86,3.5,0.7,10.9,0.0,2.6,0.0,0.2,Healthy
+omelet,94,7.1,2.0,0.4,0.2,6.4,0.0,0.013,Healthy
+taco with chicken cheese lettuce,185,6.2,2.5,19.3,1.3,13.0,1.2,0.6,Healthy
+spinach souffle,230,17.6,10.1,8.0,2.5,10.7,1.0,0.8,Healthy
+english muffin with cheese sausage,365,22.3,8.8,27.3,2.1,14.3,0.5,0.7,Healthy
+potato gratin,328,18.6,11.6,27.6,0.0,12.4,4.4,1.1,Healthy
+biscuit with egg,436,25.3,8.5,35.4,2.5,17.4,0.3,1.2,Moderate
+french fries deep fried,222,10.5,1.7,29.4,0.2,2.4,2.7,0.1,Healthy
+sweet sour chicken,46,2.3,0.4,4.4,2.1,1.8,0.2,0.043,Healthy
+burrito with beans beef,460,18.0,7.0,47.0,5.3,27.8,7.2,1.4,Moderate
+nachos with cinnamon sugar,592,36.0,18.2,63.4,0.0,7.2,0.0,0.4,Junk
+arroz con grandules,209,5.7,0.9,35.4,0.0,4.0,1.6,0.7,Healthy
+chili con carne,271,8.8,3.2,33.1,4.7,14.7,8.3,1.1,Healthy
+arroz con abichuelas,223,5.4,0.8,37.3,0.2,6.2,4.1,0.6,Healthy
+biscuit with sausage,412,27.1,8.2,33.3,1.8,10.7,0.4,0.9,Moderate
+vegetarian stew,304,7.4,1.2,17.3,3.1,42.0,2.7,1.0,Healthy
+chicken sandwich with cheese,632,38.8,12.4,41.6,0.0,29.4,0.0,1.2,Moderate
+biscuit with egg steak,410,28.4,8.6,21.3,0.0,17.9,0.0,0.9,Moderate
+taco salad,212,11.2,5.2,17.9,0.0,10.0,0.0,0.6,Healthy
+succotash,213,1.5,0.3,46.8,0.0,9.7,0.0,0.5,Healthy
+nachos with cheese jalapeno peppers,608,34.1,14.0,60.1,0.0,16.8,0.0,1.7,Moderate
+biscuit with egg ham,442,27.0,5.9,31.4,4.2,20.4,0.8,1.4,Moderate
+ladyfingers,103,2.6,0.9,16.9,7.2,3.0,0.3,0.016,Healthy
+mozzarella steak fried,102,5.9,2.2,7.7,0.7,4.6,0.6,0.2,Healthy
+tamale navajo,285,11.4,4.5,33.7,1.8,11.7,5.8,0.8,Healthy
+blueberry pancakes,84,3.5,0.8,11.0,0.0,2.3,0.0,0.2,Healthy
+chimichanga with beef cheese,443,23.4,11.2,39.3,0.0,20.1,0.0,1.0,Moderate
+egg cheese sandwich,340,19.4,6.6,25.9,0.0,15.6,0.0,0.8,Healthy
+biscuit with egg bacon,458,31.1,8.0,28.6,3.3,17.0,0.8,1.3,Moderate
+pupusas con queso,300,15.5,7.6,26.2,1.4,13.7,3.4,0.5,Healthy
+apple croissant,145,5.0,2.8,21.1,0.0,4.2,1.4,0.2,Healthy
+refried red beans,336,16.1,2.2,36.0,0.0,11.7,11.0,0.9,Healthy
+tostada with guacamole,180,11.6,4.9,16.0,0.0,6.2,0.0,0.4,Healthy
+chicken sandwich,468,20.9,4.0,39.1,6.8,30.4,2.6,1.4,Moderate
+fried rice,228,3.2,0.7,43.4,0.6,6.5,1.5,0.6,Healthy
+pupusas del cerdo,283,12.7,3.9,28.1,1.8,14.0,3.2,0.5,Healthy
+turkey pot pie,699,34.9,11.4,70.3,0.0,25.8,4.4,1.4,Moderate
+cheese croissant,331,16.7,8.5,37.6,9.1,7.4,2.1,0.3,Junk
+chimichanga with beef,425,19.7,8.5,42.8,0.0,19.6,0.0,0.9,Moderate
+french toast with butter,178,9.4,3.9,18.0,0.0,5.2,0.0,0.3,Healthy
+ham egg cheese sandwich,347,16.3,7.4,30.9,0.0,19.2,0.0,1.0,Healthy
+english muffin with butter,189,5.8,2.4,30.4,0.0,4.9,0.0,0.4,Healthy
+savoury noodle one pan dinner tandaco,172,1.2,0.5,5.5,0.0,0.0,0.0,0.0,Healthy
+ham cheese sandwich,352,15.5,6.4,33.3,0.0,20.7,0.0,0.8,Healthy
+sweet gefilte fish,35,0.7,0.2,3.1,0.0,3.8,0.0,0.2,Healthy
+poached egg,72,4.7,1.6,0.4,0.2,6.3,0.0,0.1,Healthy
+tostada with beef cheese,315,16.3,10.4,22.8,0.0,19.0,0.0,0.9,Healthy
+tostada with beans cheese,223,9.9,5.4,26.5,0.0,9.6,0.0,0.5,Healthy
+pork tamale,247,12.8,3.8,22.4,0.7,10.4,3.4,0.7,Healthy
+nachos with cheese,274,17.2,1.7,27.9,1.7,3.5,2.6,0.3,Healthy
+pulled pork in barbecue sauce,418,11.0,3.5,46.7,37.8,32.8,3.0,1.7,Junk
+baked potato with cheese sauce,474,28.7,10.6,46.5,0.0,14.6,0.0,0.4,Moderate
+baked beans,310,10.3,3.9,43.3,0.0,11.1,11.0,0.8,Healthy
+arroz con frijoles,220,5.6,1.1,35.6,1.3,6.8,5.0,0.6,Healthy
+taco with beef cheese lettuce,156,8.8,3.0,13.7,0.6,6.1,2.7,0.3,Healthy
+burrito with beans cheese beef,165,6.6,3.6,19.8,0.0,7.3,0.0,0.5,Healthy
+egg mix,30,2.2,0.8,0.098,0.091,2.4,0.0,0.012,Healthy
+falafel,57,3.0,0.4,5.4,0.0,2.3,0.0,0.081,Healthy
+taco salad with chili con carne,193,8.8,4.0,17.7,0.0,11.6,0.0,0.6,Healthy
+wonton wrappers,93,0.5,0.022,18.5,0.0,3.1,0.6,0.2,Healthy
+hushpuppies,512,20.5,3.2,69.9,3.1,11.7,4.3,1.0,Healthy
+chicken pot pie,598,34.6,12.6,57.3,7.2,14.6,3.0,1.2,Junk
+general tsos chicken,1578,87.5,14.8,128.3,62.1,69.0,4.8,2.3,Junk
+burrito with beans cheese,379,11.2,4.3,57.8,3.2,13.6,7.8,1.0,Healthy
+vegetarian fillets,247,15.3,2.4,7.7,0.7,19.6,5.2,0.4,Healthy
+biscuit with egg sausage,505,33.6,10.4,34.1,1.5,18.0,0.3,1.1,Moderate
+chicken chow mein,513,16.9,3.0,50.1,10.5,40.8,6.0,1.9,Healthy
+fruit burrito,231,9.5,4.6,35.0,0.0,2.5,0.0,0.2,Healthy
+arroz con leche,369,9.3,4.8,63.0,38.6,8.1,1.3,0.3,Junk
+caramel custard flan,444,12.3,5.5,69.7,70.8,13.9,0.0,0.2,Junk
+gelatin dessert,167,0.0,0.0,38.3,36.4,3.3,0.0,0.2,Moderate
+chocolate milk dessert,229,1.4,0.8,51.6,51.6,5.9,0.0,0.1,Moderate
+chocolate mousse,338,24.0,13.7,24.1,22.2,6.2,0.9,0.081,Junk
+dulce de leche,60,1.4,0.9,10.5,9.5,1.3,0.0,0.036,Healthy
+apple crisp,454,9.7,1.9,87.0,55.5,4.9,3.9,1.0,Junk
+spinach spaghetti cooked,182,0.9,0.1,36.6,0.0,6.4,0.0,0.061,Healthy
+corn pasta cooked,176,1.0,0.1,39.1,0.0,3.7,6.7,0.0,Healthy
+spaghetti with meat sauce,255,2.9,1.0,43.1,7.4,14.3,5.1,0.7,Healthy
+pasta with meatballs in tomato sauce,273,13.0,5.0,28.3,7.2,10.6,6.9,0.7,Healthy
+cheese tortellini,332,7.8,3.9,50.8,1.0,14.6,2.1,0.4,Healthy
+pasta with sliced franks in tomato sauce,227,6.0,2.5,32.0,8.0,11.0,4.0,0.7,Healthy
+lasagna,166,6.1,2.9,18.9,3.8,9.0,2.1,0.5,Healthy
+macaroni cheese,310,9.4,3.1,43.7,3.0,12.6,2.3,0.9,Healthy
+vegetable lasagna,316,13.7,5.5,32.2,5.8,15.6,4.3,1.0,Moderate
+spinach egg noodles cooked,211,2.5,0.6,38.8,1.1,8.1,3.7,0.068,Healthy
+cheese lasagna,316,13.0,5.1,33.6,10.3,15.9,4.1,0.7,Moderate
+pasta with tomato sauce,176,1.8,0.4,35.1,10.1,5.6,2.3,1.0,Healthy
+spinach pasta cooked,37,0.3,0.078,7.1,0.0,1.4,0.0,0.004,Healthy
+vegetable chicken soup,166,4.8,1.4,21.1,3.4,12.3,1.0,0.075,Healthy
+bean ham soup,198,2.5,0.6,33.5,7.8,10.3,9.8,0.5,Healthy
+cream of chicken soup,227,14.5,4.3,18.0,1.4,6.0,0.0,1.8,Healthy
+tomato soup canned,139,3.3,1.8,22.6,16.5,6.3,1.5,0.5,Moderate
+egg drop soup,65,1.5,0.4,10.3,0.2,2.8,1.0,0.9,Healthy
+scotch broth,197,6.4,2.7,23.0,0.0,12.1,3.0,2.1,Healthy
+cream of onion soup,268,12.8,3.6,31.7,11.1,6.7,1.2,1.9,Moderate
+chicken broth dry,10,0.2,0.055,1.1,0.0,0.7,0.0,1.2,Healthy
+vegetable soup with beef broth,162,3.8,0.9,26.3,4.0,6.0,3.2,1.3,Healthy
+chili with beans canned,287,14.1,6.0,30.5,3.0,14.6,11.3,1.3,Healthy
+beef noodle soup,168,6.2,2.3,17.9,5.2,9.6,1.5,1.6,Healthy
+consomme dry,17,0.2,0.0,1.9,1.1,2.2,0.0,0.8,Healthy
+chicken mushroom soup,126,6.1,1.6,15.1,1.0,2.0,4.0,0.8,Healthy
+beef vegetable soup,120,2.9,1.0,15.4,3.1,8.0,3.0,0.8,Healthy
+black bean soup,234,3.4,0.9,39.6,6.4,12.4,17.5,2.5,Healthy
+split pea soup with ham bacon,189,3.1,0.9,28.6,0.0,11.6,4.1,1.0,Healthy
+cream of mushroom soup,199,13.4,2.4,17.1,1.0,3.4,1.8,1.7,Healthy
+green pea soup,320,5.7,2.7,51.7,16.7,16.7,10.0,1.7,Healthy
+chicken broth soup,78,2.6,0.8,1.9,0.9,11.1,0.0,1.6,Healthy
+chicken mushroom chowder soup,431,23.7,6.2,38.3,0.0,16.2,7.5,1.8,Healthy
+chicken dumplings soup,235,13.4,3.2,14.7,1.4,13.6,1.2,1.8,Healthy
+chicken vegetable soup,148,5.6,1.7,17.0,3.0,7.1,1.7,1.7,Healthy
+turkey vegetable soup,72,3.0,0.9,8.6,2.6,3.1,0.5,0.9,Healthy
+wonton soup,71,0.6,0.1,11.7,0.8,4.6,0.4,0.9,Healthy
+beef stock,31,0.2,0.003,2.9,1.3,4.7,0.0,0.5,Healthy
+mushroom barley soup,186,5.5,1.1,29.3,0.0,4.6,0.0,1.7,Healthy
+gazpacho soup,70,0.4,0.008,6.6,2.2,10.7,0.7,1.1,Healthy
+beef mushroom soup,186,7.3,3.7,15.9,0.0,14.0,0.6,2.2,Healthy
+chicken rice soup,127,3.2,1.0,13.0,1.4,12.3,1.0,0.9,Healthy
+pepperpot soup,100,4.5,2.0,9.1,0.0,6.2,0.5,0.9,Healthy
+vegetable soup,149,4.0,0.6,24.6,7.9,4.3,1.3,1.3,Healthy
+chili beef soup,308,6.7,3.3,49.6,13.4,13.4,6.6,2.1,Healthy
+chicken soup,174,6.5,1.9,16.9,2.1,12.4,1.5,0.9,Healthy
+bean with frankfurters soup,188,7.0,2.1,22.0,0.0,10.0,0.0,1.1,Healthy
+pea soup,161,2.8,1.4,25.6,8.3,8.3,4.9,0.015,Healthy
+turkey soup,135,4.4,1.2,14.1,0.0,10.2,0.0,0.9,Healthy
+stockpot soup,201,7.8,1.7,23.1,0.0,9.8,0.0,2.1,Healthy
+hot sour soup,91,2.8,0.5,10.1,1.0,6.0,1.2,0.9,Healthy
+cheese soup,203,9.7,6.1,28.0,9.3,2.0,5.5,1.7,Healthy
+cream of potato soup,186,4.7,2.4,32.2,3.6,3.8,3.3,1.5,Healthy
+bean with bacon soup,106,2.1,1.0,16.4,0.6,5.5,9.0,0.9,Healthy
+fish stock,40,1.9,0.5,0.0,0.0,5.3,0.0,0.4,Healthy
+split pea soup with ham,381,8.9,3.5,56.2,0.0,20.7,4.6,1.7,Healthy
+beef broth soup,17,0.5,0.3,0.01,0.0,2.7,0.0,0.9,Healthy
+lentil soup with ham,139,2.8,1.1,20.2,0.0,9.3,0.0,1.3,Healthy
+tomato soup,98,0.7,0.2,22.5,12.2,2.2,1.6,0.6,Healthy
+fish broth,39,1.5,0.3,1.0,0.2,4.9,0.0,0.5,Healthy
+chili without beans canned,283,17.0,5.4,14.6,0.0,18.1,0.0,0.9,Healthy
+minestrone soup,167,5.0,1.1,22.6,3.7,8.6,2.0,1.3,Healthy
+clam chowder soup,154,4.4,0.8,24.5,6.8,4.4,3.0,1.8,Healthy
+tomato vegetable soup,54,0.8,0.4,9.9,2.4,1.9,0.7,0.3,Healthy
+cream of rice coup,127,0.2,0.07,28.1,0.022,2.2,0.2,0.4,Healthy
+cream of celery soup,181,11.2,2.8,17.7,3.4,3.3,1.5,1.3,Healthy
+chicken gravy,188,13.6,3.4,12.9,1.9,4.6,1.0,1.0,Healthy
+tomato rice soup,240,5.5,1.0,44.1,15.2,4.2,3.4,1.6,Moderate
+vegetable beef soup,128,2.0,0.6,9.6,0.0,18.1,4.4,1.1,Healthy
+tomato beef noodle soup,281,8.6,3.2,42.3,0.0,8.9,3.0,1.8,Healthy
+oyster stew soup,118,7.7,5.0,8.2,0.0,4.2,0.0,1.8,Healthy
+ramen noodle soup dry,371,13.3,6.4,53.9,1.3,8.9,2.0,1.7,Moderate
+chicken noodle soup,145,4.7,1.2,18.4,0.0,7.2,2.7,2.1,Healthy
+chicken bouillon dry,11,0.6,0.1,0.7,0.7,0.7,0.0,1.0,Healthy
+cream of asparagus soup,174,8.2,2.1,21.5,1.8,4.6,1.0,1.7,Healthy
+turkey noodle soup,139,4.0,1.1,17.3,1.0,7.8,1.5,1.6,Healthy
+cream of shrimp soup,181,10.4,6.5,16.5,0.0,5.6,0.5,1.7,Healthy
+bean with pork soup,335,11.5,3.0,44.1,7.8,15.3,15.3,1.7,Healthy
+chicken broth,12,0.5,0.008,1.0,0.0,1.0,0.0,0.9,Healthy
+beef broth powder,8,0.3,0.2,0.6,0.6,0.6,0.0,0.9,Healthy
+split pea soup,180,2.3,0.8,29.9,12.8,9.7,4.8,0.4,Healthy
+escarole soup,61,4.0,1.2,4.0,0.0,3.4,0.0,2.3,Healthy
+chicken stock,86,2.9,0.8,8.5,3.8,6.0,0.0,0.3,Healthy
+tomato bisque soup,248,5.0,1.1,47.7,0.0,4.5,2.1,1.8,Healthy
+shark fin soup,99,4.3,1.1,8.2,0.0,6.9,0.0,1.1,Healthy
+onion soup,113,3.5,0.5,16.4,6.7,7.5,1.7,1.3,Healthy
+chicken gumbo soup,113,2.9,0.7,16.8,4.9,5.3,4.0,1.7,Healthy
+crab soup,95,0.8,0.2,12.5,0.0,10.4,2.4,0.6,Healthy
+tripe soup,148,5.2,2.1,8.1,0.0,17.2,0.0,0.8,Healthy
+little india little lunch,164,10.6,15.6,2.0,0.0,0.0,0.0,0.0,Healthy
+original chicken sandwich chick fil a,125,5.1,11.6,0.0,0.0,0.0,0.0,0.0,Healthy
+sausage mcmuffin mcdonalds,383,24.2,8.3,28.2,2.2,14.6,1.6,0.8,Healthy
+sausage mcgriddles mcdonalds,421,24.0,7.3,42.2,15.2,11.4,1.4,1.0,Junk
+crispy chicken drumstick kentucky fried chicken,70,3.0,0.8,0.0,0.0,10.6,0.0,0.2,Healthy
+chicken crispy drumsticks kentucky fried chicken,156,10.1,2.2,4.5,0.0,11.8,0.0,0.4,Healthy
+biscuit kentucky fried chicken,185,9.1,2.2,22.1,1.7,3.8,0.8,0.5,Healthy
+english muffin mcdonalds,97,2.3,1.1,2.9,1.5,5.7,0.2,0.031,Healthy
+french fries mcdonalds,378,18.1,2.7,49.8,0.2,4.0,4.6,0.2,Healthy
+hotdog,383,23.0,8.1,28.5,0.0,16.4,0.0,1.1,Healthy
+french fries burger king,207,9.2,1.6,28.6,0.4,2.4,2.1,0.2,Healthy
+original taco with beef cheese lettuce taco bell,158,8.8,3.0,13.7,0.6,6.1,2.7,0.3,Healthy
+hotdog with chili,296,13.4,4.9,31.3,0.0,13.5,0.0,0.5,Healthy
+chicken crispy wings kentucky fried chicken,148,10.1,2.1,5.1,0.0,9.2,0.0,0.3,Healthy
+egg white delight mcdonalds,250,16.0,4.0,0.0,0.0,0.0,0.0,0.0,Healthy
+french toast sticks burger king,73,3.7,0.8,8.7,2.1,1.3,0.3,0.014,Healthy
+mcchicken mcdonalds,358,17.3,3.1,36.6,4.7,13.7,1.7,0.8,Healthy
+nachos supreme taco bell,480,26.6,7.8,45.0,0.0,14.8,8.0,0.8,Healthy
+crispy chicken wing kentucky fried chicken,104,5.3,1.1,1.3,0.0,12.6,0.0,0.3,Healthy
+chicken strips burger king,105,5.5,1.0,7.4,0.0,6.6,0.5,0.3,Healthy
+crispy chicken breast kentucky fried chicken,214,6.7,1.7,0.4,0.0,38.2,0.0,0.7,Healthy
+sausage biscuit mcdonalds,440,29.7,12.5,31.8,2.3,11.3,1.4,1.0,Moderate
+sausage burrito mcdonalds,339,17.1,6.1,24.2,1.4,13.0,1.2,0.8,Healthy
+onion rings fried,27,1.6,0.3,2.8,0.4,0.3,0.2,0.015,Healthy
+onion rings burger king,379,23.0,3.8,39.7,4.9,3.5,2.5,0.7,Healthy
+turkey patty fried,79,5.0,1.3,4.4,0.053,3.9,0.1,0.2,Healthy
+hotcakes with syrup mcdonalds,601,17.8,1.8,101.8,45.5,9.0,2.0,0.6,Junk
+crispy chicken thigh kentucky fried chicken,163,9.1,2.5,0.0,0.0,20.4,0.0,0.5,Healthy
+corn dog,195,9.4,2.7,21.0,5.9,6.7,0.8,0.5,Healthy
+chicken box mcdonalds,70,4.0,0.8,5.5,0.5,0.2,0.0,0.0,Healthy
+potato wedges kentucky fried chicken,379,19.8,4.0,45.0,0.0,5.4,4.2,1.0,Healthy
+scrambled eggs mcdonalds,98,7.5,2.1,0.9,0.1,7.7,0.0,0.04,Healthy
+egg mcmuffin mcdonalds,287,12.2,4.5,27.3,2.7,17.2,1.4,0.8,Healthy
+nachos taco bell,362,21.9,4.7,36.0,0.0,5.1,3.8,0.5,Healthy
+biscuit large mcdonalds,310,14.4,8.3,39.4,2.7,5.5,1.8,0.9,Moderate
+crispy chicken strips kentucky fried chicken,129,7.2,1.4,6.4,0.0,9.5,0.7,0.4,Healthy
+hotcakes mcdonalds,113,2.9,0.6,19.0,4.4,3.0,0.7,0.2,Healthy
+chicken crispy breast kentucky fried chicken,375,23.2,5.0,11.9,0.0,29.7,0.0,0.8,Healthy
+hotcakes sausage mcdonalds,776,34.9,7.3,102.4,45.7,15.5,2.1,0.9,Junk
+chicken mcnuggets mcdonalds,48,3.2,0.5,2.4,0.025,2.5,0.0,0.009,Healthy
+chips chipotle,151,7.1,0.9,2.1,2.1,0.2,0.0,0.0,Healthy
+biscuit mcdonalds,261,12.2,7.0,33.3,2.2,4.7,1.5,0.7,Moderate
+rice bowl with chicken,36,0.4,0.01,6.4,1.2,1.6,0.2,0.064,Healthy
+spaghetti with meatballs,200,8.2,2.9,22.9,5.8,8.7,5.4,0.6,Healthy
+meat ravioli canned,259,8.9,3.7,36.0,6.3,8.9,4.2,0.9,Moderate
+cheese ravioli canned,186,3.5,1.7,33.0,9.0,6.0,3.1,0.7,Healthy
+premium crispy chicken ranch blt sandwich mcdonalds,586,22.9,4.7,59.8,13.3,35.3,3.4,1.2,Moderate
+steak sandwich,459,14.1,3.8,52.0,0.0,30.3,0.0,0.8,Healthy
+cheeseburger burger king,380,19.7,9.1,31.5,6.0,19.4,3.7,0.8,Moderate
+cheeseburger mcdonalds,313,14.0,5.3,33.1,7.4,15.4,1.3,0.7,Moderate
+double cheeseburger,643,36.9,15.9,41.0,9.5,37.0,2.1,0.9,Junk
+double hamburger,942,58.6,21.6,51.4,13.2,52.1,5.2,1.1,Moderate
+premium grilled chicken classic sandwich mcdonalds,366,8.6,1.7,44.6,10.0,28.3,2.8,0.8,Healthy
+big n tasty with cheese mcdonalds,573,36.0,10.8,39.7,9.5,27.2,3.2,1.0,Junk
+premium grilled chicken club sandwich mcdonalds,493,18.0,6.4,44.3,6.4,38.3,2.7,1.0,Junk
+quarter pounder mcdonalds,417,19.8,6.9,37.9,8.8,24.1,2.7,0.7,Junk
+premium crispy chicken classic sandwich mcdonalds,524,20.0,3.2,58.6,12.4,27.8,3.2,1.0,Moderate
+veggie burger,124,4.4,1.0,10.0,0.7,11.0,3.4,0.4,Healthy
+quarter pounder with cheese mcdonalds,513,28.3,11.2,39.7,9.8,29.0,2.8,1.2,Junk
+beef sandwich steak raw,173,15.1,6.5,0.0,0.0,9.2,0.0,0.043,Healthy
+cheeseburger,292,13.2,6.0,28.7,5.9,15.0,1.6,0.6,Moderate
+premium grilled chicken ranch blt sandwich mcdonalds,412,10.9,3.0,44.3,10.5,33.7,2.8,1.0,Moderate
+double whopper with cheese burger king,1061,68.1,27.9,53.9,14.4,57.7,6.4,1.5,Moderate
+big mac mcdonalds,563,32.8,8.3,44.0,8.7,25.9,3.5,1.0,Junk
+sandwich with cold cuts,833,39.3,13.9,79.9,12.4,41.1,4.7,2.2,Junk
+filet o fish mcdonalds,378,19.6,3.8,35.4,4.9,15.1,1.9,0.6,Healthy
+hand breaded chicken tenders carls jr,57,2.9,0.6,0.2,0.0,0.0,0.0,0.0,Healthy
+grilled chicken sandwich wendys,370,8.0,42.0,0.0,0.0,0.0,0.0,0.0,Moderate
+sandwich with roast beef,410,13.0,7.1,44.3,0.0,28.6,0.0,0.8,Moderate
+hamburger burger king,258,10.4,3.8,26.5,5.5,14.7,2.0,0.5,Healthy
+big n tasty mcdonalds,524,31.7,8.6,38.5,8.8,24.7,3.2,0.7,Junk
+roast beef sandwich,364,15.3,5.1,33.1,5.7,22.6,1.9,1.0,Moderate
+roast beef sandwich with cheese,473,18.0,9.0,45.4,0.0,32.2,0.0,1.6,Moderate
+hamburger,255,9.9,3.5,28.7,5.8,12.9,1.7,0.5,Healthy
+premium fish sandwich burger king,572,27.4,4.3,58.7,7.8,22.6,2.0,1.3,Moderate
+whopper burger king,790,48.4,18.3,52.8,13.0,35.4,3.2,1.4,Junk
+sandwich with tuna salad,584,28.0,5.3,55.4,0.0,29.7,0.0,1.3,Moderate
+original chicken sandwich burger king,569,29.2,5.4,52.2,6.0,24.2,4.8,1.3,Junk
+double whopper burger king,942,58.6,21.6,51.4,13.2,52.1,5.2,1.1,Moderate
+premium crispy chicken club sandwich mcdonalds,635,29.9,8.5,57.4,12.7,39.1,3.0,1.2,Junk
+hamburger mcdonalds,251,9.6,3.3,28.8,5.7,12.3,1.2,0.5,Healthy
+pepperoni pizza dominos,308,12.6,5.4,36.0,4.2,12.7,2.4,0.7,Healthy
+sausage pizza,325,14.3,5.8,35.5,3.9,13.3,2.7,0.7,Healthy
+pepperoni pizza,313,13.2,5.7,35.5,3.6,13.0,2.6,0.8,Healthy
+pepperoni pizza pizza hut,269,10.9,5.0,30.3,3.5,12.3,1.6,0.8,Healthy
+cheese pizza pizza hut,260,10.5,4.8,30.0,3.2,11.5,1.7,0.7,Healthy
+cheese pizza,285,10.4,4.8,35.7,3.8,12.2,2.5,0.6,Healthy
+cheese pizza dominos,278,9.7,4.4,35.9,4.3,11.7,2.4,0.6,Healthy
+meat vegetable pizza,332,14.8,6.0,34.5,5.1,15.0,3.0,0.8,Moderate
+sucker raw,146,3.7,0.7,0.0,0.0,26.6,0.0,0.0,Healthy
+northern pike raw,348,2.7,0.5,0.0,0.0,76.3,0.0,0.2,Healthy
+haddock cooked,135,0.8,0.2,0.0,0.0,30.0,0.0,0.4,Healthy
+burbot cooked,104,0.9,0.2,0.0,0.0,22.3,0.0,0.1,Healthy
+pollock cooked,356,3.8,0.5,0.0,0.0,75.3,0.0,0.3,Healthy
+rainbow smelt raw,27,0.7,0.1,0.0,0.0,5.0,0.0,0.019,Healthy
+whitefish cooked,265,11.6,1.8,0.0,0.0,37.7,0.0,0.1,Healthy
+walleye pike raw,148,1.9,0.4,0.0,0.0,30.4,0.0,0.011,Healthy
+carp cooked,275,12.2,2.4,0.0,0.0,38.9,0.0,0.1,Healthy
+wolffish cooked,293,7.3,1.1,0.0,0.0,53.4,0.0,0.3,Healthy
+snapper cooked,218,2.9,0.6,0.0,0.0,44.7,0.0,0.066,Healthy
+roe cooked,58,2.3,0.5,0.5,0.0,8.1,0.0,0.055,Healthy
+anchovy raw,37,1.4,0.4,0.0,0.0,5.8,0.0,0.012,Healthy
+herring raw,291,16.6,3.8,0.0,0.0,33.0,0.0,0.2,Healthy
+cod raw,189,1.5,0.3,0.0,0.0,41.1,0.0,0.1,Healthy
+tilapia raw,111,2.0,0.7,0.0,0.0,23.3,0.0,0.009,Healthy
+whiting cooked,84,1.2,0.3,0.0,0.0,16.9,0.0,0.018,Healthy
+skipjack tuna cooked,407,4.0,1.3,0.0,0.0,86.9,0.0,0.1,Healthy
+salmon cooked,733,44.0,8.5,0.0,0.0,78.7,0.0,0.2,Moderate
+chum salmon cooked,474,14.9,3.3,0.0,0.0,79.5,0.0,0.2,Healthy
+american shad cooked,363,25.4,0.0,0.0,0.0,31.3,0.0,0.043,Healthy
+shark cooked,65,3.9,0.9,1.8,0.0,5.3,0.0,0.068,Healthy
+trout cooked,118,5.3,0.9,0.0,0.0,16.5,0.0,0.027,Healthy
+swordfish raw,196,9.0,2.2,0.0,0.0,26.7,0.0,0.1,Healthy
+rainbow trout cooked,119,5.2,1.2,0.0,0.0,16.9,0.0,0.041,Healthy
+fish sandwich with cheese,374,19.6,3.8,35.4,4.9,15.1,0.0,0.6,Healthy
+jellyfish dried,21,0.8,0.2,0.0,0.0,3.2,0.0,5.6,Healthy
+mullet raw,139,4.5,1.3,0.0,0.0,23.0,0.0,0.098,Healthy
+halibut cooked,353,5.1,1.1,0.0,0.0,71.7,0.0,0.3,Healthy
+lingcod raw,213,2.7,0.5,0.0,0.0,44.2,0.0,0.1,Healthy
+orange roughy cooked,30,0.3,0.046,0.0,0.0,6.4,0.0,0.079,Healthy
+cisco raw,77,1.5,0.3,0.0,0.0,15.0,0.0,0.042,Healthy
+florida pompano cooked,186,10.7,4.0,0.0,0.0,20.8,0.0,0.05,Healthy
+snapper raw,218,2.9,0.6,0.0,0.0,44.7,0.0,0.1,Healthy
+fish sandwich,565,27.4,4.3,58.7,7.8,22.6,0.0,1.3,Moderate
+haddock raw,143,0.9,0.2,0.0,0.0,31.5,0.0,0.4,Healthy
+ocean perch raw,51,1.0,0.2,0.0,0.0,9.8,0.0,0.2,Healthy
+cuttlefish cooked,45,0.4,0.08,0.5,0.0,9.2,0.0,0.2,Healthy
+cod cooked,189,1.5,0.3,0.0,0.0,41.1,0.0,0.1,Healthy
+seatrout raw,248,8.6,2.4,0.0,0.0,39.8,0.0,0.1,Healthy
+flounder raw,114,3.1,0.7,0.0,0.0,20.2,0.0,0.5,Healthy
+spot cooked,79,3.1,0.9,0.0,0.0,11.9,0.0,0.022,Healthy
+walleye pike cooked,148,1.9,0.4,0.0,0.0,30.4,0.0,0.069,Healthy
+perch raw,55,0.6,0.1,0.0,0.0,11.6,0.0,0.037,Healthy
+pumpkin seed sunfish raw,43,0.3,0.051,0.0,0.0,9.3,0.0,0.06,Healthy
+salt mackerel,415,34.1,9.7,0.0,0.0,25.2,0.0,6.1,Moderate
+mackerel cooked,231,15.7,3.7,0.0,0.0,21.0,0.0,0.064,Healthy
+tilapia cooked,111,2.3,0.8,0.0,0.0,22.8,0.0,0.011,Healthy
+drum raw,236,9.8,2.2,0.0,0.0,34.7,0.0,0.1,Healthy
+atlantic croaker fried,192,11.0,3.0,6.6,0.0,15.8,0.3,0.3,Healthy
+pumpkin seed sunfish cooked,42,0.3,0.025,0.0,0.0,9.2,0.0,0.046,Healthy
+wolffish raw,294,7.3,1.1,0.0,0.0,53.6,0.0,0.3,Healthy
+bluefin tuna cooked,276,9.4,2.4,0.0,0.0,44.9,0.0,0.02,Healthy
+scup cooked,68,1.8,0.0,0.0,0.0,12.1,0.0,0.061,Healthy
+herring cooked,290,16.6,3.7,0.0,0.0,32.9,0.0,0.2,Healthy
+bluefish raw,186,6.4,1.4,0.0,0.0,30.1,0.0,0.028,Healthy
+sheepshead cooked,234,3.0,0.7,0.0,0.0,48.4,0.0,0.1,Healthy
+bass cooked,91,2.9,0.6,0.0,0.0,15.0,0.0,0.078,Healthy
+pout cooked,279,3.2,1.1,0.0,0.0,58.4,0.0,0.2,Healthy
+chinook salmon raw,709,41.3,12.3,0.0,0.0,78.9,0.0,0.2,Moderate
+rockfish raw,172,2.6,0.7,0.0,0.0,35.1,0.0,0.1,Healthy
+tilefish raw,371,8.9,1.7,0.0,0.0,67.6,0.0,0.2,Healthy
+scup raw,174,4.5,1.1,0.0,0.0,31.3,0.0,0.082,Healthy
+sablefish cooked,755,59.3,12.4,0.0,0.0,51.9,0.0,0.2,Moderate
+tuna salad,383,19.0,3.2,19.3,0.0,32.9,0.0,0.8,Healthy
+coho salmon cooked,255,11.8,2.8,0.0,0.0,34.7,0.0,0.06,Healthy
+roe raw,20,0.9,0.2,0.2,0.0,3.1,0.0,0.052,Healthy
+sea bass raw,125,2.6,0.7,0.0,0.0,23.8,0.0,0.084,Healthy
+pink salmon cooked,349,12.0,2.2,0.0,0.0,56.0,0.0,0.2,Healthy
+sockeye salmon cooked,493,17.3,3.0,0.0,0.0,82.1,0.0,0.3,Healthy
+whitefish raw,265,11.6,1.8,0.0,0.0,37.8,0.0,0.1,Healthy
+greenland halibut cooked,760,56.4,9.9,0.0,0.0,58.6,0.0,0.3,Moderate
+northern pike cooked,350,2.7,0.5,0.0,0.0,76.5,0.0,0.2,Healthy
+salmon raw,824,53.1,12.1,0.0,0.0,80.9,0.0,0.2,Moderate
+turbot cooked,388,12.0,0.0,0.0,0.0,65.4,0.0,0.6,Healthy
+surimi,28,0.3,0.059,1.9,0.0,4.3,0.0,0.042,Healthy
+chinook salmon cooked,711,41.2,9.9,0.0,0.0,79.2,0.0,0.2,Moderate
+mullet cooked,140,4.5,1.3,0.0,0.0,23.1,0.0,0.001,Healthy
+chum salmon raw,3,0.1,0.08,0.0,0.0,0.6,0.0,0.029,Healthy
+butterfish raw,47,2.6,1.1,0.0,0.0,5.5,0.0,0.072,Healthy
+sea bass cooked,125,2.6,0.7,0.0,0.0,23.9,0.0,0.058,Healthy
+greenland halibut raw,759,56.5,9.9,0.0,0.0,58.6,0.0,0.3,Moderate
+halibut raw,371,5.4,1.2,0.0,0.0,75.7,0.0,0.3,Healthy
+sturgeon cooked,184,7.0,1.6,0.0,0.0,28.2,0.0,0.019,Healthy
+fish fillet fried,211,11.2,2.6,15.4,0.0,13.3,0.5,0.5,Healthy
+rainbow trout raw,111,4.9,1.1,0.0,0.0,15.8,0.0,0.022,Healthy
+pout raw,278,3.2,1.1,0.0,0.0,58.6,0.0,0.2,Healthy
+rainbow smelt cooked,35,0.9,0.2,0.0,0.0,6.4,0.0,0.047,Healthy
+monkfish raw,22,0.4,0.079,0.0,0.0,4.1,0.0,0.059,Healthy
+trout raw,117,5.2,0.9,0.0,0.0,16.4,0.0,0.051,Healthy
+shark raw,37,1.3,0.3,0.0,0.0,5.9,0.0,0.003,Healthy
+burbot raw,104,0.9,0.2,0.0,0.0,22.4,0.0,0.1,Healthy
+dolphinfish cooked,173,1.4,0.4,0.0,0.0,37.7,0.0,0.2,Healthy
+crayfish cooked,25,0.4,0.089,0.0,0.0,5.0,0.0,0.058,Healthy
+dolphinfish raw,173,1.4,0.4,0.0,0.0,37.7,0.0,0.2,Healthy
+perch cooked,54,0.5,0.1,0.0,0.0,11.4,0.0,0.043,Healthy
+cusk raw,106,0.8,0.2,0.0,0.0,23.2,0.0,0.086,Healthy
+bluefin tuna raw,41,1.4,0.4,0.0,0.0,6.6,0.0,0.013,Healthy
+milkfish cooked,54,2.4,0.0,0.0,0.0,7.4,0.0,0.076,Healthy
+carp raw,277,12.2,2.4,0.0,0.0,38.9,0.0,0.1,Healthy
+sturgeon raw,30,1.1,0.3,0.0,0.0,4.6,0.0,0.007,Healthy
+orange roughy raw,22,0.2,0.057,0.0,0.0,4.6,0.0,0.063,Healthy
+catfish fried,199,11.6,2.9,7.0,0.0,15.7,0.6,0.2,Healthy
+cuttlefish raw,22,0.2,0.002,0.2,0.0,4.6,0.0,0.1,Healthy
+bass raw,90,2.9,0.6,0.0,0.0,14.9,0.0,0.055,Healthy
+flounder cooked,109,3.0,0.7,0.0,0.0,19.4,0.0,0.5,Healthy
+milkfish raw,42,1.9,0.5,0.0,0.0,5.8,0.0,0.098,Healthy
+eel raw,375,23.8,4.8,0.0,0.0,37.6,0.0,0.1,Healthy
+catfish raw,189,9.4,2.1,0.0,0.0,24.2,0.0,0.2,Healthy
+fish sticks,78,4.5,1.0,6.1,0.5,3.1,0.4,0.1,Healthy
+coho salmon raw,254,12.2,2.9,0.0,0.0,33.8,0.0,0.054,Healthy
+monkfish cooked,27,0.6,0.0,0.0,0.0,5.3,0.0,0.004,Healthy
+yellowtail cooked,546,19.6,0.0,0.0,0.0,86.6,0.0,0.1,Healthy
+yellowfin tuna cooked,37,0.2,0.054,0.0,0.0,8.2,0.0,0.011,Healthy
+ling cooked,168,1.2,0.0,0.0,0.0,36.8,0.0,0.3,Healthy
+eel cooked,67,4.2,0.9,0.0,0.0,6.7,0.0,0.069,Healthy
+sablefish raw,753,59.1,12.4,0.0,0.0,51.8,0.0,0.2,Moderate
+salmon nuggets,60,3.3,0.4,4.0,0.0,3.6,0.0,0.005,Healthy
+yellowtail raw,546,19.6,4.8,0.0,0.0,86.5,0.0,0.1,Healthy
+butterfish cooked,47,2.6,0.0,0.0,0.0,5.5,0.0,0.042,Healthy
+caviar,42,2.9,0.6,0.6,0.0,3.9,0.0,0.2,Healthy
+pollock raw,355,3.8,0.5,0.0,0.0,75.0,0.0,0.3,Healthy
+catfish cooked,206,10.3,2.3,0.0,0.0,26.4,0.0,0.2,Healthy
+whiting raw,83,1.2,0.2,0.0,0.0,16.8,0.0,0.016,Healthy
+pink salmon raw,404,14.0,2.6,0.0,0.0,65.2,0.0,0.2,Healthy
+yellowfin tuna raw,31,0.1,0.073,0.0,0.0,6.9,0.0,0.049,Healthy
+mackerel raw,230,15.6,3.6,0.0,0.0,20.8,0.0,0.1,Healthy
+turbot raw,388,12.0,3.1,0.0,0.0,65.5,0.0,0.6,Healthy
+cusk cooked,106,0.8,0.0,0.0,0.0,23.1,0.0,0.047,Healthy
+atlantic croaker raw,82,2.5,0.9,0.0,0.0,14.0,0.0,0.014,Healthy
+sucker cooked,148,3.7,0.7,0.0,0.0,26.6,0.0,0.019,Healthy
+spot raw,79,3.1,0.9,0.0,0.0,11.8,0.0,0.022,Healthy
+drum cooked,236,9.7,2.2,0.0,0.0,34.6,0.0,0.1,Healthy
+crayfish raw,3,0.048,0.01,0.0,0.0,0.6,0.0,0.024,Healthy
+tilefish cooked,441,14.1,2.6,0.0,0.0,73.5,0.0,0.2,Healthy
+bluefish cooked,186,6.4,1.4,0.0,0.0,30.1,0.0,0.045,Healthy
+grouper cooked,238,2.6,0.6,0.0,0.0,50.2,0.0,0.1,Healthy
+sheepshead raw,257,5.7,1.4,0.0,0.0,48.1,0.0,0.2,Healthy
+herring kippered,87,4.9,1.1,0.0,0.0,9.8,0.0,0.4,Healthy
+grouper raw,238,2.6,0.6,0.0,0.0,50.2,0.0,0.1,Healthy
+ocean perch cooked,48,0.9,0.2,0.0,0.0,9.3,0.0,0.2,Healthy
+ling raw,168,1.2,0.2,0.0,0.0,36.7,0.0,0.3,Healthy
+lingcod cooked,329,4.1,0.8,0.0,0.0,68.4,0.0,0.2,Healthy
+florida pompano raw,184,10.6,3.9,0.0,0.0,20.7,0.0,0.081,Healthy
+rockfish cooked,162,2.4,0.6,0.0,0.0,33.1,0.0,0.1,Healthy
+seatrout cooked,247,8.6,2.4,0.0,0.0,39.9,0.0,0.1,Healthy
+sockeye salmon raw,562,22.2,4.7,0.0,0.0,84.4,0.0,0.4,Healthy
+swordfish cooked,182,8.4,2.0,0.0,0.0,24.9,0.0,0.1,Healthy
+american shad raw,362,25.3,5.8,0.0,0.0,31.2,0.0,0.001,Healthy
+sardine canned in oil,310,17.1,2.3,0.0,0.0,36.7,0.0,0.5,Healthy
+anchovy canned in oil,8,0.4,0.001,0.0,0.0,1.2,0.0,0.1,Healthy
+salmon canned,520,20.3,5.5,0.0,0.0,79.1,0.0,1.8,Moderate
+sardines in tomato sauce canned,165,9.3,2.4,0.5,0.4,18.6,0.009,0.4,Healthy
+sockeye salmon canned,563,24.9,4.9,0.0,0.0,79.5,0.0,1.4,Healthy
+tuna canned,102,2.4,0.6,0.0,0.0,18.9,0.0,0.3,Healthy
+pink salmon canned,530,20.4,3.5,0.0,0.0,80.9,0.0,1.7,Healthy
+cod canned,328,2.7,0.5,0.0,0.0,71.0,0.0,0.7,Healthy
+eastern oyster canned,110,4.0,1.0,6.3,0.0,11.4,0.0,0.2,Healthy
+chum salmon canned,520,20.3,5.5,0.0,0.0,79.1,0.0,0.3,Moderate
+tuna canned in oil,331,14.4,2.3,0.0,0.0,47.2,0.0,0.7,Healthy
+wild pink salmon oceans,320,16.0,0.0,0.0,0.0,0.0,0.0,0.0,Healthy
+shrimp canned,128,1.7,0.2,0.0,0.0,26.1,0.0,1.1,Healthy
+alaska king crab raw,144,1.0,0.2,0.0,0.0,31.5,0.0,1.4,Healthy
+scallops fried,64,3.2,0.8,6.4,0.0,2.6,0.0,0.2,Healthy
+shrimp cooked,7,0.092,0.023,0.013,0.0,1.3,0.0,0.012,Healthy
+clams fried,19,1.0,0.3,1.0,0.0,1.3,0.0,0.068,Healthy
+alaska king crab cooked,130,2.1,0.2,0.0,0.0,25.9,0.0,1.4,Healthy
+scallops cooked,11,0.058,0.092,0.5,0.0,2.1,0.0,0.06,Healthy
+squid fried,140,6.0,1.5,6.2,0.0,14.4,0.0,0.2,Healthy
+oyster raw,41,1.2,0.3,2.5,0.0,4.7,0.0,0.059,Healthy
+abalone,89,0.6,0.1,5.1,0.0,14.5,0.0,0.3,Healthy
+queen crab raw,25,0.3,0.096,0.0,0.0,5.2,0.0,0.2,Healthy
+whelk cooked,78,0.2,0.003,4.4,0.0,13.5,0.0,0.1,Healthy
+oyster cooked,41,1.2,0.3,2.5,0.0,4.7,0.0,0.066,Healthy
+eastern oyster cooked,8,0.2,0.073,0.7,0.0,0.7,0.0,0.038,Healthy
+blue mussels cooked,344,9.0,1.7,14.8,0.0,47.6,0.0,0.7,Healthy
+octopus raw,23,0.3,0.002,0.6,0.0,4.2,0.0,0.064,Healthy
+spiny lobster cooked,233,3.2,0.5,5.1,0.0,43.0,0.0,0.4,Healthy
+blue mussels raw,129,3.4,0.6,5.5,0.0,17.9,0.0,0.4,Healthy
+queen crab cooked,98,1.3,0.2,0.0,0.0,20.2,0.0,0.6,Healthy
+dungeness crab cooked,140,1.6,0.2,1.2,0.0,28.3,0.0,0.5,Healthy
+dungeness crab raw,140,1.6,0.2,1.2,0.0,28.4,0.0,0.5,Healthy
+shrimp fried,52,3.2,0.7,4.8,0.086,1.3,0.1,0.2,Healthy
+shrimp raw,4,0.023,0.061,0.041,0.0,0.7,0.0,0.083,Healthy
+blue crab cooked,71,0.6,0.2,0.0,0.0,15.2,0.0,0.3,Healthy
+shrimp imitation,29,0.4,0.019,2.6,0.0,3.5,0.0,0.2,Healthy
+conch baked,165,1.5,0.5,2.2,0.0,33.4,0.0,0.2,Healthy
+squid raw,26,0.4,0.1,0.9,0.0,4.4,0.0,0.09,Healthy
+scallop raw,10,0.091,0.089,0.5,0.0,1.8,0.0,0.057,Healthy
+lobster raw,116,1.1,0.3,0.0,0.0,24.8,0.0,0.6,Healthy
+scallop imitation,28,0.1,0.065,3.0,0.0,3.6,0.0,0.2,Healthy
+blue crab raw,18,0.2,0.067,0.018,0.0,3.8,0.0,0.079,Healthy
+whelk raw,39,0.1,0.096,2.2,0.0,6.7,0.0,0.073,Healthy
+spiny lobster raw,234,3.2,0.5,5.1,0.0,43.1,0.0,0.4,Healthy
+clams canned,227,2.5,0.5,9.4,0.0,38.8,0.0,0.2,Healthy
+lobster cooked,134,1.3,0.3,0.0,0.0,28.5,0.0,0.7,Healthy
+eastern oyster fried,29,1.8,0.5,1.7,0.0,1.3,0.0,0.015,Healthy
+clams raw,195,2.2,0.4,8.1,0.0,33.3,0.0,1.4,Healthy
+octopus cooked,139,1.8,0.4,3.7,0.0,25.3,0.0,0.4,Healthy
+eastern oyster raw,8,0.2,0.0,0.8,0.0,0.7,0.0,0.021,Healthy
+oyster fried,61,3.0,0.8,6.7,0.0,2.1,0.0,0.1,Healthy
+sturgeon smoked,49,1.2,0.3,0.0,0.0,8.8,0.0,0.2,Healthy
+chinook salmon smoked,159,5.9,1.3,0.0,0.0,24.9,0.0,1.1,Healthy
+cisco smoked,50,3.4,0.5,0.0,0.0,4.6,0.0,0.1,Healthy
+haddock smoked,33,0.3,0.049,0.0,0.0,7.1,0.0,0.2,Healthy
+whitefish smoked,147,1.3,0.3,0.0,0.0,31.8,0.0,1.4,Healthy
+red salmon sockeye filets smoked,373,12.3,2.8,0.0,0.0,65.5,0.0,0.065,Healthy

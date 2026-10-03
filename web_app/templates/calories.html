@@ -1,0 +1,54 @@
+<h1>Calorie Calculator</h1>
+
+{% if error %}
+<p style="color: red;">{{ error }}</p>
+{% endif %}
+
+<form method="POST">
+
+<input type="text" name="food" placeholder="Enter food name">
+
+<button type="submit">Search</button>
+
+</form>
+
+
+{% if matches is not none and not matches.empty %}
+
+<form method="POST">
+
+<select name="selected_food">
+
+{% for row in matches.itertuples() %}
+
+<option value="{{ row.Index }}">{{ row.food }}</option>
+
+{% endfor %}
+
+</select>
+
+<br><br>
+
+<input type="number" name="mass" placeholder="Mass">
+
+<select name="unit">
+
+<option value="g">g</option>
+<option value="kg">kg</option>
+
+</select>
+
+<br><br>
+
+<button type="submit">Calculate</button>
+
+</form>
+
+{% endif %}
+
+
+{% if result %}
+
+<h3>Total Calories: {{ result }}</h3>
+
+{% endif %}
