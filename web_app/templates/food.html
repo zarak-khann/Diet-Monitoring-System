@@ -1,43 +1,38 @@
-<h1>Food Identifier</h1>
-
-{% if error %}
-<p style="color: red;">{{ error }}</p>
-{% endif %}
-
-<form method="POST">
-
-<input type="text" name="food" placeholder="Enter food name">
-
-<button type="submit">Search</button>
-
-</form>
-
-
-{% if matches is not none and not matches.empty %}
-
-<h3>Select Food</h3>
-
-<form method="POST">
-
-<select name="selected_food">
-
-{% for row in matches.itertuples() %}
-
-<option value="{{ row.Index }}">{{ row.food }}</option>
-
-{% endfor %}
-
-</select>
-
-<button type="submit">Identify</button>
-
-</form>
-
-{% endif %}
-
-
-{% if prediction %}
-
-<h3>Predicted Category: {{ prediction }}</h3>
-
-{% endif %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Food Identifier | NutriTrack</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<nav class="navbar"><a class="logo" href="/"><span class="logo-mark">N</span>NutriTrack</a><div class="nav-links"><a class="nav-link" href="/">Home</a><a class="nav-link active" href="/food">Food identifier</a><a class="nav-link" href="/calories">Calories</a><a class="nav-link" href="/diet">Diet planner</a></div></nav>
+<main class="page">
+    <header class="page-heading"><p class="eyebrow">01 / IDENTIFY</p><h1>What's in your food?</h1><p>Search the food list to see its predicted category and nutrition details.</p></header>
+    <div class="tool-workspace">
+        <section class="form-card">
+            <div class="card-heading"><span class="step-badge">01</span><div><h2>Search by food name</h2><p class="subtitle">Enter a food, then choose the closest match to identify it.</p></div></div>
+            {% if error %}<p class="error" role="alert">{{ error }}</p>{% endif %}
+            <form method="POST" class="search-form">
+                <label for="food">What food should we look up?</label><input id="food" type="text" name="food" placeholder="Try: apple, fries, or yogurt" required>
+                <button type="submit" class="btn">Search foods</button>
+            </form>
+            {% if matches is not none and not matches.empty %}
+            <div class="divider"></div>
+            <form method="POST"><label for="selected-food">Select the matching item</label><select id="selected-food" name="selected_food" required>{% for row in matches.itertuples() %}<option value="{{ row.Index }}">{{ row.food }}</option>{% endfor %}</select><button type="submit" class="btn">Show food category</button></form>
+            {% endif %}
+            {% if prediction %}
+            <div class="result" role="status"><h3>Your identification</h3><p>{{ prediction }}</p>
+                {% if food_details %}<div class="nutrition-facts"><strong>{{ food_details.name }}</strong><span>Category: {{ food_details.category }}</span><span>{{ food_details.calories }} kcal per 100 g</span><span>Protein {{ food_details.protein }} g | Fat {{ food_details.fat }} g | Carbs {{ food_details.carbs }} g</span></div>{% endif %}
+            </div>
+            {% endif %}
+        </section>
+        <aside class="info-panel"><p class="eyebrow">HOW IT WORKS</p><h2>From name to insight</h2>
+            <ol class="steps-list"><li><span>1</span><div><strong>Search</strong><p>Type all or part of a food name.</p></div></li><li><span>2</span><div><strong>Choose</strong><p>Select the matching food from the results.</p></div></li><li><span>3</span><div><strong>Understand</strong><p>Review its predicted category and nutrition details.</p></div></li></ol>
+            <p class="panel-note">The food model provides a category prediction as a helpful guide.</p>
+        </aside>
+    </div>
+</main>
+<footer class="site-footer"><span class="footer-brand">NutriTrack</span><span>Make informed choices, one meal at a time.</span></footer>
+</body>
+</html>

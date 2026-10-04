@@ -1,83 +1,40 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="en">
 <head>
-    <title>Diet Recommender</title>
+    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Diet Planner | NutriTrack</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
-
 <body>
-
-<h1>Diet Recommendation</h1>
-
-{% if error %}
-<p style="color: red;">{{ error }}</p>
-{% endif %}
-
-<form method="POST">
-
-<label>Age</label>
-<input type="number" name="age" required>
-<br><br>
-
-<label>Height (cm)</label>
-<input type="number" name="height" required>
-<br><br>
-
-<label>Weight (kg)</label>
-<input type="number" name="weight" required>
-<br><br>
-
-<label>Gender</label>
-<select name="gender">
-<option value="male">Male</option>
-<option value="female">Female</option>
-</select>
-
-<br><br>
-
-<label>Activity Level</label>
-<select name="activity">
-<option value="sedentary">Sedentary</option>
-<option value="light">Light Exercise</option>
-<option value="moderate">Moderate Exercise</option>
-<option value="active">Very Active</option>
-</select>
-
-<br><br>
-
-<label>Goal</label>
-<select name="goal">
-<option value="loss">Lose Weight</option>
-<option value="maintain">Maintain Weight</option>
-<option value="gain">Gain Weight</option>
-</select>
-
-<br><br>
-
-<button type="submit">Get Recommendation</button>
-
-</form>
-
-
-<!-- ⭐ RESULT DISPLAY GOES HERE -->
-
-{% if result %}
-
-<h3>{{ result }}</h3>
-
-{% endif %}
-
-{% if diet_plan %}
-
-<h3>Recommended Diet Plan</h3>
-
-<pre>{{ diet_plan }}</pre>
-
-{% endif %}
-
-
-<br>
-<a href="/">Back to Home</a>
-
+<nav class="navbar"><a class="logo" href="/"><span class="logo-mark">N</span>NutriTrack</a><div class="nav-links"><a class="nav-link" href="/">Home</a><a class="nav-link" href="/food">Food identifier</a><a class="nav-link" href="/calories">Calories</a><a class="nav-link active" href="/diet">Diet planner</a></div></nav>
+<main class="page">
+    <header class="page-heading"><p class="eyebrow">03 / PLAN</p><h1>A plan that starts with you.</h1><p>Share a few details to get a daily calorie estimate and meal-by-meal food ideas.</p></header>
+    {% if error %}<p class="error" role="alert">{{ error }}</p>{% endif %}
+    <div class="diet-layout">
+        <section class="form-card">
+            <div class="card-heading"><span class="step-badge diet-badge">03</span><div><h2>Your starting point</h2><p class="subtitle">Use your current measurements and typical activity level.</p></div></div>
+            <form method="POST">
+                <div class="form-grid">
+                    <div><label for="age">Age</label><input id="age" type="number" name="age" min="1" max="120" placeholder="Years" required></div>
+                    <div><label for="gender">Gender</label><select id="gender" name="gender"><option value="male">Male</option><option value="female">Female</option></select></div>
+                    <div><label for="height">Height</label><input id="height" type="number" name="height" min="1" step="any" placeholder="Centimeters" required></div>
+                    <div><label for="weight">Weight</label><input id="weight" type="number" name="weight" min="1" step="any" placeholder="Kilograms" required></div>
+                    <div><label for="activity">Typical activity</label><select id="activity" name="activity"><option value="sedentary">Mostly sitting</option><option value="light">Light exercise</option><option value="moderate">Moderate exercise</option><option value="active">Very active</option><option value="very_active">Extra active</option></select></div>
+                    <div><label for="goal">Your goal</label><select id="goal" name="goal"><option value="loss">Lose weight</option><option value="maintain">Maintain weight</option><option value="gain">Gain weight</option></select></div>
+                </div>
+                <button type="submit" class="btn">Create my estimate</button>
+            </form>
+        </section>
+        <aside class="info-panel diet-info">
+            <p class="eyebrow">YOUR PERSONAL GUIDE</p><h2>Build a useful starting point</h2>
+            {% if result %}<div class="result diet-result" role="status"><p class="eyebrow">YOUR ESTIMATE</p><h3>{{ result }}</h3>{% if diet_plan %}<div class="result-plan">{{ diet_plan }}</div>{% endif %}</div>
+            {% else %}
+            <ol class="steps-list"><li><span>1</span><div><strong>Tell us about you</strong><p>Age, height, weight, and activity guide the estimate.</p></div></li><li><span>2</span><div><strong>Choose a goal</strong><p>Set whether you want to lose, maintain, or gain weight.</p></div></li><li><span>3</span><div><strong>Review your guide</strong><p>See a calorie estimate and food suggestions grouped by meal.</p></div></li></ol>
+            <p class="panel-note">Use the results as a general planning aid. Individual nutrition needs can vary.</p>
+            {% endif %}
+        </aside>
+    </div>
+</main>
+<footer class="site-footer"><span class="footer-brand">NutriTrack</span><span>Make informed choices, one meal at a time.</span></footer>
 </body>
 </html>

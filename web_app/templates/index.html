@@ -1,30 +1,66 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Diet Monitoring System</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#153b32">
+    <title>NutriTrack | Your food, in focus</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
+<body class="home-page">
+<nav class="navbar">
+    <a class="logo" href="/"><span class="logo-mark">N</span><span>NutriTrack</span></a>
+    <div class="nav-links">
+        <a class="nav-link active" href="/">Home</a>
+        <a class="nav-link" href="/food">Food identifier</a>
+        <a class="nav-link" href="/calories">Calorie calculator</a>
+        <a class="nav-link" href="/diet">Diet planner</a>
+    </div>
+</nav>
 
-<body>
+<main>
+    <section class="hero">
+        <div class="hero-content">
+            <span class="hero-kicker"><span class="status-dot"></span> YOUR EVERYDAY NUTRITION COMPANION</span>
+            <h1>Eat well.<br><span>Know more.</span></h1>
+            <p>Good choices start with good information. Pick a tool below and make your next food decision with confidence.</p>
+            <a href="#tools" class="hero-cta">Explore your tools <span aria-hidden="true">↓</span></a>
+        </div>
+        <div class="hero-art" aria-hidden="true">
+            <div class="art-ring ring-one"></div><div class="art-ring ring-two"></div>
+            <div class="art-leaf">+</div>
+            <div class="art-caption"><span>YOUR HEALTH</span><strong>One choice at a time.</strong></div>
+        </div>
+        <div class="hero-bottom"><span>FOOD</span><i></i><span>ENERGY</span><i></i><span>WELLBEING</span></div>
+    </section>
 
-<h1>Diet Monitoring System</h1>
-
-<h2>Select a Feature</h2>
-
-<a href="/food">
-    <button>Food Identifier</button>
-</a>
-
-<br><br>
-
-<a href="/calories">
-    <button>Calorie Calculator</button>
-</a>
-
-<br><br>
-
-<a href="/diet">
-    <button>Diet Recommender</button>
-</a>
-
+    <section class="tools-section" id="tools">
+        <div class="section-heading">
+            <div><p class="eyebrow">CHOOSE YOUR NEXT STEP</p><h2>Three tools. One healthier you.</h2></div>
+            <p>Start with what you need today.</p>
+        </div>
+        <div class="tool-grid">
+            <article class="tool-card food-card">
+                <div class="tool-top"><span class="tool-number">01 / IDENTIFY</span><span class="tool-icon" aria-hidden="true">F</span></div>
+                <h3>Food identifier</h3>
+                <p>Search for a food and see how it is categorized. Find out whether an item is marked as junk or belongs to another food category.</p>
+                <a class="tool-link" href="/food">Identify a food <span aria-hidden="true">-></span></a>
+            </article>
+            <article class="tool-card calorie-card">
+                <div class="tool-top"><span class="tool-number">02 / CALCULATE</span><span class="tool-icon" aria-hidden="true">C</span></div>
+                <h3>Calorie calculator</h3>
+                <p>Choose a food, enter your serving size, and get an estimate of the calories in the amount you plan to eat.</p>
+                <a class="tool-link" href="/calories">Calculate calories <span aria-hidden="true">-></span></a>
+            </article>
+            <article class="tool-card diet-card">
+                <div class="tool-top"><span class="tool-number">03 / PLAN</span><span class="tool-icon" aria-hidden="true">D</span></div>
+                <h3>Diet planner</h3>
+                <p>Enter your age, measurements, activity, and goal to get a daily calorie estimate and meal-by-meal food ideas.</p>
+                <a class="tool-link" href="/diet">Plan my diet <span aria-hidden="true">-></span></a>
+            </article>
+        </div>
+    </section>
+</main>
+<footer class="site-footer"><span class="footer-brand">NutriTrack</span><span>Make informed choices, one meal at a time.</span></footer>
 </body>
 </html>

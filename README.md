@@ -239,6 +239,22 @@ Then visit:
 http://127.0.0.1:5000
 ```
 
+When running in GitHub Codespaces, start the application with:
+
+```bash
+python web_app/app.py
+```
+
+The application listens on `0.0.0.0:5000`, so Codespaces can forward port
+`5000`. Open the forwarded port from the **Ports** tab, or use the generated
+forwarded URL. If port `5000` is already in use, choose another port:
+
+```bash
+PORT=5001 python web_app/app.py
+```
+
+Then open the forwarded port shown by Codespaces.
+
 ## Rebuilding the Dataset and Model
 
 If the dataset is modified, the project includes scripts for rebuilding the processed dataset and retraining the food-classification model.

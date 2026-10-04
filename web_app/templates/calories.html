@@ -1,54 +1,35 @@
-<h1>Calorie Calculator</h1>
-
-{% if error %}
-<p style="color: red;">{{ error }}</p>
-{% endif %}
-
-<form method="POST">
-
-<input type="text" name="food" placeholder="Enter food name">
-
-<button type="submit">Search</button>
-
-</form>
-
-
-{% if matches is not none and not matches.empty %}
-
-<form method="POST">
-
-<select name="selected_food">
-
-{% for row in matches.itertuples() %}
-
-<option value="{{ row.Index }}">{{ row.food }}</option>
-
-{% endfor %}
-
-</select>
-
-<br><br>
-
-<input type="number" name="mass" placeholder="Mass">
-
-<select name="unit">
-
-<option value="g">g</option>
-<option value="kg">kg</option>
-
-</select>
-
-<br><br>
-
-<button type="submit">Calculate</button>
-
-</form>
-
-{% endif %}
-
-
-{% if result %}
-
-<h3>Total Calories: {{ result }}</h3>
-
-{% endif %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Calorie Calculator | NutriTrack</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<nav class="navbar"><a class="logo" href="/"><span class="logo-mark">N</span>NutriTrack</a><div class="nav-links"><a class="nav-link" href="/">Home</a><a class="nav-link" href="/food">Food identifier</a><a class="nav-link active" href="/calories">Calories</a><a class="nav-link" href="/diet">Diet planner</a></div></nav>
+<main class="page">
+    <header class="page-heading"><p class="eyebrow">02 / CALCULATE</p><h1>Make servings make sense.</h1><p>See how the portion you eat changes the calorie estimate.</p></header>
+    <div class="tool-workspace">
+        <section class="form-card">
+            <div class="card-heading"><span class="step-badge coral-badge">02</span><div><h2>Calculate a serving</h2><p class="subtitle">Find your food first, then enter the amount you plan to eat.</p></div></div>
+            {% if error %}<p class="error" role="alert">{{ error }}</p>{% endif %}
+            <form method="POST" class="search-form"><label for="food">Search food</label><input id="food" type="text" name="food" placeholder="Try: banana or brown rice" required><button type="submit" class="btn">Find food</button></form>
+            {% if matches is not none and not matches.empty %}
+            <div class="divider"></div>
+            <form method="POST">
+                <label for="selected-food">Choose the matching food</label><select id="selected-food" name="selected_food" required>{% for row in matches.itertuples() %}<option value="{{ row.Index }}">{{ row.food }}</option>{% endfor %}</select>
+                <div class="form-grid"><div><label for="mass">How much will you eat?</label><input id="mass" type="number" name="mass" min="0.01" step="any" placeholder="For example, 150" required></div><div><label for="unit">Measurement</label><select id="unit" name="unit"><option value="g">Grams (g)</option><option value="kg">Kilograms (kg)</option></select></div></div>
+                <button type="submit" class="btn">Calculate my serving</button>
+            </form>
+            {% endif %}
+            {% if result is not none %}<div class="result calorie-result" role="status"><p class="eyebrow">YOUR ESTIMATE</p><h3>{{ result }} kcal</h3><p>Estimated calories for the food and serving amount you selected.</p></div>{% endif %}
+        </section>
+        <aside class="info-panel calorie-info"><p class="eyebrow">A QUICK GUIDE</p><h2>Small details matter</h2>
+            <div class="portion-example"><span class="portion-number">100</span><span class="portion-unit">grams</span><p>Food nutrition values are listed per 100 g. Your total estimate adjusts to the serving size you enter.</p></div>
+            <p class="panel-note">We calculate the estimate from the selected food's nutrition data and your serving weight.</p>
+        </aside>
+    </div>
+</main>
+<footer class="site-footer"><span class="footer-brand">NutriTrack</span><span>Make informed choices, one meal at a time.</span></footer>
+</body>
+</html>
